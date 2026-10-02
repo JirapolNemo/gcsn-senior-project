@@ -1,0 +1,1013 @@
+name,code,country,subregion,region,lat,lon
+Aalborg,DKAAL,Denmark,"Europe / Mediterranean","Europe / Mediterranean",57.0695,9.986
+Aalesund,NOAES,Norway,"Europe / Mediterranean","Europe / Mediterranean",62.469446999999995,6.137165999999999
+Aarhus,DKAAR,Denmark,"Europe / Mediterranean","Europe / Mediterranean",56.14999999999998,10.216700000000005
+Aasiaat,GLJEG,Greenland,"East Coast of North America","North America",68.70907199999998,-52.87239799999998
+Aberdeen,GBABD,"United Kingdom","Europe / Mediterranean","Europe / Mediterranean",57.150000000000006,-2.0832999999999933
+Abidjan,CIABJ,"Ivory Coast","West Africa",Africa,5.249999999999996,-4.016700000000009
+"Abu Dhabi",AEAUH,"United Arab Emirates","Middle East/Indian Subcontinent",Asia,24.533299999999986,54.3833
+Acajutla,SVAQJ,"El Salvador","West Coast of Central America","Central America & Caribbean",13.576386451721197,-89.8400421142578
+Acapulco,MXACA,Mexico,"West Coast of North America","North America",16.849999999999987,-99.9333
+Adelaide,AUADL,Australia,Oceania,Oceania,-34.79916667,138.5125
+Aden,YEADE,Yemen,"Middle East/Indian Subcontinent",Asia,12.783300000000002,44.95
+"Aegion Greece",GRAIY,Greece,"Europe / Mediterranean","Europe / Mediterranean",38.25000000000001,22.083332999999996
+Agadir,MAAGA,Morocco,"Europe / Mediterranean","Europe / Mediterranean",30.416699999999988,-9.633300000000006
+Ahus,SEAHU,Sweden,"Europe / Mediterranean","Europe / Mediterranean",55.92982000000001,14.322694
+"Akita (N Coast)",JPAXT,Japan,"East Asia",Asia,39.749999999999986,140.06669999999997
+"Akureyri Iceland",ISAKU,Iceland,"Europe / Mediterranean","Europe / Mediterranean",65.69350000000001,-18.090489999999996
+"Al Adabiyah",EGADA,Egypt,"Middle East/Indian Subcontinent",Asia,29.866700000000005,32.466699999999996
+Alexandria,EGALY,Egypt,"Europe / Mediterranean","Europe / Mediterranean",31.183055999999986,29.866667
+Algeciras,ESALG,Spain,"Europe / Mediterranean","Europe / Mediterranean",36.133300000000006,-5.4332999999999885
+Algiers,DZALG,Algeria,"North Africa",Africa,36.78105599999999,3.063171000000007
+Aliaga,TRALI,Turkey,"Europe / Mediterranean","Europe / Mediterranean",38.81750000000001,26.949166999999992
+Alicante,ESALC,Spain,"Europe / Mediterranean","Europe / Mediterranean",38.333299999999994,-0.4832999999999908
+"Alligator Bay",BSLGI,Bahamas,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",23.446943999999984,-75.229167
+Almeria,ESLEI,Spain,"Europe / Mediterranean","Europe / Mediterranean",36.833399,-2.4665739999999996
+Almirante,PAPAM,Panama,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",9.289999961853031,-82.38777923583983
+Alotau,PGGUR,"Papua New Guinea",Oceania,Oceania,-10.316699999999997,150.44999999999996
+Altamira,MXATM,Mexico,"East Coast of North America","North America",22.483299999999993,-97.84999999999998
+Amsterdam,NLAMS,Netherlands,"Europe / Mediterranean","Europe / Mediterranean",52.3667,4.9
+"Anchorage AK",USANC,"United States","West Coast of North America","North America",61.21669999999999,-149.89999999999998
+Ancona,ITAOI,Italy,"Europe / Mediterranean","Europe / Mediterranean",43.62238800000001,13.50800800000001
+Anguilla,AIRBY,"Anguilla (UK)","East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",18.198102999999985,-63.093078000000006
+Annaba,DZAAE,Algeria,"North Africa",Africa,36.899134000000004,7.775609999999993
+Antalya,TRAYT,Turkey,"Europe / Mediterranean","Europe / Mediterranean",36.83651199999999,30.610901000000005
+Antofagasta,CLANF,Chile,"West Coast of South America","South America",-23.65000000000001,-70.4167
+Antonina,BRPFX,Brazil,"East Coast of South America","South America",-25.433300000000006,-48.699999999999996
+"Antsiranana/Diego Suarez",MGDIE,Madagascar,"East Africa",Africa,-12.275000000000006,49.28805599999998
+Antwerp,BEANR,Belgium,"Europe / Mediterranean","Europe / Mediterranean",51.233299999999986,4.400000000000007
+Apapa,NGAPP,Nigeria,"West Africa",Africa,6.445277778000006,3.426111110999991
+"Apia, W. Samoa",WSAPW,Samoa,Oceania,Oceania,-13.650000000000007,-171.7667
+Aqaba,JOAQB,Jordan,"Middle East/Indian Subcontinent",Asia,29.51833332999999,34.997777779999986
+Argentia,CANWP,Canada,"East Coast of North America","North America",47.3,-53.98329999999999
+Arica,CLARI,Chile,"West Coast of South America","South America",-18.466700000000007,-70.3333
+Arrecife,ESACE,"Canary Islands (Spain)","West Africa",Africa,28.96388900000001,-13.535556000000009
+Aruba,AWORJ,Aruba,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",12.51999999999999,-70.04194399999999
+"Arzew Algeria",DZAZW,Algeria,"North Africa",Africa,35.84835306238364,-0.3021663121192834
+Ashdod,ILASH,Israel,"Europe / Mediterranean","Europe / Mediterranean",31.81670000000001,34.650000000000006
+"Atlanta GA",USATL,"United States","East Coast of North America","North America",,
+Auckland,NZAKL,"New Zealand",Oceania,Oceania,-36.85,174.7667
+Aviles,ESAVS,Spain,"Europe / Mediterranean","Europe / Mediterranean",43.599999999999994,-5.933300000000008
+Azov,RUAZO,Russia,"Europe / Mediterranean","Europe / Mediterranean",,
+"Bahia Blanca",ARBHI,Argentina,"East Coast of South America","South America",-38.7833,-62.266699999999986
+Balboa,PABLB,Panama,"West Coast of Central America","Central America & Caribbean",8.957593917846685,-79.56546783447266
+"Baltimore MD",USBAL,"United States","East Coast of North America","North America",39.2667,-76.5833
+Banana,CDBNW,"Democratic Republic of Congo","West Africa",Africa,-6.016700000000003,12.39999999999999
+"Bandar Abbas",IRBND,Iran,"Middle East/Indian Subcontinent",Asia,27.14083333,56.20666666999999
+"Bandar Assaluyeh",IRASA,Iran,"Middle East/Indian Subcontinent",Asia,27.666667000000004,52.349999999999994
+"Bandar Khomeini",IRBKM,Iran,"Middle East/Indian Subcontinent",Asia,30.43330000000001,49.083299999999994
+"Bangkok (Old Port)",THBKK,Thailand,"Southeast Asia",Asia,13.749999999999993,100.5
+Banjarmasin,IDBDJ,Indonesia,"Southeast Asia",Asia,-3.321944000000004,114.55833299999999
+Banjul,GMBJL,Gambia,"West Africa",Africa,13.449999999999998,-16.56669999999999
+Bar,MEBAR,Montenegro,"Europe / Mediterranean","Europe / Mediterranean",,
+Barcadera,AWBAR,Aruba,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",12.480261999999994,-69.997664
+Barcelona,ESBCN,Spain,"Europe / Mediterranean","Europe / Mediterranean",41.349999999999994,2.1666999999999965
+Bari,ITBRI,Italy,"Europe / Mediterranean","Europe / Mediterranean",41.132733,16.866984000000002
+Barranquilla,COBAQ,Colombia,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",10.966699999999992,-74.7667
+"Basse Terre",GPBBR,Guadeloupe,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",15.999999999999991,-61.733299999999986
+"Basseterre, St Kitts",KNBAS,"St Kitts and Nevis","East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",17.3,-62.71669999999998
+Bata,GQBSG,"Equatorial Guinea","West Africa",Africa,1.866700000000005,9.766700000000007
+Batangas,PHBTG,Philippines,"Southeast Asia",Asia,13.747499999999992,121.01222199999998
+"Batsfjord Norway",NOBJF,Norway,"Europe / Mediterranean","Europe / Mediterranean",70.63528199999999,29.728006999999998
+Batumi,GEBUS,Georgia,"Europe / Mediterranean","Europe / Mediterranean",41.650897999999984,41.656304999999996
+Bayuquan,CNBYQ,China,"East Asia",Asia,40.25361799999999,122.08032399999998
+"Beaumont TX",USBPT,"United States","East Coast of North America","North America",30.08330000000001,-94.08329999999998
+Beira,MZBEW,Mozambique,"East Africa",Africa,-19.833300000000012,34.833299999999994
+Beirut,LBBEY,Lebanon,"Europe / Mediterranean","Europe / Mediterranean",33.905,35.52111110999998
+Bejaia,DZBJA,Algeria,"North Africa",Africa,,
+Belawan,IDBLW,Indonesia,"Southeast Asia",Asia,3.783300000000001,98.68329999999997
+Belem,BRBEL,Brazil,"East Coast of South America","South America",-1.45,-48.499999999999986
+Belfast,GBBEL,Ireland,"Europe / Mediterranean","Europe / Mediterranean",54.617399000000006,-5.906069999999999
+"Belize City",BZBZE,Belize,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",17.475980758666996,-88.20301055908202
+"Bell Bay, TAS",AUBEL,Australia,Oceania,Oceania,-41.136944,146.86
+"Benete Bay",IDBEN,Indonesia,"Southeast Asia",Asia,-8.90000000000001,116.75000000000001
+"Benicia CA",USBNC,"United States","West Coast of North America","North America",38.044909761621085,-122.15654152832036
+Berbera,SOBBO,Somalia,"East Africa",Africa,10.438594999999996,44.99827199999999
+Bergen,NOBGO,Norway,"Europe / Mediterranean","Europe / Mediterranean",60.39189100000001,5.310870999999999
+"Bialla, New Britain",PGBAA,"Papua New Guinea",Oceania,Oceania,-5.306944000000007,151.00694399999998
+"Big Creek",BZBGK,Belize,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",16.516666999999995,-88.4
+Bilbao,ESBIO,Spain,"Europe / Mediterranean","Europe / Mediterranean",43.26670000000001,-2.9499999999999944
+Bingazi,LYBEN,Libya,"Europe / Mediterranean","Europe / Mediterranean",32.120145,20.05281499999998
+"Bintulu, Sarawak",MYBTU,Malaysia,"Southeast Asia",Asia,3.0499999999999927,113.13329999999999
+Bissau,GWOXB,Guinea,"West Africa",Africa,11.866699999999996,-15.633299999999986
+"Bitung Sulawesi",IDBIT,Indonesia,"Southeast Asia",Asia,1.4332999999999967,125.18329999999995
+Bizerte,TNBIZ,Tunisia,"North Africa",Africa,,
+"Blowing Point",AIBLP,"Anguilla (UK)","East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",18.171454181754072,-63.09298009490684
+Bluff,NZBLU,"New Zealand",Oceania,Oceania,-46.60000000000001,168.33329999999995
+"Boca Chica",DOBCC,"Dominican Republic","East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",18.44216728210449,-69.62936401367188
+Boma,CDBOA,"Democratic Republic of Congo","West Africa",Africa,-5.85000000000001,13.05
+Bonaire,BQKRA,Bonaire,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",12.148333000000008,-68.2775
+"Boston MA",USBOS,"United States","East Coast of North America","North America",42.35,-71.05
+Boulogne,FRBOL,France,"Europe / Mediterranean","Europe / Mediterranean",50.733299999999986,1.600000000000002
+Bremen,DEBRE,Germany,"Europe / Mediterranean","Europe / Mediterranean",53.11670000000001,8.716699999999996
+Bremerhaven,DEBRV,Germany,"Europe / Mediterranean","Europe / Mediterranean",53.55,8.583299999999994
+Brest,FRBES,France,"Europe / Mediterranean","Europe / Mediterranean",48.375552,-4.5076089999999995
+Breves,BRBVS,Brazil,"East Coast of South America","South America",-1.6884109999999986,-50.48339000000001
+Brevik,NOBVK,Norway,"Europe / Mediterranean","Europe / Mediterranean",59.06049999999998,9.7
+"Bridgeport CT",USBDR,"United States","East Coast of North America","North America",41.1667,-73.18329999999999
+Bridgetown,BBBGI,Barbados,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",13.099999999999994,-59.6333
+Brisbane,AUBNE,Australia,Oceania,Oceania,-27.466700000000003,153.03330000000003
+Bristol,GBBRS,"United Kingdom","Europe / Mediterranean","Europe / Mediterranean",51.4667,-2.5332999999999903
+"Bronka Port",RUBNK,Russia,"Europe / Mediterranean","Europe / Mediterranean",,
+"Brownsville TX",USBRO,"United States","East Coast of North America","North America",25.949999999999985,-97.39999999999999
+"Brunswick GA",USSSI,"United States","East Coast of North America","North America",31.14999999999999,-81.5
+Buenaventura,COBUN,Colombia,"West Coast of South America","South America",3.8999999999999977,-77.0833
+"Buenos Aires",ARBUE,Argentina,"East Coast of South America","South America",-34.600000000000016,-58.366700000000016
+Burgas,BGBOJ,Bulgaria,"Europe / Mediterranean","Europe / Mediterranean",42.483670000000004,27.470821999999988
+"Burnie, TAS",AUBWT,Australia,Oceania,Oceania,-41.05,145.95
+"Burns Harbor IN",USBNB,"United States","East Coast of North America","North America",41.63888900000001,-87.154722
+Busan,KRPUS,"South Korea","East Asia",Asia,35.1,129.0333
+Cabedelo,BRCDO,Brazil,"East Coast of South America","South America",-6.966700000000006,-34.833299999999994
+Cabinda,AOCAB,Angola,"West Africa",Africa,-5.533299999999994,12.200000000000005
+Cadiz,ESCAD,Spain,"Europe / Mediterranean","Europe / Mediterranean",36.53329999999998,-6.299999999999989
+Caen,FRCFR,France,"Europe / Mediterranean","Europe / Mediterranean",49.18330000000001,-0.3500000000000037
+"Cagayan de Oro",PHCGY,Philippines,"Southeast Asia",Asia,8.506388999999999,124.65833299999998
+Cagliari,ITCAG,Italy,"Europe / Mediterranean","Europe / Mediterranean",39.216699999999996,9.116699999999998
+"Cai Lan",VNCLN,Vietnam,"Southeast Asia",Asia,20.709999999999994,107.17999999999999
+"Cai Mep",VNVUT,Vietnam,"Southeast Asia",Asia,10.79388889,106.72472220000002
+Callao,PECLL,Peru,"West Coast of South America","South America",-12.050000000000002,-77.14999999999999
+"Camden NJ",USCAT,"United States","East Coast of North America","North America",39.95,-75.13329999999999
+"Canical Madeira",PTCNL,Portugal,"Europe / Mediterranean","Europe / Mediterranean",32.643056,-16.912500000000005
+"Cape Town",ZACPT,"South Africa","Southern Africa",Africa,-33.9,18.433299999999996
+Cap-Haitien,HTCAP,Haiti,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",19.76669999999999,-72.19999999999999
+Cardiff,GBCDF,"United Kingdom","Europe / Mediterranean","Europe / Mediterranean",51.462778,-3.1572219999999893
+Cartagena,COCTG,Colombia,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",10.416700000000006,-75.5333
+"Cartagena, Spain",ESCAR,Spain,"Europe / Mediterranean","Europe / Mediterranean",37.583299999999994,-0.9833000000000104
+Casablanca,MACAS,Morocco,"Europe / Mediterranean","Europe / Mediterranean",33.599999999999994,-7.616699999999989
+Castellon,ESCAS,Spain,"Europe / Mediterranean","Europe / Mediterranean",39.971389,0.01861100000000264
+"Castries, St Lucia",LCSLU,"St Lucia","East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",14.016699999999993,-61
+"Catalina Island",DOCAI,"Dominican Republic","East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",18.355954368904204,-69.02173090528943
+Catania,ITCTA,Italy,"Europe / Mediterranean","Europe / Mediterranean",37.49153799999998,15.095166999999998
+Caucedo,DOCAU,"Dominican Republic","East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",18.426111221313477,-69.63138580322264
+Cebu,PHCEB,Philippines,"Southeast Asia",Asia,10.299999999999986,123.9
+Ceuta,ESCEU,"Spain/N Af","Europe / Mediterranean","Europe / Mediterranean",35.9,-5.316700000000004
+Chabahar,IRZBR,Iran,"Middle East/Indian Subcontinent",Asia,25.313646999999996,60.615729
+Chanaral,CLCNR,Chile,"West Coast of South America","South America",-26.349999999999998,-70.64999999999999
+Changshu,CNCGS,China,"East Asia",Asia,31.766145,120.94648600000001
+"Charleston SC",USCHS,"United States","East Coast of North America","North America",32.78329999999998,-79.91669999999999
+"Charlestown, Nevis",KNNEV,"St Kitts and Nevis","East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",17.1333,-62.63329999999999
+"Chemainus BC",CACHM,Canada,"West Coast of North America","North America",48.9333,-123.71669999999999
+Chennai/Madras,INMAA,India,"Middle East/Indian Subcontinent",Asia,13.111111109999987,80.30083333
+"Chester PA",USCHT,"United States","East Coast of North America","North America",39.85000000000001,-75.34999999999998
+Chiba,JPCHB,Japan,"East Asia",Asia,35.583299999999994,140.03330000000003
+"Chicago IL",USCHI,"United States","East Coast of North America","North America",41.88330000000001,-87.59999999999998
+"Chiriqui Grande",PACHG,Panama,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",8.950000000000003,-82.11669999999998
+Chittagong,BDCGP,Bangladesh,"Middle East/Indian Subcontinent",Asia,22.316699999999994,91.81669999999995
+Chiwan,CNCWN,China,"East Asia",Asia,22.4667,113.86669999999997
+Chornomorsk,UAILK,Ukraine,"Europe / Mediterranean","Europe / Mediterranean",46.33305556,30.649722220000008
+"Christmas Island",CXXCH,"Christmas Island (Australia)","Southeast Asia",Asia,-10.484500000000011,105.6345
+"Chu Lai",VNC8Q,Vietnam,"Southeast Asia",Asia,15.477063999999999,108.62893299999999
+"Chuuk (Truk)",FMTKK,Micronesia,Oceania,Oceania,7.445544999999992,151.83999999999997
+"Cincinnati OH",USCVG,"United States","East Coast of North America","North America",39.09471999999999,-84.52472
+Civitavecchia,ITCVV,Italy,"Europe / Mediterranean","Europe / Mediterranean",42.099999999999994,11.7833
+"Cleveland OH",USCLE,"United States","East Coast of North America","North America",41.50000000000001,-81.71670000000002
+Cochin,INCOK,India,"Middle East/Indian Subcontinent",Asia,9.966699999999994,76.2333
+"Cocos Islands",CCCCK,"Cocos Islands (Australia)","Southeast Asia",Asia,-12.116656000000008,96.89355
+Colombo,LKCMB,"Sri Lanka","Middle East/Indian Subcontinent",Asia,6.95,79.84999999999997
+Colon,PAONX,Panama,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",9.373332977294918,-79.8861083984375
+"Columbus OH",USCMH,"United States","East Coast of North America","North America",,
+Conakry,GNCKY,Guinea,"West Africa",Africa,9.5167,-13.71669999999999
+Constanta,ROCND,Romania,"Europe / Mediterranean","Europe / Mediterranean",44.166700000000006,28.65
+"Coos Bay OR",USCOB,"United States","West Coast of North America","North America",43.3667,-124.21669999999999
+Copenhagen,DKCPH,Denmark,"Europe / Mediterranean","Europe / Mediterranean",55.69611111,12.613333330000005
+Corinto,NICIO,Nicaragua,"West Coast of Central America","Central America & Caribbean",12.481741905212392,-87.16757202148439
+Cork,IEORK,Ireland,"Europe / Mediterranean","Europe / Mediterranean",51.85000000000001,-8.266699999999998
+"Corn Island",NIRNI,Nicaragua,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",12.16839,-83.05285999999998
+Coronel,CLCNL,Chile,"West Coast of South America","South America",-37.033300000000004,-73.1667
+"Corpus Christi TX",USCRP,"United States","East Coast of North America","North America",27.8167,-97.39999999999999
+"Costa Maya",MX000,Mexico,"East Coast of North America","North America",18.73015367947995,-87.68990685639716
+Cotonou,BJCOO,Benin,"West Africa",Africa,6.349999999999994,2.4332999999999965
+Cozumel,MXCZM,Mexico,"East Coast of North America","North America",20.481566851305676,-86.9755514479654
+Cristobal,PACTB,Panama,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",9.351011276245117,-79.90884399414061
+"Crofton BC",CACRO,Canada,"West Coast of North America","North America",48.866699999999994,-123.63330000000002
+Cuxhaven,DECUX,Germany,"Europe / Mediterranean","Europe / Mediterranean",,
+"Da Chan Bay",CNDCB,China,"East Asia",Asia,22.544166669999992,113.85638889999997
+Dafeng,CNDFG,China,"East Asia",Asia,33.28536499999997,120.80996000000002
+Dakar,SNDKR,Senegal,"West Africa",Africa,14.683299999999996,-17.433300000000003
+Dakhla,MAVIL,Morocco,"West Africa",Africa,,
+Dalian,CNDLC,China,"East Asia",Asia,38.933611109999994,121.65055559999996
+"Dallas TX",USDFW,"United States","East Coast of North America","North America",,
+Damietta,EGDAM,Egypt,"Europe / Mediterranean","Europe / Mediterranean",31.48329999999999,31.75000000000001
+Dammam,SADMM,"Saudi Arabia","Middle East/Indian Subcontinent",Asia,26.500000000000004,50.199999999999974
+"Da Nang",VNDAD,Vietnam,"Southeast Asia",Asia,16.150000000000002,108.19999999999999
+Dandong,CNDDG,China,"East Asia",Asia,40.03999999999999,124.347
+"Dar es Salaam",TZDAR,Tanzania,"East Africa",Africa,-6.834444443999999,39.299166669999984
+Darwin,AUDRW,Australia,Oceania,Oceania,-12.466700000000008,130.84999999999997
+Davao,PHDVO,Philippines,"Southeast Asia",Asia,7.066699999999993,125.61669999999998
+"Davisville RI",USDVV,"United States","East Coast of North America","North America",,
+"Degrad des Cannes",GFDDC,"French Guiana","East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",4.853055555999997,-52.275000000000006
+Delfzijl,NLDZL,Netherlands,"Europe / Mediterranean","Europe / Mediterranean",53.33330000000001,6.9332999999999965
+"Denver CO",USDEN,"United States","East Coast of North America","North America",,
+Derince,TRDRC,Turkey,"Europe / Mediterranean","Europe / Mediterranean",40.75000000000001,29.816700000000008
+"Detroit MI",USDET,"United States","East Coast of North America","North America",42.333299999999994,-83.0333
+"Dili, East Timor",TLDIL,Indonesia,"Southeast Asia",Asia,-8.533300000000006,125.5833
+Diliskelesi,TRDIL,Turkey,"Europe / Mediterranean","Europe / Mediterranean",40.766604999999984,29.533759999999997
+"Djen ",DZDJE,Algeria,"North Africa",Africa,,
+Djibouti,DJJIB,Djibouti,"East Africa",Africa,11.600000000000005,43.133299999999984
+Doha,QADOH,Qatar,"Middle East/Indian Subcontinent",Asia,25.298055559999995,51.558888889999984
+Donghae,KRTGH,"South Korea","East Asia",Asia,37.492204999999984,129.137786
+Dongjiakou,CNDJK,China,"East Asia",Asia,35.599740999999995,119.79271699999998
+Dordrecht,NLDOR,Netherlands,"Europe / Mediterranean","Europe / Mediterranean",51.816700000000004,4.64999999999999
+Douala,CMDLA,Cameroon,"West Africa",Africa,4.050000000000002,9.683300000000004
+Dover,GBDVR,"United Kingdom","Europe / Mediterranean","Europe / Mediterranean",51.12083299999998,1.3252779999999988
+Drammen,NODRM,Norway,"Europe / Mediterranean","Europe / Mediterranean",59.73799999999999,10.234499999999999
+"Dubai, Jebel Ali",AEJEA,"United Arab Emirates","Middle East/Indian Subcontinent",Asia,24.995833330000004,55.059444439999986
+"Dubai, Port Rashid",AEDXB,"United Arab Emirates","Middle East/Indian Subcontinent",Asia,25.267199999999995,55.27079999999997
+Dublin,IEDUB,Ireland,"Europe / Mediterranean","Europe / Mediterranean",53.34999999999998,-6.249999999999993
+"Duncan Bay BC",CADCN,Canada,"West Coast of North America","North America",50.06669999999999,-125.28329999999998
+Dunkirk,FRDKK,France,"Europe / Mediterranean","Europe / Mediterranean",51.021667,2.17333299999999
+Durban,ZADUR,"South Africa","Southern Africa",Africa,-29.866700000000005,31.066700000000004
+Durres,ALDRZ,Albania,"Europe / Mediterranean","Europe / Mediterranean",41.314495999999984,19.456011999999994
+"Dutch Harbor AK",USDUT,"United States","West Coast of North America","North America",53.9,-166.53329999999997
+"East London",ZAELS,"South Africa","Southern Africa",Africa,-33.033300000000004,27.916699999999995
+"Eastport ME",USEPI,"United States","East Coast of North America","North America",44.9,-66.9833
+Eemshaven,NLEEM,Netherlands,"Europe / Mediterranean","Europe / Mediterranean",53.45000000000001,6.8330560000000045
+Egersund,NOEGE,Norway,"Europe / Mediterranean","Europe / Mediterranean",58.45300000000001,5.991
+Elbehafen,DEBRB,Germany,"Europe / Mediterranean","Europe / Mediterranean",53.888279,9.175704
+"El Bluff",NIELB,Nicaragua,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",12.000000000000004,-83.7
+"El Dekheila",EGEDK,Egypt,"Europe / Mediterranean","Europe / Mediterranean",31.141670000000005,29.79888899999998
+Eleuthera,BSGHB,Bahamas,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",24.933449999999997,-76.20558699999998
+"El Guamache",VEEGU,Venezuela,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",10.865277999999996,-64.06194399999998
+Emden,DEEME,Germany,"Europe / Mediterranean","Europe / Mediterranean",53.36670000000001,7.216699999999988
+Ennore,INENR,India,"Middle East/Indian Subcontinent",Asia,,
+Ensenada,MXESE,Mexico,"West Coast of North America","North America",31.8667,-116.63330000000002
+Esbjerg,DKEBJ,Denmark,"Europe / Mediterranean","Europe / Mediterranean",55.46669999999998,8.450000000000006
+Esmeraldas,ECESM,Ecuador,"West Coast of South America","South America",0.9999999999999978,-79.64999999999999
+Esperance,AUEPR,Australia,Oceania,Oceania,-33.86670000000001,121.9
+Etajima,JPETA,Japan,"East Asia",Asia,34.23359999999999,132.44721999999996
+"Eureka CA",USEKA,"United States","West Coast of North America","North America",40.8,-124.18329999999997
+"Everett WA",USPAE,"United States","West Coast of North America","North America",48.00000000000001,-122.21669999999999
+Exuma,BSEXU,Bahamas,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",23.52469999999999,-75.7731
+Falmouth,JMFMH,Jamaica,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",18.493590092630456,-77.64892969231033
+Fangcheng,CNFAN,China,"East Asia",Asia,21.749999999999986,108.34999999999997
+Felixstowe,GBFXT,"United Kingdom","Europe / Mediterranean","Europe / Mediterranean",51.95,1.3166999999999989
+"Fernandina Beach FL",USFEB,"United States","East Coast of North America","North America",30.68329999999999,-81.46669999999999
+Ferrol,ESFRO,"Canary Islands (Spain)","West Africa",Africa,43.47700799999999,-8.248034999999987
+"Figueira da Foz",PTFDF,Portugal,"Europe / Mediterranean","Europe / Mediterranean",40.14999999999999,-8.850000000000009
+Floroe,NOFRO,Norway,"Europe / Mediterranean","Europe / Mediterranean",,
+Flushing,NLVLI,Netherlands,"Europe / Mediterranean","Europe / Mediterranean",51.45068931751893,3.598642045029961
+Fortaleza,BRFOR,Brazil,"East Coast of South America","South America",-3.700000000000005,-38.483299999999986
+Fort-de-France,MQFDF,"Martinique (France)","East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",14.59916666999999,-61.06083333000001
+Foynes,IEFOV,Ireland,"Europe / Mediterranean","Europe / Mediterranean",52.616700000000016,-9.116699999999998
+Fredericia,DKFRC,Denmark,"Europe / Mediterranean","Europe / Mediterranean",55.5565,9.748
+Fredrikstad,NOFRK,Norway,"Europe / Mediterranean","Europe / Mediterranean",59.19079999999999,10.9495
+Freeport,BSFPO,Bahamas,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",26.5167,-78.7833
+"Freeport TX",USFPO,"United States","East Coast of North America","North America",28.950000000000006,-95.33329999999998
+Freetown,SLFNA,"Sierra Leone","West Africa",Africa,8.500000000000007,-13.233300000000012
+Fremantle,AUFRE,Australia,Oceania,Oceania,-32.04999999999998,115.74999999999997
+Fujairah,AEFJR,"United Arab Emirates","Middle East/Indian Subcontinent",Asia,25.17833333000001,56.36027778
+Fukuyama,JPFKY,Japan,"East Asia",Asia,34.46669999999999,133.4333
+Fuqing,CNFQG,China,"East Asia",Asia,26.011388889999978,119.4844444
+Fusa,NOFUS,Norway,"Europe / Mediterranean","Europe / Mediterranean",60.203123999999995,5.599167
+Fuzhou,CNFOC,China,"East Asia",Asia,26.083299999999994,119.29999999999998
+Galisbay,MFGES,"St Martin (France)","East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",18.08314399999999,-63.084935999999985
+"Gallis Bay",SXGES,"St Maarten (Netherlands)","East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",,
+"Galveston TX",USGLS,"United States","East Coast of North America","North America",29.31669999999998,-94.7833
+Gaolan,CNGON,China,"East Asia",Asia,22.2336922435394,113.58422419916437
+Gavle,SEGVX,Sweden,"Europe / Mediterranean","Europe / Mediterranean",60.68649999999998,17.199999999999996
+Gdansk,PLGDN,Poland,"Europe / Mediterranean","Europe / Mediterranean",54.35,18.666699999999988
+"Gdynia Poland",PLGDY,Poland,"Europe / Mediterranean","Europe / Mediterranean",54.53329999999998,18.54999999999999
+Geelong,AUGEX,Australia,Oceania,Oceania,-38.150000000000006,144.3667
+"General Santos",PHGES,Philippines,"Southeast Asia",Asia,6.116700000000006,125.18329999999995
+Genoa,ITGOA,Italy,"Europe / Mediterranean","Europe / Mediterranean",44.404722219999975,8.916388888999991
+Georgetown,KYGEC,"Cayman Islands","East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",19.299999999999986,-81.3833
+"George Town",BSGGT,Bahamas,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",,
+"Georgetown, Guyana",GYGEO,Guyana,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",6.833300000000005,-58.166699999999985
+"Georgetown SC",USGGE,"United States","East Coast of North America","North America",33.36669999999998,-79.2833
+Ghazaouet,DZGHZ,Algeria,"North Africa",Africa,,
+Gibraltar,GIGIB,Spain,"Europe / Mediterranean","Europe / Mediterranean",36.133300000000006,-5.349999999999998
+Gijon,ESGIJ,Spain,"Europe / Mediterranean","Europe / Mediterranean",43.54999999999998,-5.666700000000008
+"Gioia Tauro",ITGIT,Italy,"Europe / Mediterranean","Europe / Mediterranean",38.449999999999996,15.9
+Gizan,SAGIZ,"Saudi Arabia","Middle East/Indian Subcontinent",Asia,16.891744999999997,42.536669999999994
+Gjemnes,NOGJM,Norway,"Europe / Mediterranean","Europe / Mediterranean",,
+Gladstone,AUGLT,Australia,Oceania,Oceania,-23.850000000000012,151.24999999999997
+"Gloucester City NJ",USGLC,"United States","East Coast of North America","North America",39.900000000000006,-75.13329999999999
+Golfito,CRGLF,"Costa Rica","West Coast of Central America","Central America & Caribbean",8.635810660991744,-83.16567464602085
+Gothenburg,SEGOT,Sweden,"Europe / Mediterranean","Europe / Mediterranean",57.68916700000001,11.871944000000003
+"Grand Turk",TCGDT,"Turks and Caicos Islands","East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",21.483300000000007,-71.1167
+Grangemouth,GBGRG,"United Kingdom","Europe / Mediterranean","Europe / Mediterranean",56.02849999999999,-3.704999999999999
+"Grays Harbor WA",USGHC,"United States","West Coast of North America","North America",46.92327758170985,-123.84923701818678
+Greenock,GBGRK,"United Kingdom","Europe / Mediterranean","Europe / Mediterranean",55.95,-4.75000000000001
+Grundartangi,ISGRT,Iceland,"Europe / Mediterranean","Europe / Mediterranean",64.35849499999998,-21.77619
+Guam,GUGUM,"Guam (U.S.)",Oceania,Oceania,13.442777779999993,144.65777779999996
+Guanta,VEGUT,Venezuela,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",10.249166669999997,-64.59444443999999
+Guaranao,VEGUA,Venezuela,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",11.667000000000007,-70.216
+Guayaquil,ECGYE,Ecuador,"West Coast of South America","South America",-2.2000000000000073,-79.8833
+Guiria,VEGUI,Venezuela,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",10.566699999999997,-62.29999999999999
+"Gulfport MS",USGPT,"United States","East Coast of North America","North America",30.349999999999994,-89.0833
+Gustavia,GPGUS,"St Barthelemy (France)","East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",17.89625283832672,-62.849871863659565
+Gwadar,PKGWD,Pakistan,"Middle East/Indian Subcontinent",Asia,,
+Gwangyang,KRKAN,"South Korea","East Asia",Asia,34.88833332999999,127.67861110000003
+Hachinohe,JPHHE,Japan,"East Asia",Asia,40.53329999999999,141.54999999999998
+Haifa,ILHFA,Israel,"Europe / Mediterranean","Europe / Mediterranean",32.81669999999999,35.00000000000001
+Haiphong,VNHPH,Vietnam,"Southeast Asia",Asia,20.867222219999988,106.67999999999998
+Hakata,JPHKT,Japan,"East Asia",Asia,33.599999999999994,130.40000000000003
+Hakodate,JPHKD,Japan,"East Asia",Asia,41.78777800000001,140.714167
+Halden,NOHAL,Norway,"Europe / Mediterranean","Europe / Mediterranean",59.11816999999999,11.373179
+Haldia,INHAL,India,"Middle East/Indian Subcontinent",Asia,22.03694444,88.09833333
+Halifax,CAHAL,Canada,"East Coast of North America","North America",44.64999999999999,-63.58329999999997
+Halmstad,SEHAD,Sweden,"Europe / Mediterranean","Europe / Mediterranean",56.655000000000015,12.858
+Hamad,QAHMD,Qatar,"Middle East/Indian Subcontinent",Asia,25.032103999999986,51.63911499999998
+Hamburg,DEHAM,Germany,"Europe / Mediterranean","Europe / Mediterranean",53.55,9.966699999999994
+Hamilton,BMBDA,Bermuda,"East Coast of North America","North America",32.300000000000004,-64.7833
+"Hamilton Ontario",CAHAM,Canada,"East Coast of North America","North America",43.25000000000001,-79.84999999999998
+"Harmac BC",CAHMC,Canada,"West Coast of North America","North America",49.133299999999984,-123.85000000000001
+Harnosand,SEHND,Sweden,"Europe / Mediterranean","Europe / Mediterranean",62.636563999999986,17.942411
+Harwich,GBHRW,"United Kingdom","Europe / Mediterranean","Europe / Mediterranean",51.95,1.2832999999999917
+Haugesund,NOHAU,Norway,"Europe / Mediterranean","Europe / Mediterranean",,
+Havana,CUHAV,Cuba,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",23.132499999999997,-82.34194443999999
+Haydarpasa,TRHAY,Turkey,"Europe / Mediterranean","Europe / Mediterranean",,
+Hazira,INHZA,India,"Middle East/Indian Subcontinent",Asia,21.10759999999999,72.651155
+Helguvik,ISHEL,Iceland,"Europe / Mediterranean","Europe / Mediterranean",64.02304999999998,-22.556940000000004
+Helsingborg,SEHEL,Sweden,"Europe / Mediterranean","Europe / Mediterranean",56.03333333,12.69
+Helsinki,FIHEL,Finland,"Europe / Mediterranean","Europe / Mediterranean",60.168499999999995,24.944499999999998
+Hibiki,JPHBK,Japan,"East Asia",Asia,34.225999999999985,132.54799999999997
+Higashiharima,JPHHR,Japan,"East Asia",Asia,34.713055999999995,134.83167
+"Hilo HI",USITO,"Hawaii (U.S.)","West Coast of North America","North America",19.733299999999996,-155.06669999999997
+Hiroshima,JPHIJ,Japan,"East Asia",Asia,34.35,132.46670000000003
+Hitachi,JPHTC,Japan,"East Asia",Asia,36.499999999999986,140.63329999999996
+Hitachinaka,JPHIC,Japan,"East Asia",Asia,36.425278,140.621111
+"Hobart, TAS",AUHBA,Australia,Oceania,Oceania,-42.88329999999999,147.3333
+"Ho Chi Minh (Phu My)",VNPHU,Vietnam,"Southeast Asia",Asia,10.765241503560201,106.7172955548394
+"Ho Chi Minh (VICT/Cat Lai)",VNSGN,Vietnam,"Southeast Asia",Asia,10.758249999999991,106.792031
+Hodeidah,YEHOD,Yemen,"Middle East/Indian Subcontinent",Asia,14.833611109999996,42.936388889999996
+Hogset,NOHOG,Norway,"Europe / Mediterranean","Europe / Mediterranean",,
+Honfleur,FRHON,France,"Europe / Mediterranean","Europe / Mediterranean",49.4167,0.2166999999999911
+"Hong Kong",HKHKG,China,"East Asia",Asia,22.26669999999999,114.2
+Honiara,SBHIR,"Solomon Islands",Oceania,Oceania,-9.416700000000006,159.94999999999996
+"Honolulu HI",USHNL,"Hawaii (U.S.)","West Coast of North America","North America",21.299999999999997,-157.8667
+Hososhima,JPHSM,Japan,"East Asia",Asia,32.4167,131.66669999999996
+"Houston TX",USHOU,"United States","East Coast of North America","North America",29.75,-95.2833
+Hualien,TWHUN,Taiwan,"East Asia",Asia,23.98722,121.633889
+"Huangpu (Guangzhou)",CNGGZ,China,"East Asia",Asia,23.08329999999999,113.41669999999999
+Huelva,ESHUV,Spain,"Europe / Mediterranean","Europe / Mediterranean",37.249999999999986,-6.949999999999999
+Hull,GBHUL,"United Kingdom","Europe / Mediterranean","Europe / Mediterranean",53.75000000000002,-0.2833000000000032
+"Humen Port",CNHMN,China,"East Asia",Asia,22.865867999999992,113.57311299999998
+Husavik,ISHUS,Iceland,"Europe / Mediterranean","Europe / Mediterranean",,
+Husoy,NOHOY,Norway,"Europe / Mediterranean","Europe / Mediterranean",69.543833,17.670357000000003
+Iggesund,SEIGG,Sweden,"Europe / Mediterranean","Europe / Mediterranean",,
+Ilheus,BRIOS,Brazil,"East Coast of South America","South America",-14.783300000000008,-39.016699999999986
+Ilo,PEILQ,Peru,"West Coast of South America","South America",-17.63329999999999,-71.3667
+"Imabari (Shikoku)",JPIMB,Japan,"East Asia",Asia,34.06669999999999,132.99999999999994
+Imari,JPIMI,Japan,"East Asia",Asia,33.28329999999998,129.8833
+Imbituba,BRIBB,Brazil,"East Coast of South America","South America",-28.283300000000015,-48.68329999999999
+Immingham,GBIMM,"United Kingdom","Europe / Mediterranean","Europe / Mediterranean",53.616699999999994,-0.19999999999998755
+Inchon,KRINC,"South Korea","East Asia",Asia,37.46669999999998,126.6167
+Ipswich,GBIPS,"United Kingdom","Europe / Mediterranean","Europe / Mediterranean",52.05,1.166700000000008
+Iquique,CLIQQ,Chile,"West Coast of South America","South America",-20.200000000000006,-70.1667
+"Iquitos, Amazon",PEIQT,Peru,"East Coast of South America","South America",-3.749999999999999,-73.2333
+"Isafjordur Iceland",ISISA,Iceland,"Europe / Mediterranean","Europe / Mediterranean",66.06934499999998,-23.126724999999997
+"Ishigaki Is",JPISG,Japan,"East Asia",Asia,24.3333,124.16670000000005
+Ishikari,JPISI,Japan,"East Asia",Asia,43.20305,141.28860999999998
+Iskenderun,TRISK,Turkey,"Europe / Mediterranean","Europe / Mediterranean",36.59888474741227,36.18062723157341
+"Isla Margarita",VEMGT,Venezuela,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",10.909999999999995,-63.98299999999998
+"Istanbul (Ambarli)",TRAMB,Turkey,"Europe / Mediterranean","Europe / Mediterranean",41.016699999999986,28.96670000000001
+"Istanbul (Gebze)",TRGEB,Turkey,"Europe / Mediterranean","Europe / Mediterranean",41.01299999999999,28.99899999999999
+"Istanbul (Gemlik)",TRGEM,Turkey,"Europe / Mediterranean","Europe / Mediterranean",41.016699999999986,28.96670000000001
+Itacoatiara,BRITA,Brazil,"East Coast of South America","South America",-3.1499999999999986,-58.44999999999999
+Itajai,BRITJ,Brazil,"East Coast of South America","South America",-26.9167,-48.63329999999999
+"Itaqui (near Sao Luis)",BRIQI,Brazil,"East Coast of South America","South America",-2.5833000000000066,-44.366699999999994
+Iwakuni,JPIWK,Japan,"East Asia",Asia,34.17694444,132.2363889
+"Iyomishima (Shikoku)",JPIYM,Japan,"East Asia",Asia,34.003609999999995,133.55189999999996
+Izmir,TRIZM,Turkey,"Europe / Mediterranean","Europe / Mediterranean",38.43329999999999,27.13330000000001
+Izmit,TRIZT,Turkey,"Europe / Mediterranean","Europe / Mediterranean",40.76669999999997,29.916700000000002
+"Jacksonville FL",USJAX,"United States","East Coast of North America","North America",30.316699999999994,-81.65
+"Jakarta, Java",IDJKT,Indonesia,"Southeast Asia",Asia,-6.105555556000005,106.86055559999998
+Jamnagar,INJGA,India,"Middle East/Indian Subcontinent",Asia,,
+Jeddah,SAJED,"Saudi Arabia","Middle East/Indian Subcontinent",Asia,21.458611109999993,39.164166669999986
+Jiangyin,CNJIA,China,"East Asia",Asia,,
+Jingtang,CNJTG,China,"East Asia",Asia,,
+Jose,VEJMV,Venezuela,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",10.100339999999997,-64.87197499999999
+Jubail,SAJUB,"Saudi Arabia","Middle East/Indian Subcontinent",Asia,27.016700000000004,49.70000000000001
+"Kahului HI",USOGG,"Hawaii (U.S.)","West Coast of North America","North America",20.89999999999999,-156.46670000000003
+Kakinada,INKAK,India,"Middle East/Indian Subcontinent",Asia,16.931339999999988,82.305795
+Kalajoki,FIJKO,Finland,"Europe / Mediterranean","Europe / Mediterranean",,
+"Kalama WA",USKAL,"United States","West Coast of North America","North America",46.016699999999986,-122.85
+Kaliningrad,RUKGD,Russia,"Europe / Mediterranean","Europe / Mediterranean",54.6983,20.471965
+Kalundborg,DKKAL,Denmark,"Europe / Mediterranean","Europe / Mediterranean",55.67049999999998,11.088499999999998
+Kamaishi,JPKIS,Japan,"East Asia",Asia,39.26690999999999,141.89370799999998
+"Kanazawa (N Coast)",JPKNZ,Japan,"East Asia",Asia,36.616699999999994,136.6
+Kanda,JPKND,Japan,"East Asia",Asia,33.7833,130.98329999999999
+Kandla,INIXY,India,"Middle East/Indian Subcontinent",Asia,22.99999999999999,70.21669999999997
+"Kansas City MO",USMKC,"United States","East Coast of North America","North America",,
+Kaohsiung,TWKHH,Taiwan,"East Asia",Asia,22.56527778,120.31111110000003
+Karachi,PKKHI,Pakistan,"Middle East/Indian Subcontinent",Asia,24.835,66.97777777999998
+Karlshamn,SEKAN,Sweden,"Europe / Mediterranean","Europe / Mediterranean",56.16669999999999,14.866699999999996
+Kattupalli,INKAT,India,"Middle East/Indian Subcontinent",Asia,13.306816,80.34850099999998
+Kavieng,PGKVG,"Papua New Guinea",Oceania,Oceania,-2.5833000000000066,150.79999999999995
+Kawaihae,USKWH,"United States","West Coast of North America","North America",,
+Kawasaki,JPKWS,Japan,"East Asia",Asia,35.49999999999999,139.7667
+Keelung,TWKEL,Taiwan,"East Asia",Asia,25.148333329999982,121.75555559999998
+"Kemi Finland",FIKEM,Finland,"Europe / Mediterranean","Europe / Mediterranean",65.73,24.556049999999995
+"Key West",USEYW,"United States","East Coast of North America","North America",24.562689715204364,-81.79962785075007
+"Khalifa Bin Salman Port",BHKBS,Bahrain,"Middle East/Indian Subcontinent",Asia,26.198611109999995,50.61194443999998
+Khoms,LYKHM,Libya,"Europe / Mediterranean","Europe / Mediterranean",32.677944999999994,14.252709999999999
+"Khor Fakkan",AEKLF,"United Arab Emirates","Middle East/Indian Subcontinent",Asia,25.353055559999998,56.36472221999998
+Kiel,DEKEL,Germany,"Europe / Mediterranean","Europe / Mediterranean",54.33549999999999,10.154999999999998
+Killingholme,GBKIL,"United Kingdom","Europe / Mediterranean","Europe / Mediterranean",53.663180999999994,-0.24406599999999995
+Kimbe,PGKIM,"Papua New Guinea",Oceania,Oceania,-5.550000000000001,150.14999999999998
+"King Abdullah City",SAKAC,"Saudi Arabia","Middle East/Indian Subcontinent",Asia,22.522627,39.087468
+Kingston,JMKIN,Jamaica,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",17.966700000000007,-76.7833
+"Kingstown, St Vincent",VCKTN,"St Vincent and the Grenadines","East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",13.149999999999995,-61.2333
+"King's Wharf",BMKWF,Bermuda,"East Coast of North America","North America",32.32410040256985,-64.8325799067954
+Kirkenes,NOKKN,Norway,"Europe / Mediterranean","Europe / Mediterranean",69.72712,30.0558
+"Kismayu
+",SOKMU,Somalia,"East Africa",Africa,-0.38733800000000185,42.54562899999999
+"Klaipeda
+",LTKLJ,Lithuania,"Europe / Mediterranean","Europe / Mediterranean",55.71448303047069,21.119149784523234
+Kobe,JPUKB,Japan,"East Asia",Asia,34.65,135.1833
+"Koh Sichang",THKSI,Thailand,"Southeast Asia",Asia,13.141110999999995,100.81805599999998
+Kokkola,FIKOK,Finland,"Europe / Mediterranean","Europe / Mediterranean",63.85055999999999,23.030845
+Kokura,JPKOK,Japan,"East Asia",Asia,33.8833,130.88330000000002
+Kolkata,INCCU,India,"Middle East/Indian Subcontinent",Asia,22.536944439999992,88.30638888999998
+Koper,SIKOP,Slovenia,"Europe / Mediterranean","Europe / Mediterranean",45.54999999999999,13.733300000000005
+Koror,PWROR,Palau,Oceania,Oceania,7.348847499999991,134.48085
+Korsakov,RUKOR,Russia,"East Asia",Asia,46.616699999999994,142.76670000000001
+Kosrae,FMKSA,Micronesia,Oceania,Oceania,5.350293999999994,162.95661899999996
+"Kota Kinabalu, Sabah",MYBKI,Malaysia,"Southeast Asia",Asia,5.983300000000005,116.06670000000004
+Kotka,FIKTK,Finland,"Europe / Mediterranean","Europe / Mediterranean",60.46670000000001,26.966700000000003
+Kribi,CMKBI,Cameroon,"West Africa",Africa,2.933299999999999,9.899999999999995
+Krishnapatnum,INKRI,India,"Middle East/Indian Subcontinent",Asia,14.248999999999981,80.13000000000001
+Kristiansand,NOKRS,Norway,"Europe / Mediterranean","Europe / Mediterranean",58.14550000000001,8.0125
+Kronshtadt,RUKDT,Russia,"Europe / Mediterranean","Europe / Mediterranean",59.988,29.759499999999996
+Kuantan,MYKUA,Malaysia,"Southeast Asia",Asia,3.9730555560000007,103.42333329999998
+"Kuching, Sarawak",MYKCH,Malaysia,"Southeast Asia",Asia,1.5666999999999933,110.35000000000001
+Kunsan,KRKUV,"South Korea","East Asia",Asia,35.98329999999999,126.7
+Kushiro,JPKUH,Japan,"East Asia",Asia,42.99764100000001,144.317606
+Kuwait,KWKWI,Kuwait,"Middle East/Indian Subcontinent",Asia,29.3663,48.00172499999999
+Kwajalein-Ebeye,MHKWA,"Marshall Islands",Oceania,Oceania,8.716699999999994,167.73329999999999
+"La Coruna",ESLCG,Spain,"Europe / Mediterranean","Europe / Mediterranean",43.3667,-8.400000000000011
+Lae,PGLAE,"Papua New Guinea",Oceania,Oceania,-6.733300000000002,147
+"Laem Chabang",THLCH,Thailand,"Southeast Asia",Asia,13.061017000000003,100.88287199999999
+"Lagos, Tin Can",NGTIN,Nigeria,"West Africa",Africa,6.3999999999999915,3.399999999999992
+"La Guaira",VELAG,Venezuela,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",10.602777779999993,-66.94416667
+"Lahad Datu",MYLDU,Malaysia,"Southeast Asia",Asia,4.997237499999996,118.37530000000001
+"Lake Charles LA",USLCH,"United States","East Coast of North America","North America",30.216700000000003,-93.25
+"La Pallice",FRLPE,France,"Europe / Mediterranean","Europe / Mediterranean",46.1667,-1.216700000000005
+"La Palma, Can Is",ESLPL,"Canary Islands (Spain)","West Africa",Africa,28.6758333,-17.76666699999999
+"La Rochelle",FRLRH,France,"Europe / Mediterranean","Europe / Mediterranean",46.15,-1.1500000000000046
+"La Romana",DOLRM,"Dominican Republic","East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",18.41669999999999,-68.9667
+"Larvik ",NOLAR,Norway,"Europe / Mediterranean","Europe / Mediterranean",59.042500000000004,10.0335
+"Las Palmas, Can Is",ESLPA,"Canary Islands (Spain)","West Africa",Africa,28.149999999999995,-15.416699999999986
+"La Spezia",ITSPE,Italy,"Europe / Mediterranean","Europe / Mediterranean",44.1,9.833299999999994
+Lattakia,SYLTK,Syria,"Europe / Mediterranean","Europe / Mediterranean",35.51899999999999,35.763999999999996
+"Launceston, TAS",AULST,Australia,Oceania,Oceania,-41.45000000000001,147.11669999999998
+"La Union",SVLUN,"El Salvador","West Coast of Central America","Central America & Caribbean",13.3333,-87.83329999999998
+Lautoka,FJLTK,Fiji,Oceania,Oceania,-17.599999999999998,177.4333
+Lavrio,GRLAV,Greece,"Europe / Mediterranean","Europe / Mediterranean",,
+"Lazaro Cardenas",MXLZC,Mexico,"West Coast of North America","North America",17.93329999999999,-102.1667
+Leghorn,ITLIV,Italy,"Europe / Mediterranean","Europe / Mediterranean",43.55583333,10.303055559999995
+"Le Havre",FRLEH,France,"Europe / Mediterranean","Europe / Mediterranean",49.48329999999999,0.11669999999999729
+Leixoes,PTLEI,Portugal,"Europe / Mediterranean","Europe / Mediterranean",41.183299999999996,-8.699999999999994
+"Le Port RE",RELPT,Reunion,"East Africa",Africa,-20.936831376799454,55.283331871032715
+"Les Saintes Is",GPLSS,Guadeloupe,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",15.853943997509578,-61.61624062484821
+"Leticia, Amazon",COLET,Colombia,"East Coast of South America","South America",,
+"Le Verdon",FRLVE,France,"Europe / Mediterranean","Europe / Mediterranean",45.54999999999999,-1.050000000000011
+Lianyungang,CNLYG,China,"East Asia",Asia,34.73329999999999,119.45
+Libreville,GALBV,Gabon,"West Africa",Africa,0.3832999999999908,9.449999999999998
+"Lihir Island",PGLNV,"Papua New Guinea",Oceania,Oceania,-3.0400000000000067,152.629
+Limas,TRLMA,Turkey,"Europe / Mediterranean","Europe / Mediterranean",38.757577999999995,26.90574399999999
+Limassol,CYLMS,Cyprus,"Europe / Mediterranean","Europe / Mediterranean",34.66670000000001,33.050000000000004
+Lirquen,CLLQN,Chile,"West Coast of South America","South America",-36.71670000000001,-72.9833
+Lisbon,PTLIS,Portugal,"Europe / Mediterranean","Europe / Mediterranean",38.69916666999999,-9.15888888899999
+Liverpool,GBLIV,"United Kingdom","Europe / Mediterranean","Europe / Mediterranean",53.416700000000006,-2.9999999999999916
+Lobito,AOLOB,Angola,"West Africa",Africa,-12.333300000000008,13.5667
+Lome,TGLFW,Togo,"West Africa",Africa,6.133299999999991,1.2832999999999917
+"London Gateway",GBLGP,"United Kingdom","North Europe","Europe / Mediterranean",51.50623599999999,0.49970099999999995
+"Long Beach CA",USLGB,"United States","West Coast of North America","North America",33.76670000000001,-118.18329999999997
+Longkou,CNLKU,China,"East Asia",Asia,37.646,120.31199999999997
+"Longoni Comoros Is",KMLOG,"Mayotte (France)","East Africa",Africa,-12.719444439999995,45.165000000000006
+"Longview WA",USLOG,"United States","West Coast of North America","North America",46.13329999999999,-122.9333
+"Los Angeles CA",USLAX,"United States","West Coast of North America","North America",33.74999999999998,-118.24999999999997
+Luanda,AOLAD,Angola,"West Africa",Africa,-8.800000000000004,13.24999999999999
+Luba,GQLUB,"Equatorial Guinea","West Africa",Africa,3.4999999999999973,8.566700000000006
+Lubeck,DELBC,Germany,"Europe / Mediterranean","Europe / Mediterranean",53.89,10.745999999999999
+Lucaya,BSLUC,Bahamas,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",26.513955023009263,-78.64376619425452
+Luderitz,NALUD,Namibia,"Southern Africa",Africa,-26.649999999999995,15.149999999999999
+Lyttelton,NZLYT,"New Zealand",Oceania,Oceania,-43.60611111,172.71611109999998
+Maaloey,NOMAY,Norway,"Europe / Mediterranean","Europe / Mediterranean",61.938621999999995,5.119614
+Macapa,BRMCP,Brazil,"East Coast of South America","South America",0.0333000000000088,-51.050000000000004
+Mackay,AUMKY,Australia,Oceania,Oceania,-21.11670000000001,149.2167
+Madang,PGMAG,"Papua New Guinea",Oceania,Oceania,-5.216699999999999,145.81669999999997
+Magadan,RUMAG,Russia,"East Asia",Asia,59.54000000000001,150.77000000000004
+Mahajanga/Majunga,MGMJN,Madagascar,"East Africa",Africa,-15.70000000000001,46.31669999999999
+Mai-Liao,TWMLI,Taiwan,"East Asia",Asia,23.788610999999996,120.19166999999999
+Maizuru,JPMAI,Japan,"East Asia",Asia,35.51670000000001,135.3333
+Majuro,MHMAJ,"Marshall Islands",Oceania,Oceania,7.0833,171.38329999999996
+Makassar,IDMAK,Indonesia,"Southeast Asia",Asia,,
+Malabo,GQSSG,"Equatorial Guinea","West Africa",Africa,3.749999999999987,8.78330000000001
+Malaga,ESAGP,Spain,"Europe / Mediterranean","Europe / Mediterranean",36.7167,-4.4167000000000085
+Male,MVMLE,Maldives,"Middle East/Indian Subcontinent",Asia,4.1667000000000005,73.5
+Malmo,SEMMA,Sweden,"Europe / Mediterranean","Europe / Mediterranean",55.62399999999998,13.013999999999998
+Malongo,AOMAL,Angola,"West Africa",Africa,-5.4333000000000045,12.083300000000007
+"Malta (Marsaxlokk)",MTMAR,Malta,"Europe / Mediterranean","Europe / Mediterranean",35.82611110999999,14.54583333
+Manaus,BRMAO,Brazil,"East Coast of South America","South America",-3.1333000000000077,-60.016700000000014
+Manchester,GBMNC,"United Kingdom","Europe / Mediterranean","Europe / Mediterranean",,
+"Mangkajang, Borneo",IDMKJ,Indonesia,"Southeast Asia",Asia,,
+Manila,PHMNL,Philippines,"Southeast Asia",Asia,14.583300000000005,120.96670000000003
+"Manila North Harbor",PHMNN,Philippines,"Southeast Asia",Asia,14.616425999999993,120.95723599999994
+"Manila South Harbor",PHMNS,Philippines,"Southeast Asia",Asia,14.585746000000007,120.96486099999997
+Manta,ECMEC,Ecuador,"West Coast of South America","South America",-0.9500000000000077,-80.7167
+Manzanillo,PAMIT,Panama,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",9.360535621643065,-79.8846664428711
+"Manzanillo, Dom Rep",DOMAN,"Dominican Republic","East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",19.707222,-71.74305599999998
+"Manzanillo, MEX",MXZLO,Mexico,"West Coast of North America","North America",19.049999999999994,-104.3333
+"Map Ta Phut",THMAT,Thailand,"Southeast Asia",Asia,12.659169999999998,101.148056
+Maputo,MZMPM,Mozambique,"East Africa",Africa,-25.96669999999999,32.5833
+Maracaibo,VEMAR,Venezuela,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",10.633299999999995,-71.6
+Mariel,CUMAR,Cuba,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",22.995189507933326,-82.75436961408342
+Marin,ESMPG,Spain,"Europe / Mediterranean","Europe / Mediterranean",42.4,-8.699999999999994
+"Marina di Carrara",ITMDC,Italy,"Europe / Mediterranean","Europe / Mediterranean",44.032221999999976,10.040555999999997
+"Marsden Point",NZMAP,"New Zealand",Oceania,Oceania,-35.831792,174.485272
+"Marseilles-Fos (Fos)",FRFOS,France,"Europe / Mediterranean","Europe / Mediterranean",43.3167,5.366700000000001
+"Marseilles-Fos (Marseilles)",FRMRS,France,"Europe / Mediterranean","Europe / Mediterranean",43.3167,5.366700000000001
+"Marsh Harbour, Gt Abaco",BSMHH,Bahamas,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",,
+Masan,KRMAS,"South Korea","East Asia",Asia,35.183299999999996,128.56669999999997
+Massawa,ERMSW,Eritrea,"East Africa",Africa,15.608405,39.46306
+Matadi,CDMAT,"Democratic Republic of Congo","West Africa",Africa,-5.816700000000003,13.450000000000003
+Matanzas,VEMTV,Venezuela,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",8.318888999999995,-62.811109999999985
+Matarani,PEMRI,Peru,"West Coast of South America","South America",-17.000000000000004,-72.1167
+"Matsuyama (Shikoku)",JPMYJ,Japan,"East Asia",Asia,33.866699999999994,132.71669999999997
+Mawan,CNMWN,China,"East Asia",Asia,22.48918599999999,113.86878999999999
+"Mayotte Island",YTDZA,"Mayotte (France)","East Africa",Africa,,
+Mayoumba,GAMYB,Gabon,"West Africa",Africa,-3.42578900000001,10.656008
+Mazatlan,MXMZT,Mexico,"West Coast of North America","North America",23.2,-106.41670000000002
+Mejillones,CLMJS,Chile,"West Coast of South America","South America",-23.099999999999994,-70.46670000000002
+Melbourne,AUMEL,Australia,Oceania,Oceania,-37.83330000000001,144.96669999999997
+Melilla,ESMLN,"Spain/N Af","Europe / Mediterranean","Europe / Mediterranean",35.29999999999998,-2.933299999999991
+"Memphis TN",USMEM,"United States","East Coast of North America","North America",35.088333,-90.11305555999999
+Mersin,TRMER,Turkey,"Europe / Mediterranean","Europe / Mediterranean",36.79999999999999,34.633300000000006
+"Miami FL",USMIA,"United States","East Coast of North America","North America",25.78329999999999,-80.18329999999999
+Miike,JPMII,Japan,"East Asia",Asia,33,130.41670000000002
+"Milwaukee WI",USMKE,"United States","East Coast of North America","North America",43.03329999999999,-87.8833
+"Mina Qaboos",OMMNQ,Oman,"Middle East/Indian Subcontinent",Asia,23.627222219999993,58.56750000000001
+"Miri, Sarawak",MYMYY,Malaysia,"Southeast Asia",Asia,4.3832999999999975,113.96670000000002
+Misurata,LYMRA,Libya,"Europe / Mediterranean","Europe / Mediterranean",32.35833333,15.23027778000001
+Mizushima,JPMIZ,Japan,"East Asia",Asia,34.499999999999986,133.73329999999999
+Moa,CUMOA,Cuba,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",20.666699999999988,-74.9
+"Mobile AL",USMOB,"United States","East Coast of North America","North America",30.68329999999999,-88.11669999999998
+Moerdijk,NLMOE,Netherlands,"Europe / Mediterranean","Europe / Mediterranean",51.686499999999995,4.591999999999999
+Mogadishu,SOMGQ,Somalia,"East Africa",Africa,2.033735902816745,45.351869326957576
+Moin,CRMOB,"Costa Rica","East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",10.005555559999996,-83.07833333
+Moji,JPMOJ,Japan,"East Asia",Asia,33.949999999999996,130.96670000000003
+Mokpo,KRMOK,"South Korea","East Asia",Asia,34.776,126.38300000000004
+Mombasa,KEMBA,Kenya,"East Africa",Africa,-4.06670000000001,39.85000000000001
+Monfalcone,ITMNF,Italy,"Europe / Mediterranean","Europe / Mediterranean",45.78329999999999,13.549999999999995
+Mongla,BDMGL,Bangladesh,"Middle East/Indian Subcontinent",Asia,22.4667,89.58329999999998
+"Monroe MI",USMOI,"United States","East Coast of North America","North America",,
+Monrovia,LRMLW,Liberia,"West Africa",Africa,6.316699999999991,-10.816699999999994
+"Montego Bay",JMMBJ,Jamaica,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",18.4667,-77.9333
+Montevideo,UYMVD,Uruguay,"East Coast of South America","South America",-34.9,-56.21669999999999
+Montoir,FRMTX,France,"Europe / Mediterranean","Europe / Mediterranean",47.33305556,2.133055556000003
+Montreal,CAMTR,Canada,"East Coast of North America","North America",45.51669999999999,-73.55
+Montrose,GBMON,"United Kingdom","Europe / Mediterranean","Europe / Mediterranean",56.71670000000001,-2.466700000000004
+"Morehead City NC",USMRH,"United States","East Coast of North America","North America",34.7167,-76.69999999999999
+"Moroni, Comoros Is",KMYVA,Comoros,"East Africa",Africa,-11.415690082764343,43.26512783771213
+Moss,NOMSS,Norway,"Europe / Mediterranean","Europe / Mediterranean",59.436,10.653499999999998
+Mostaganem,DZMOS,Algeria,"North Africa",Africa,35.933299999999996,0.08329999999999024
+Motril,ESMOT,Spain,"Europe / Mediterranean","Europe / Mediterranean",36.75,-3.516699999999989
+Mtwara,TZMYW,Tanzania,"East Africa",Africa,-10.268418000000002,40.199242
+"Muara Port",BNMUA,Brunei,"Southeast Asia",Asia,5.026308999999999,115.074191
+Mukalla,YEMKX,Yemen,"Middle East/Indian Subcontinent",Asia,,
+"Mumbai (Nhava Sheva)",INNSA,India,"Middle East/Indian Subcontinent",Asia,18.951666669999994,72.94972222
+"Mumbai (Old Port)",INBOM,India,"Middle East/Indian Subcontinent",Asia,18.941899999999993,72.88527
+Mundra,INMUN,India,"Middle East/Indian Subcontinent",Asia,22.73694443999999,69.70805556000002
+Munguba,BRMGU,Brazil,"East Coast of South America","South America",-0.9241000000000001,-52.428000000000004
+Murmansk,RUMMK,Russia,"Europe / Mediterranean","Europe / Mediterranean",,
+"Muroran Hokkaido",JPMUR,Japan,"East Asia",Asia,42.36614199999999,140.930357
+Muscat,OMMCT,Oman,"Middle East/Indian Subcontinent",Asia,23.606666670000003,58.41416666999999
+Mutsamudu,KMMUT,Comoros,"East Africa",Africa,-12.150000000000013,44.39999999999998
+Nacala,MZMNC,Mozambique,"East Africa",Africa,-14.533300000000011,40.666699999999985
+Nador,MANDR,Morocco,"West Africa",Africa,,
+Nagasaki,JPNGS,Japan,"East Asia",Asia,32.75,129.8833
+Nagoya,JPNGO,Japan,"East Asia",Asia,35.04500000000001,136.84805560000004
+"Naha (Okinawa Is)",JPNAH,Japan,"East Asia",Asia,26.216699999999996,127.68329999999999
+Nakanoseki,JPNAN,Japan,"East Asia",Asia,33.99999999999999,131.53333300000003
+Nakhodka,RUNJK,Russia,"Europe / Mediterranean","Europe / Mediterranean",42.80664999999999,132.881831
+Namibe,AOMSZ,Angola,"West Africa",Africa,-15.199999999999996,12.150000000000006
+Nanjing,CNNJI,China,"East Asia",Asia,,
+Nansha,CNNSA,China,"East Asia",Asia,22.640277779999987,113.6736111
+Nantong,CNNTG,China,"East Asia",Asia,,
+Naoetsu,JPNAO,Japan,"East Asia",Asia,37.19297316487207,138.25067448573367
+Napier,NZNPE,"New Zealand",Oceania,Oceania,-39.4833,176.91669999999993
+Naples,ITNAP,Italy,"Europe / Mediterranean","Europe / Mediterranean",40.83666666999999,14.274166669999989
+Narsaq,GLJNS,Greenland,"East Coast of North America","North America",60.90756499999999,-46.044592
+Nassau,BSNAS,Bahamas,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",25.083300000000005,-77.35
+Natal,BRNAT,Brazil,"East Coast of South America","South America",-5.783300000000007,-35.199999999999996
+Navegantes,BRNVT,Brazil,"East Coast of South America","South America",-26.898888890000002,-48.65666666999999
+Nelson,NZNSN,"New Zealand",Oceania,Oceania,-41.2667,173.26669999999996
+"Newcastle, AU",AUNTL,Australia,Oceania,Oceania,-32.916700000000006,151.7833
+"Newcastle UK",GBNCL,"United Kingdom","Europe / Mediterranean","Europe / Mediterranean",54.96669999999998,-1.5832999999999986
+Newhaven,GBNHV,"United Kingdom","Europe / Mediterranean","Europe / Mediterranean",50.78329999999999,0.04999999999999689
+"New Mangalore",INNML,India,"Middle East/Indian Subcontinent",Asia,,
+"New Orleans LA",USMSY,"United States","East Coast of North America","North America",29.94999999999999,-90.04999999999998
+"New Plymouth",NZNPL,"New Zealand",Oceania,Oceania,-39.05722222,174.04027779999998
+"New Westminster BC",CANWE,Canada,"West Coast of North America","North America",49.19999999999999,-122.91670000000002
+"New York NY/NJ",USNYC,"United States","East Coast of North America","North America",40.69416666999999,-74.08402778
+"Ngqura (Coega)",ZAZBA,"South Africa","Southern Africa",Africa,-33.80472200000001,25.689443999999995
+Nicaro,CUICR,Cuba,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",20.7167,-75.55
+Nickerie,SRICK,Suriname,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",5.949999999999999,-57.000000000000014
+"Niigata (N Coast)",JPKIJ,Japan,"East Asia",Asia,37.91670000000001,139.05
+Ningbo,CNNGB,China,"East Asia",Asia,29.866666669999997,121.55527779999998
+Njardvik,ISNJA,Iceland,"Europe / Mediterranean","Europe / Mediterranean",63.98610999999999,-22.53694000000001
+"Norfolk VA",USORF,"United States","East Coast of North America","North America",36.84999999999999,-76.29999999999998
+Noro,SBNOR,"Solomon Islands",Oceania,Oceania,-8.216700000000005,157.1833
+Norrköping,SENRK,Sweden,"Europe / Mediterranean","Europe / Mediterranean",58.58329999999999,16.20000000000001
+Northfleet,GBNFT,"United Kingdom","Europe / Mediterranean","Europe / Mediterranean",51.44630800000001,0.342361
+Nouadhibou,MRNDB,Mauritania,"West Africa",Africa,20.91669999999999,-17.050000000000004
+Nouakchott,MRNKC,Mauritania,"West Africa",Africa,18.03527778,-16.024166670000007
+Noumea,NCNOU,"New Caledonia",Oceania,Oceania,-22.283300000000008,166.4333
+Novorossiysk,RUNVS,Russia,"Europe / Mediterranean","Europe / Mediterranean",44.71669999999999,37.78330000000001
+Nuku'alofa,TOTBU,Tonga,Oceania,Oceania,-21.133300000000002,-175.19999999999996
+Nuuk,GLGOH,Greenland,"East Coast of North America","North America",64.171139,-51.721974999999986
+"NYC Ro/Ro (FAPS)",USEWR,"United States","East Coast of North America","North America",40.695714999999986,-74.149707
+"Oakland CA",USOAK,"United States","West Coast of North America","North America",37.816699999999976,-122.3333
+"Ocho Rios",JMOCJ,Jamaica,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",18.41146715258402,-77.11016706428319
+Odessa,UAODS,Ukraine,"Europe / Mediterranean","Europe / Mediterranean",46.50111110999998,30.73916667
+Oita,JPOIT,Japan,"East Asia",Asia,33.24999999999999,131.58329999999995
+Omaezaki,JPOMZ,Japan,"East Asia",Asia,34.6,138.21670000000003
+Onahama,JPONA,Japan,"East Asia",Asia,36.92900000000001,140.88699999999997
+Onne,NGONN,Nigeria,"West Africa",Africa,4.684999999999999,7.163611111000001
+Oran,DZORN,Algeria,"North Africa",Africa,35.70000000000002,-0.633300000000007
+"Oro Bay",PGROR,"Papua New Guinea",Oceania,Oceania,-8.883300000000007,148.48330000000004
+Osaka,JPOSA,Japan,"East Asia",Asia,34.65,135.4333
+Oskarshamn,SEOSK,Sweden,"Europe / Mediterranean","Europe / Mediterranean",57.26669999999999,16.449999999999996
+Oslo,NOOSL,Norway,"Europe / Mediterranean","Europe / Mediterranean",59.91670000000002,10.749999999999993
+Otaru,JPOTR,Japan,"East Asia",Asia,43.2,141.01669999999996
+"Oulu Finland",FIOUL,Finland,"Europe / Mediterranean","Europe / Mediterranean",65.01450000000001,25.431520000000003
+Owendo,GAOWE,Gabon,"West Africa",Africa,0.2832999999999986,9.499999999999993
+Oxelosund,SEOXE,Sweden,"Europe / Mediterranean","Europe / Mediterranean",58.67000999999999,17.12185
+Padang,IDPDG,Indonesia,"Southeast Asia",Asia,-4.583300000000006,103.13330000000002
+"Pago Pago",ASPPG,"American Samoa",Oceania,Oceania,-14.275914000000004,-170.68513100000004
+Paita,PEPAI,Peru,"West Coast of South America","South America",-5.083299999999998,-81.1167
+Palamos,ESPAL,Spain,"Europe / Mediterranean","Europe / Mediterranean",41.833300000000015,3.1166999999999883
+Palembang,IDPLM,Indonesia,"Southeast Asia",Asia,-2.9833000000000007,104.76670000000003
+"Palm Beach FL",USPAB,"United States","East Coast of North America","North America",26.766699999999982,-80.04999999999998
+Palua,VEPLA,Venezuela,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",,
+"Panama City FL",USPFN,"United States","East Coast of North America","North America",30.1333,-85.64999999999999
+Panjang,IDPJG,Indonesia,"Southeast Asia",Asia,-5.466699999999998,105.3167
+"Papeete, Tahiti",PFPPT,"French Polynesia",Oceania,Oceania,-17.5333,-149.5833
+Paradip,INPRT,India,"Middle East/Indian Subcontinent",Asia,20.266700000000004,86.68330000000002
+Paramaribo,SRPBM,Suriname,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",5.816699999999992,-55.15
+Paranagua,BRPNG,Brazil,"East Coast of South America","South America",-25.500000000000007,-48.516700000000014
+"Pascagoula MS",USPGL,"United States","East Coast of North America","North America",30.349999999999994,-88.5667
+"Pasir Gudang, Johor",MYPGU,Malaysia,"Southeast Asia",Asia,1.4461111109999956,103.88611110000001
+"Pecem (near Fortaleza)",BRPEC,Brazil,"East Coast of South America","South America",-3.5388888889999985,-38.80222221999999
+Pemba,MZPOL,Mozambique,"East Africa",Africa,-12.96700000000001,40.48599999999998
+Penang,MYPEN,Malaysia,"Southeast Asia",Asia,5.388333332999995,100.35250000000002
+"Pennsauken NJ",USPPS,"United States","East Coast of North America","North America",,
+"Pensacola FL",USPNS,"United States","East Coast of North America","North America",,
+Petropavlosk,RUPKC,Russia,"East Asia",Asia,52.991065,158.6383
+"Philadelphia PA",USPHL,"United States","East Coast of North America","North America",39.95,-75.13329999999999
+Phuket,THHKT,Thailand,"Southeast Asia",Asia,7.818899999999996,98.40469999999999
+Pipavav,INPAV,India,"Middle East/Indian Subcontinent",Asia,20.918888889999998,71.50416666999999
+Piraeus,GRPIR,Greece,"Europe / Mediterranean","Europe / Mediterranean",37.94111110999998,23.633888889999998
+Pisco,PEPIO,Peru,"West Coast of South America","South America",-13.716700000000008,-76.24999999999999
+Pitea,SEPIT,Sweden,"Europe / Mediterranean","Europe / Mediterranean",65.31742199999998,21.49570800000001
+Ploce,HRPLE,Croatia,"Europe / Mediterranean","Europe / Mediterranean",,
+Plymouth,MSPLY,Montserrat,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",16.7,-62.2167
+Pohang,KRKPO,"South Korea","East Asia",Asia,36.05,129.38330000000002
+Pohnpei,FMPNI,Micronesia,Oceania,Oceania,6.983299999999993,158.2
+Pointe-a-Pitre,GPPTP,Guadeloupe,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",16.233888889999996,-61.54138888999999
+"Pointe Noire",CGPNR,"Republic of Congo","West Africa",Africa,-4.78330000000001,11.833299999999996
+"Point Lisas",TTPTS,"Trinidad and Tobago","East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",10.38329999999999,-61.483300000000014
+"Ponce PR",PRPSE,"Puerto Rico (U.S.)","East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",17.983299999999996,-66.61669999999998
+"Ponta Delgada",PTPDL,Portugal,"Europe / Mediterranean","Europe / Mediterranean",37.7333,-25.66670000000001
+"Port Alma",AUPTL,Australia,Oceania,Oceania,-23.600000000000012,150.8667
+"Port Arthur TX",USPOA,"United States","East Coast of North America","North America",29.833299999999983,-93.9667
+Port-au-Prince,HTPAP,Haiti,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",18.565833330000004,-72.34333333
+"Port Canaveral, FL",USCPV,"United States","East Coast of North America","North America",28.699999999999996,-80.61669999999998
+"Port Chalmers",NZPOE,"New Zealand",Oceania,Oceania,-45.81305556,170.62638889999994
+"Port Colborne Ontario",CAPCO,Canada,"East Coast of North America","North America",,
+"Port Elizabeth",ZAPLZ,"South Africa","Southern Africa",Africa,-33.96670000000001,25.616700000000012
+"Port Everglades FL",USPEF,"United States","East Coast of North America","North America",26.099999999999998,-80.11669999999998
+"Port Gentil",GAPOG,Gabon,"West Africa",Africa,-0.20000000000000365,8.800000000000013
+"Port Harcourt",NGPHC,Nigeria,"West Africa",Africa,4.766699999999997,6.9999999999999964
+"Port Hueneme CA",USNTD,"United States","West Coast of North America","North America",34.15,-119.20000000000002
+"Port Kembla",AUPKL,Australia,Oceania,Oceania,-34.48330000000001,150.91670000000002
+"Port Klang",MYPKG,Malaysia,"Southeast Asia",Asia,3.0000000000000013,101.39999999999999
+"Port Lafito",HTLFF,Haiti,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",18.694922000000002,-72.362582
+"Portland, ME",USPWM,"United States","East Coast of North America","North America",43.651500000000006,-70.254
+"Portland OR",USPDX,"United States","West Coast of North America","North America",45.51669999999999,-122.66669999999998
+"Port Laudania",USDAD,"United States","East Coast of North America","North America",26.060540000000003,-80.129862
+"Port Louis",MUPLU,Mauritius,"East Africa",Africa,-20.149999999999995,57.49999999999997
+"Port Manatee FL",USPME,"United States","East Coast of North America","North America",27.6333,-82.56669999999998
+"Port Mellon BC",CAPML,Canada,"West Coast of North America","North America",49.51669999999999,-123.4833
+"Port Moresby",PGPOM,"Papua New Guinea",Oceania,Oceania,-9.466700000000003,147.13329999999996
+"Porto Alegre",BRPOA,Brazil,"East Coast of South America","South America",-30.03330000000001,-51.233299999999986
+"Porto Amboim",AOPBN,Angola,"West Coast of Central Africa",Africa,-10.750247360496425,13.73536645832726
+Portocel,BRPCL,Brazil,"East Coast of South America","South America",-19.843000000000007,-40.05
+"Port of Spain",TTPOS,"Trinidad and Tobago","East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",10.521805559999999,-61.51430556
+"Porto Itapoa",BRIOA,Brazil,"East Coast of South America","South America",-26.181578000000012,-48.598592000000004
+"Porto Marghera",ITGHE,Italy,"Europe / Mediterranean","Europe / Mediterranean",,
+"Port Pirie",AUPPI,Australia,Oceania,Oceania,-33.1833,138.0167
+"Port Qasim",PKBQM,Pakistan,"Middle East/Indian Subcontinent",Asia,24.76968699999999,67.33235599999999
+"Port Said",EGPSD,Egypt,"Europe / Mediterranean","Europe / Mediterranean",31.253333329999986,32.30944443999998
+Portsmouth,GBPME,"United Kingdom","Europe / Mediterranean","Europe / Mediterranean",50.807500000000005,-1.1000000000000079
+"Port Sudan",SDPZU,Sudan,"East Africa",Africa,19.615833329999994,37.224444440000006
+"Port Vila",VUVLI,Vanuatu,Oceania,Oceania,-17.733300000000003,168.3167
+Poti,GEPTI,Georgia,"Europe / Mediterranean","Europe / Mediterranean",42.16610300000001,41.652419
+Praia,CVRAI,"Cape Verde","West Africa",Africa,14.916700000000006,-23.516699999999993
+"Praia da Vitoria",PTPRV,Portugal,"Europe / Mediterranean","Europe / Mediterranean",38.723610999999984,-27.054444000000007
+"Prince Rupert BC",CAPRR,Canada,"West Coast of North America","North America",54.316700000000004,-130.3333
+Progreso,MXPGO,Mexico,"East Coast of North America","North America",21.283299999999993,-89.6667
+"Prony Bay",NCPNY,"New Caledonia",Oceania,Oceania,-22.350146000000006,166.89062799999996
+"Providence, RI",USPVD,"United States","East Coast of North America","North America",41.79999999999999,-71.4
+Providenciales,TCPLS,"Turks and Caicos Islands","East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",21.73721999999999,-72.276865
+"PSA Panama",PAPSA,Panama,"West Coast of Central America","Central America & Caribbean",8.954172134399405,-79.57524871826172
+"Puerto Barrios",GTPBR,Guatemala,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",15.734527587890623,-88.60676574707031
+"Puerto Bolivar",COPBO,Colombia,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",12.249999999999998,-71.9667
+"Puerto Bolivar EC",ECPBO,Ecuador,"West Coast of South America","South America",-3.2548850000000074,-79.999594
+"Puerto Cabello",VEPBL,Venezuela,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",10.483300000000003,-68
+"Puerto Cabezas",NIPUZ,Nicaragua,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",14.016699999999993,-83.3833
+"Puerto Caldera",CRCAL,"Costa Rica","West Coast of Central America","Central America & Caribbean",9.914363861083974,-84.72054290771484
+"Puerto Castilla",HNPCA,Honduras,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",16.004081726074226,-85.96931457519531
+"Puerto Chiapas",MXPMD,Mexico,"West Coast of North America","North America",14.703610999999999,-92.405556
+"Puerto Cortes",HNPCR,Honduras,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",15.842330932617191,-87.94689178466797
+"Puerto del Rosario",ESFUE,"Canary Islands (Spain)","West Africa",Africa,28.483300000000003,-13.850000000000001
+"Puerto de Posorja",ECPSJ,Ecuador,"West Coast of South America","South America",-2.720398000000007,-80.24421599999998
+"Puerto Limon",CRLIO,"Costa Rica","East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",9.988663673400868,-83.02243041992188
+"Puerto Madryn",ARPMY,Argentina,"East Coast of South America","South America",-42.7667,-65.0333
+"Puerto Morelos",MXPMS,Mexico,"East Coast of North America","North America",20.834695,-86.88545
+"Puerto Padre",CUPPA,Cuba,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",21.283299999999993,-76.53329999999998
+"Puerto Plata",DOPOP,"Dominican Republic","East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",19.8,-70.7
+"Puerto Quetzal",GTPRQ,Guatemala,"West Coast of Central America","Central America & Caribbean",13.923913955688471,-90.78738403320312
+"Puerto San Lorenzo",HNSLO,Honduras,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",13.400000000000002,-87.42499999999998
+"Puerto Sucre",VEPSU,Venezuela,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",10.466700000000003,-64.18329999999999
+"Punta Arenas",CLPUQ,Chile,"West Coast of South America","South America",-53.166700000000006,-70.9
+Puntarenas,CRPAS,"Costa Rica","West Coast of Central America","Central America & Caribbean",9.970609763334563,-84.83062959043193
+Pyongtaek,KRPTK,"South Korea","East Asia",Asia,36.992778,126.791944
+Qingdao,CNTAO,China,"East Asia",Asia,36.095833329999984,120.3172222
+Qinhuangdao,CNSHP,China,"East Asia",Asia,39.913999999999994,119.64150000000002
+Qinzhou,CNQZH,China,"East Asia",Asia,21.719507,108.58844900000001
+Quanzhou,CNQZL,China,"East Asia",Asia,24.880750999999993,118.68389099999996
+Quepos,CRQPS,"Costa Rica","West Coast of Central America","Central America & Caribbean",9.42616459281902,-84.1689345677675
+"Qui Nhon",VNUIH,Vietnam,"Southeast Asia",Asia,13.766699999999995,109.2333
+"Raahe Finland",FIRAA,Finland,"Europe / Mediterranean","Europe / Mediterranean",,
+Rabaul,PGRAB,"Papua New Guinea",Oceania,Oceania,-4.200000000000013,152.1833
+Rama,NIRAM,Nicaragua,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",12.167544364929194,-84.23091888427733
+"Ras Laffan",QARLF,Qatar,"Middle East/Indian Subcontinent",Asia,25.933299999999978,51.59999999999999
+"Rauma Finland",FIRAU,Finland,"Europe / Mediterranean","Europe / Mediterranean",61.1235,21.453
+Ravenna,ITRAN,Italy,"Europe / Mediterranean","Europe / Mediterranean",44.46222000000001,12.250560000000002
+Recife,BRREC,Brazil,"East Coast of South America","South America",-8.049999999999995,-34.8667
+Reunion,REREU,Reunion,"East Africa",Africa,-20.930906000000007,55.316579000000004
+"Reunion Island",REPDG,Reunion,"East Africa",Africa,-20.93055556,55.31972222000002
+"Reydarfjordur Iceland",ISRFJ,Iceland,"Europe / Mediterranean","Europe / Mediterranean",65.03062999999999,-14.222714999999999
+Reykjavik,ISREY,Iceland,"Europe / Mediterranean","Europe / Mediterranean",64.14999999999999,-21.933300000000006
+"Richards Bay",ZARCB,"South Africa","Southern Africa",Africa,-28.8167,32.0833
+"Richmond CA",USRCH,"United States","West Coast of North America","North America",37.533300000000004,-77.41669999999999
+"Richmond VA",USRIC,"United States","East Coast of North America","North America",37.533300000000004,-77.41669999999999
+Riga,LVRIX,Letonia,"Europe / Mediterranean","Europe / Mediterranean",56.959400999999986,24.094871
+Rijeka,HRRJK,Croatia,"Europe / Mediterranean","Europe / Mediterranean",45.32749999999999,14.425555560000008
+"Rio de Janeiro",BRRIO,Brazil,"East Coast of South America","South America",-22.88305556000001,-43.196666670000006
+"Rio Grande",BRRIG,Brazil,"East Coast of South America","South America",-32.04999999999998,-52.08329999999999
+"Rio Haina",DOHAI,"Dominican Republic","East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",18.42027854919433,-70.01889038085938
+Rizhao,CNRZH,China,"East Asia",Asia,35.365164,119.53336299999998
+Roatan,HNRTB,Honduras,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",16.313272895313496,-86.5444777395397
+Rodman,PAROD,Panama,"West Coast of Central America","Central America & Caribbean",8.954172134399405,-79.57524871826172
+Roseau,DMRSU,Dominica,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",15.283299999999995,-61.4
+Rostock,DERSK,Germany,"Europe / Mediterranean","Europe / Mediterranean",54.145106,12.100591999999999
+Rota,ESROT,Spain,"Europe / Mediterranean","Europe / Mediterranean",36.617756076125225,-6.332745460623296
+Rotterdam,NLRTM,Netherlands,"Europe / Mediterranean","Europe / Mediterranean",51.9,4.483299999999996
+Rouen,FRURO,France,"Europe / Mediterranean","Europe / Mediterranean",49.449999999999996,1.1000000000000079
+"Runavik Faroe Islands",FORVK,"Islas Feroe","North Europe","Europe / Mediterranean",,
+Saba,BQSAB,"Saba (Netherlands)","East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",17.614124999999994,-63.24258
+Sagunto,ESSAG,Spain,"Europe / Mediterranean","Europe / Mediterranean",39.64999999999999,-0.2166999999999911
+"Saint John, New Brunswick",CASJB,Canada,"East Coast of North America","North America",45.266700000000014,-66.05
+Saipan,MPSPN,"Northern Mariana Islands (U.S.)",Oceania,Oceania,15.199999999999992,145.6833
+"Sakaiminato (N Coast)",JPSMN,Japan,"East Asia",Asia,35.55,133.23330000000004
+Sakaisenboku,JPSBK,Japan,"East Asia",Asia,34.524539,135.41610899999995
+Sakata,JPSKT,Japan,"East Asia",Asia,38.949556999999984,139.81766600000003
+Salalah,OMSLL,Oman,"Middle East/Indian Subcontinent",Asia,16.941666669999996,54.00500000000002
+Salaverry,PESVY,Peru,"West Coast of South America","South America",-8.233300000000012,-78.9833
+"Sal, Cape Verde Is",CVSID,"Cape Verde","West Africa",Africa,,
+"Saldanha Bay",ZASDB,"South Africa","Southern Africa",Africa,-33.033300000000004,17.966700000000003
+Salerno,ITSAL,Italy,"Europe / Mediterranean","Europe / Mediterranean",40.666699999999985,14.749999999999998
+"Salina Cruz",MXSCX,Mexico,"West Coast of North America","North America",16.166699999999988,-95.19999999999999
+Salvador,BRSSA,Brazil,"East Coast of South America","South America",-12.966700000000001,-38.51669999999999
+Samsun,TRSZF,Turkey,"Europe / Mediterranean","Europe / Mediterranean",41.30127003769701,36.3494925386822
+"San Andres Island",COADZ,Colombia,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",12.578,-81.696
+"San Andros",BSSAQ,Bahamas,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",,
+"San Antonio",CLSAI,Chile,"West Coast of South America","South America",-33.58330000000001,-71.6333
+Sandakan,MYSDK,Malaysia,"Southeast Asia",Asia,5.823515499999998,118.09585000000001
+"San Diego CA",USSAN,"United States","West Coast of North America","North America",32.716699999999996,-117.1833
+Sandnes,NOSAS,Norway,"Europe / Mediterranean","Europe / Mediterranean",58.85772499999999,5.745864999999999
+"San Felix",VESFX,Venezuela,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",,
+"San Francisco CA",USSFO,"United States","West Coast of North America","North America",37.816699999999976,-122.41669999999999
+"San Juan del Sur",NISJS,Nicaragua,"West Coast of Central America","Central America & Caribbean",11.251127209920813,-85.87565253153505
+"San Juan PR",PRSJU,"Puerto Rico (U.S.)","East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",18.4667,-66.1167
+"San Pedro CA",USSPQ,"United States","West Coast of North America","North America",,
+"San Pedro, Ivory Coast",CISPY,"Ivory Coast","West Africa",Africa,4.733299999999999,-6.616699999999999
+"San Salvador Island",BSZSA,Bahamas,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",24.057640999999997,-74.53765299999999
+"Santa Cruz de la Palma",ESSPC,"Canary Islands (Spain)","West Africa",Africa,28.675832999999997,-17.76666699999999
+"Santa Marta",COSMR,Colombia,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",11.25,-74.2167
+Santander,ESSDR,Spain,"Europe / Mediterranean","Europe / Mediterranean",43.46669999999999,-3.783299999999988
+Santarem,BRSTM,Brazil,"East Coast of South America","South America",-2.416700000000001,-54.7167
+"Santiago de Cuba",CUSCU,Cuba,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",20.016700000000007,-75.83329999999998
+Santo,VUSAN,Vanuatu,Oceania,Oceania,-15.515345999999996,167.188543
+"Santo Domingo",DOSDQ,"Dominican Republic","East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",18.466699600219712,-69.88330078124999
+Santos,BRSSZ,Brazil,"East Coast of South America","South America",-23.950000000000006,-46.29999999999999
+"Santo Tomas de Castilla",GTSTC,Guatemala,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",15.694722175598136,-88.61638641357422
+"San Vicente",CLSVE,Chile,"West Coast of South America","South America",-36.73330000000001,-73.1667
+"Sao Francisco do Sul",BRSFS,Brazil,"East Coast of South America","South America",-26.250000000000004,-48.63329999999999
+"Sao Luis",BRSLZ,Brazil,"East Coast of South America","South America",-2.533300000000009,-44.28329999999998
+"Sao Sebastiao",BRSSO,Brazil,"East Coast of South America","South America",,
+"Sao Tome",STTMS,"Sao Tome and Principe","West Africa",Africa,0.35000000000000603,8.81669999999999
+Saudarkrokur,ISSAU,Iceland,"Europe / Mediterranean","Europe / Mediterranean",,
+"Savannah GA",USSAV,"United States","East Coast of North America","North America",32.083299999999994,-81.0833
+Savona,ITSVN,Italy,"Europe / Mediterranean","Europe / Mediterranean",44.31669999999999,8.500000000000005
+Savusavu,FJSVU,Fiji,Oceania,Oceania,-16.766700000000007,179.33329999999998
+Scarborough,TTSCA,"Trinidad and Tobago","East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",11.181218351313191,-60.736066940732144
+Scrabster,GBSCR,"United Kingdom","Europe / Mediterranean","Europe / Mediterranean",58.610585000000015,-3.5436135
+"Seattle WA",USSEA,"United States","West Coast of North America","North America",47.59999999999999,-122.3333
+"Semarang, Java",IDSRG,Indonesia,"Southeast Asia",Asia,-6.950000000000001,110.41670000000002
+"Sendai (Honshu)",JPSDJ,Japan,"East Asia",Asia,38.27,141.02169999999998
+"Sendai (Kagoshima, Kyushu)",JPSTS,Japan,"East Asia",Asia,31.58329999999999,130.5667
+Seosan,KRTSN,"South Korea","East Asia",Asia,37.0153,126.3826
+Sepetiba,BRSPB,Brazil,"East Coast of South America","South America",-22.932499999999994,-43.8325
+Sete,FRSET,France,"Europe / Mediterranean","Europe / Mediterranean",43.399999999999984,3.699999999999998
+Setubal,PTSET,Portugal,"Europe / Mediterranean","Europe / Mediterranean",38.51669999999999,-8.900000000000006
+Seville,ESSVQ,Spain,"Europe / Mediterranean","Europe / Mediterranean",37.38329999999998,-6.000000000000008
+"Seychelles Is., Port Victoria",SCPOV,Seychelles,"East Africa",Africa,-4.616699999999999,55.45
+Sfax,TNSFA,Tunisia,"North Africa",Africa,,
+Shanghai,CNSHA,China,"East Asia",Asia,31.21669999999999,121.49999999999997
+Shantou,CNSWA,China,"East Asia",Asia,23.35472222,116.70638889999996
+Sharjah,AESHJ,"United Arab Emirates","Middle East/Indian Subcontinent",Asia,25.36611111000001,55.37833333000001
+Sheerness,GBSHS,"United Kingdom","Europe / Mediterranean","Europe / Mediterranean",51.45,0.7500000000000041
+Shekou,CNSHK,China,"East Asia",Asia,22.47083333,113.9033333
+Shelburne,CASBU,Canada,"East Coast of North America","North America",43.749999999999986,-65.31669999999997
+Shibushi,JPSBS,Japan,"East Asia",Asia,31.466700000000007,131.1
+Shidao,CNSHD,China,"East Asia",Asia,36.890724999999996,122.4488
+Shimizu,JPSMZ,Japan,"East Asia",Asia,35.016699999999986,138.4833
+"Shimonoseki (Chofu)",JPCHF,Japan,"East Asia",Asia,33.949999999999996,130.93329999999997
+Shuwaikh,KWSWK,Kuwait,"Middle East/Indian Subcontinent",Asia,,
+Sihanoukville,KHKOS,Cambodia,"Southeast Asia",Asia,10.653610999999998,103.512222
+Sika,INSIK,India,"Middle East/Indian Subcontinent",Asia,22.465599999999995,69.84299999999998
+Sillamae,EESLM,Estonia,"Europe / Mediterranean","Europe / Mediterranean",,
+Sines,PTSIE,Portugal,"Europe / Mediterranean","Europe / Mediterranean",37.95,-8.866699999999987
+Singapore,SGSIN,Singapore,"Southeast Asia",Asia,1.2833000000000068,103.85
+Sisimiut,GLJHS,Greenland,"East Coast of North America","North America",66.94081099999997,-53.680340999999984
+Skikda,DZSKI,Algeria,"North Africa",Africa,36.884913,6.913270000000006
+Slavyanka,RUSKA,Russia,"Europe / Mediterranean","Europe / Mediterranean",42.867904,131.389182
+Sodertalje,SESOE,Sweden,"Europe / Mediterranean","Europe / Mediterranean",59.17999999999997,17.647
+Sohar,OMSOH,Oman,"Middle East/Indian Subcontinent",Asia,24.5167,56.59999999999999
+Sokhna,EGSOK,Egypt,"Middle East/Indian Subcontinent",Asia,29.647777779999988,32.35638889
+Songkhla,THSGZ,Thailand,"Southeast Asia",Asia,7.2294429999999945,100.57206799999997
+"Sorel Quebec",CASOR,Canada,"East Coast of North America","North America",46.049629796510104,-73.1150937001214
+Sortland,NOSLX,Norway,"Europe / Mediterranean","Europe / Mediterranean",68.7,15.416699999999986
+Southampton,GBSOU,"United Kingdom","Europe / Mediterranean","Europe / Mediterranean",50.89999999999999,-1.399999999999989
+"South Caicos, Cockburn Harbour",TCXSC,"Turks and Caicos Islands","East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",21.49388889999999,-71.53611109999999
+Soyo,AOSOQ,Angola,"West Africa",Africa,-6.3332999999999995,12.233299999999998
+Split,HRSPU,Croatia,"Europe / Mediterranean","Europe / Mediterranean",43.501718461106684,16.4393134298327
+"Squamish BC",CASQA,Canada,"West Coast of North America","North America",49.683299999999996,-123.16669999999998
+Sriracha,THSRI,Thailand,"Southeast Asia",Asia,13.171389000000003,100.919722
+"St Anthony Newfoundland",CASAT,Canada,"East Coast of North America","North America",51.36669999999999,-55.5833
+Stavanger,NOSVG,Norway,"Europe / Mediterranean","Europe / Mediterranean",58.9828,5.7324
+"St Barthelemy",GPSBH,"St Barthelemy (France)","East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",-62.852653000000004,17.902449999999998
+"St Croix VI",VICTD,"U.S. Virgin Islands","East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",17.695110999999997,-64.755008
+"St Denis de la Reunion",RERUN,Reunion,"East Africa",Africa,-20.866700000000005,55.46669999999998
+"St Eustatius",BQEUX,"St Eustatius (Netherlands)","East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",17.492499999999986,-62.99825
+"St George's",GDSTG,Grenada,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",12.049999999999997,-61.75
+"St Georges",BMSGE,Bermuda,"East Coast of North America","North America",32.38024305235756,-64.67661705495921
+"St John's, Antigua",AGSJO,"Antigua and Barbuda","East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",17.122777999999993,-61.85361099999999
+"St John's, Newfoundland",CASJF,Canada,"East Coast of North America","North America",47.56669999999998,-52.699999999999996
+"St John VI",VICZB,"U.S. Virgin Islands","East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",18.327478,-64.79446000000002
+"St Louis MO",USSTL,"United States","East Coast of North America","North America",38.62999999999999,-90.17916699999999
+"St Maarten",SXSXM,"St Maarten (Netherlands)","East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",18.014443999999994,-63.04972200000002
+Stockholm,SESTO,Sweden,"Europe / Mediterranean","Europe / Mediterranean",59.32705,18.10615
+"Stockton CA",USSCK,"United States","West Coast of North America","North America",37.95,-121.29999999999998
+"St Petersburg",RULED,Russia,"Europe / Mediterranean","Europe / Mediterranean",59.885724999999994,30.181358000000007
+"St Thomas VI",VISTT,"U.S. Virgin Islands","East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",18.349999999999998,-64.933333
+"St Vincente",CVVXE,"Cape Verde","West Africa",Africa,16.887516999999992,-24.999039000000014
+Suape,BRSUA,Brazil,"East Coast of South America","South America",-8.066700000000003,-34.883299999999984
+"Subic Bay",PHSFS,Philippines,"Southeast Asia",Asia,14.799999999999995,120.26669999999999
+Sundsvall,SESDL,Sweden,"Europe / Mediterranean","Europe / Mediterranean",62.40074999999999,17.3575
+"Sungai Pakning",IDSEQ,Indonesia,"Southeast Asia",Asia,1.3500000000000054,102.16669999999998
+"Surabaya, Java",IDSUB,Indonesia,"Southeast Asia",Asia,-7.200000000000004,112.73329999999997
+Suva,FJSUV,Fiji,Oceania,Oceania,-18.1333,178.41669999999996
+Sydney,AUSYD,Australia,Oceania,Oceania,-33.86670000000001,151.19999999999996
+Szczecin,PLSZZ,Poland,"Europe / Mediterranean","Europe / Mediterranean",53.44100000000001,14.594999999999999
+"Tacoma WA",USTIW,"United States","West Coast of North America","North America",47.28329999999999,-122.41669999999999
+Tagonoura,JPTGO,Japan,"East Asia",Asia,35.133299999999984,138.70000000000002
+Taicang,CNTAC,China,"East Asia",Asia,24.258333329999996,120.5061111
+Taichung,TWTXG,Taiwan,"East Asia",Asia,24.258332999999997,120.50611099999998
+Taipei,TWTPE,Taiwan,"East Asia",Asia,25.15194444000001,121.37916669999997
+"Takamatsu (Shikoku)",JPTAK,Japan,"East Asia",Asia,34.333299999999994,134.05
+Takoradi,GHTKD,Ghana,"West Africa",Africa,4.883299999999995,-1.7332999999999892
+Talcahuano,CLTAL,Chile,"West Coast of South America","South America",-36.70000000000001,-73.1
+"Tallinn Estonia",EETLL,Estonia,"Europe / Mediterranean","Europe / Mediterranean",59.460000000000015,24.69499999999999
+Tamatave/Toamasina,MGTOA,Madagascar,"East Africa",Africa,-18.166699999999988,49.41670000000001
+"Tampa FL",USTPA,"United States","East Coast of North America","North America",27.916699999999995,-82.45
+Tampico,MXTAM,Mexico,"East Coast of North America","North America",22.216699999999992,-97.86669999999998
+Tananger,NOTAE,Norway,"Europe / Mediterranean","Europe / Mediterranean",58.928574999999974,5.588811999999992
+"Tan cang Hiep Phuoc",VNHPP,Vietnam,"Southeast Asia",Asia,10.647712999999996,106.74468099999999
+Tanga,TZTGT,Tanzania,"East Africa",Africa,-5.083299999999998,39.11669999999998
+Tanger,MAPTM,Morocco,"Europe / Mediterranean","Europe / Mediterranean",35.783299999999976,-5.816699999999998
+"Tanjung Manis",MYTMP,Malaysia,"Southeast Asia",Asia,2.133333000000007,111.34999999999998
+"Tanjung Pelepas",MYTPP,Malaysia,"Southeast Asia",Asia,1.3619444439999904,103.54249999999998
+Tarahan,IDTRH,Indonesia,"Southeast Asia",Asia,-5.515629000000001,105.343886
+Taranto,ITTAR,Italy,"Europe / Mediterranean","Europe / Mediterranean",40.433299999999996,17.199999999999996
+Tarawa,KITRW,Kiribati,Oceania,Oceania,1.4999999999999951,173
+Tarragona,ESTAR,Spain,"Europe / Mediterranean","Europe / Mediterranean",41.09999999999999,1.233299999999995
+Tartus,SYTTS,Syria,"Europe / Mediterranean","Europe / Mediterranean",34.89772200000001,35.873551000000006
+Tauranga,NZTRG,"New Zealand",Oceania,Oceania,-37.6333,176.16669999999993
+"Tawau Sabah",MYTWU,Malaysia,"Southeast Asia",Asia,,
+Teesport,GBTEE,"United Kingdom","Europe / Mediterranean","Europe / Mediterranean",54.60000000000001,-1.166700000000008
+Tekirdag,TRTEK,Turkey,"Europe / Mediterranean","Europe / Mediterranean",40.964845,27.506075999999997
+Tema,GHTEM,Ghana,"West Africa",Africa,5.616699999999991,0.016700000000003542
+Tenerife,ESSCT,"Canary Islands (Spain)","West Africa",Africa,28.46669999999999,-16.233300000000003
+Thamesport,GBTHP,"United Kingdom","Europe / Mediterranean","Europe / Mediterranean",51.43329999999999,0.7000000000000074
+Thessaloniki,GRSKG,Greece,"Europe / Mediterranean","Europe / Mediterranean",40.63329999999998,22.933299999999992
+Thorshavn,FOTHO,"Islas Feroe","North Europe","Europe / Mediterranean",62.00223,-6.7686305
+"Three Rivers, Quebec",CATRR,Canada,"East Coast of North America","North America",46.33499999999999,-72.53899999999999
+Tilbury,GBTIL,"United Kingdom","Europe / Mediterranean","Europe / Mediterranean",51.45,0.3500000000000037
+Timaru,NZTIU,"New Zealand",Oceania,Oceania,-44.4,171.24999999999997
+Tobruk,LYTOB,Libya,"Europe / Mediterranean","Europe / Mediterranean",32.073493999999975,23.979142
+"Tokushima (Shikoku)",JPTKS,Japan,"East Asia",Asia,33.871940000000016,134.65250000000003
+Tokuyama,JPTKY,Japan,"East Asia",Asia,34.03329999999998,131.81670000000003
+Tokyo,JPTYO,Japan,"East Asia",Asia,35.66669999999999,139.74999999999997
+Tolu,COTLU,Colombia,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",9.520277999999992,-75.586389
+Tomakomai,JPTMK,Japan,"East Asia",Asia,42.633299999999984,141.6333
+"Tornio Finland",FITOR,Finland,"Europe / Mediterranean","Europe / Mediterranean",65.84365000000001,24.15515
+"Toronto, Ontario",CATOR,Canada,"East Coast of North America","North America",43.61670000000001,-79.38329999999999
+Tortola,VGRAD,"British Virgin Islands","East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",18.4252907383778,-64.6164587700981
+Townsville,AUTSV,Australia,Oceania,Oceania,-19.266700000000004,146.8167
+"Toyama (N Coast)",JPTOY,Japan,"East Asia",Asia,36.7833,137.0667
+Toyohashi,JPTHS,Japan,"East Asia",Asia,34.7167,137.33329999999998
+Trabzon,TRTZX,Turkey,"Europe / Mediterranean","Europe / Mediterranean",,
+Trapani,ITTPS,Italy,"Europe / Mediterranean","Europe / Mediterranean",38.014422,12.508560999999993
+Trieste,ITTRS,Italy,"Europe / Mediterranean","Europe / Mediterranean",45.650000000000006,13.766699999999986
+Tripoli,LYTIP,Libya,"Europe / Mediterranean","Europe / Mediterranean",32.90749999999999,13.199000000000007
+"Tripoli Lebanon",LBKYE,Lebanon,"Europe / Mediterranean","Europe / Mediterranean",,
+Tromso,NOTOS,Norway,"Europe / Mediterranean","Europe / Mediterranean",69.66699999999997,19.01035
+Tsuruga,JPTRG,Japan,"East Asia",Asia,35.66999999999998,136.05999999999997
+Tunis,TNTUN,Tunisia,"Europe / Mediterranean","Europe / Mediterranean",36.79999999999999,10.2
+Turbo,COTRB,Colombia,"East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",8.066699999999996,-76.7333
+Tuticorin,INTUT,India,"Middle East/Indian Subcontinent",Asia,8.799999999999999,78.1667
+Tuxpan,MXTUX,Mexico,"East Coast of North America","North America",20.949999999999992,-97.39999999999999
+Tvoroyri,FOTVO,"Islas Feroe","North Europe","Europe / Mediterranean",61.55326999999999,-6.8213165
+Uddevalla,SEUDD,Sweden,"Europe / Mediterranean","Europe / Mediterranean",58.34999999999997,11.9167
+Ulsan,KRUSN,"South Korea","East Asia",Asia,35.449999999999996,129.39999999999998
+Umea,SEUME,Sweden,"Europe / Mediterranean","Europe / Mediterranean",63.82450599999999,20.259571
+"Umm Qasr",IQUQR,Iraq,"Middle East/Indian Subcontinent",Asia,30.016699999999997,47.94999999999999
+"Umm Said (Mesaieed)",QAUMS,Qatar,"Middle East/Indian Subcontinent",Asia,24.93830699999999,51.583393
+Ushuaia,ARUSH,Argentina,"East Coast of South America","South America",-54.816700000000004,-68.3
+"Ust Luga",RUULU,Russia,"Europe / Mediterranean","Europe / Mediterranean",59.653888999999985,28.263055999999995
+"Vado Ligure",ITVDL,Italy,"Europe / Mediterranean","Europe / Mediterranean",44.26972221999999,8.448055555999991
+Vagur,FOVAG,"Islas Feroe","North Europe","Europe / Mediterranean",61.469500000000004,-6.807
+Valencia,ESVLC,Spain,"Europe / Mediterranean","Europe / Mediterranean",39.44999999999999,-0.31670000000001025
+"Valleyfield Quebec",CAVLF,Canada,"East Coast of North America","North America",45.223152000000006,-74.088804
+Valparaiso,CLVAP,Chile,"West Coast of South America","South America",-33.033300000000004,-71.6167
+"Vancouver BC",CAVAN,Canada,"West Coast of North America","North America",49.2833,-123.11669999999998
+"Vancouver WA",USVAN,"United States","West Coast of North America","North America",45.6333,-122.6833
+Varberg,SEVAG,Sweden,"Europe / Mediterranean","Europe / Mediterranean",,
+Varna,BGVAR,Bulgaria,"Europe / Mediterranean","Europe / Mediterranean",43.18330000000001,27.966699999999992
+Venice,ITVCE,Italy,"Europe / Mediterranean","Europe / Mediterranean",45.44750000000001,12.283055560000001
+Veracruz,MXVER,Mexico,"East Coast of North America","North America",19.199999999999992,-96.1333
+"Vestmannaeyjar Iceland",ISVES,Iceland,"Europe / Mediterranean","Europe / Mediterranean",63.443919,-20.273383000000003
+"Viana do Castelo",PTVDC,Portugal,"Europe / Mediterranean","Europe / Mediterranean",41.68329999999999,-8.833300000000005
+"Vieux Fort",LCVIF,"St Lucia","East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",13.716700000000003,-60.9667
+Vigo,ESVGO,Spain,"Europe / Mediterranean","Europe / Mediterranean",42.23329999999999,-8.716699999999996
+"Vila do Conde (near Belem)",BRVDC,Brazil,"East Coast of South America","South America",-1.4516666670000022,-48.485555559999995
+Vilagarcia,ESVIL,Spain,"Europe / Mediterranean","Europe / Mediterranean",42.596000000000004,-8.781699999999992
+"Virgin Gorda",VGVIJ,"British Virgin Islands","East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",18.449902751495916,-64.43669787441702
+Vishakhapatnam,INVTZ,India,"Middle East/Indian Subcontinent",Asia,17.683300000000003,83.30000000000001
+Vitoria,BRVIX,Brazil,"East Coast of South America","South America",-20.316699999999997,-40.33330000000001
+Vladivostok,RUVVO,Russia,"East Asia",Asia,43.11669999999999,131.90000000000003
+Vostochniy,RUVYP,Russia,"East Asia",Asia,48.26669999999999,142.6333
+Wallhamn,SEWAL,Sweden,"Europe / Mediterranean","Europe / Mediterranean",,
+"Walvis Bay",NAWVB,Namibia,"Southern Africa",Africa,-22.94055556,14.500833330000003
+Warri,NGWAR,Nigeria,"West Africa",Africa,5.5167,5.733299999999995
+"Waterford Eire",IEWAT,Ireland,"Europe / Mediterranean","Europe / Mediterranean",52.26241000000001,-7.1145925
+Weihai,CNWEI,China,"East Asia",Asia,37.475999999999985,122.181
+Wellington,NZWLG,"New Zealand",Oceania,Oceania,-41.283300000000004,174.7833
+"Wenzhou CN",CNWZO,China,"East Asia",Asia,,
+"Westernport (Hastings)",AUWEP,Australia,Oceania,Oceania,-38.35000000000001,145.23329999999999
+Wewak,PGWWK,"Papua New Guinea",Oceania,Oceania,-3.566700000000003,143.6333
+Whangarei,NZWRE,"New Zealand",Oceania,Oceania,-35.8,174.43329999999997
+Wilhelmshaven,DEWVN,Germany,"Europe / Mediterranean","Europe / Mediterranean",53.5615,8.123500000000002
+Willebroek,BEWLB,Belgium,"Europe / Mediterranean","Europe / Mediterranean",51.07175599999999,4.367686999999999
+Willemstad,CWWIL,"Curacao ","East Coast of Central America/Caribbean/Northeast Coast of South America","Central America & Caribbean",12.116699999999994,-68.93329999999999
+"Wilmington DE",USILG,"United States","East Coast of North America","North America",39.73329999999997,-75.55
+"Wilmington NC",USILM,"United States","East Coast of North America","North America",34.2333,-77.95
+Windsor,CAWND,Canada,"East Coast of North America","North America",42.31669999999999,-83.0333
+Wismar,DEWIS,Germany,"Europe / Mediterranean","Europe / Mediterranean",53.90299461989376,11.456214818376257
+Xiamen,CNXMN,China,"East Asia",Asia,24.450000000000003,118.06670000000001
+Xingang/Tianjin,CNTXG,China,"East Asia",Asia,38.982499999999995,117.74055559999998
+"Xinsha (Guangzhou)",CNXNA,China,"East Asia",Asia,23.099999999999994,113.2333
+Yanbu,SAYNB,"Saudi Arabia","Middle East/Indian Subcontinent",Asia,24.083299999999998,38.04999999999999
+Yangon,MMRGN,Myanmar,"Southeast Asia",Asia,16.765833330000003,96.16999999999996
+Yangpu,CNYGP,China,"East Asia",Asia,19.749244999999995,109.19024999999999
+Yangshan,CNYAN,China,"East Asia",Asia,31.221944440000016,121.48944440000001
+Yantai,CNYNT,China,"East Asia",Asia,37.54999999999999,121.45
+Yantian,CNYTN,China,"East Asia",Asia,22.583299999999998,114.2667
+Yap,FMYAP,Micronesia,Oceania,Oceania,9.515113999999997,138.12620099999998
+Yingkou,CNYIK,China,"East Asia",Asia,40.6833,122.2333
+Yokkaichi,JPYKK,Japan,"East Asia",Asia,34.96669999999998,136.63330000000002
+Yokohama,JPYOK,Japan,"East Asia",Asia,35.449999999999996,139.58329999999995
+Yokosuka,JPYOS,Japan,"East Asia",Asia,35.28329999999998,139.6667
+Zanzibar,TZZNZ,Tanzania,"East Africa",Africa,-6.166700000000003,39.1833
+Zarate,ARZAE,Argentina,"East Coast of South America","South America",-34.0833,-59.03330000000001
+Zeebrugge,BEZEE,Belgium,"Europe / Mediterranean","Europe / Mediterranean",51.33330000000001,3.200000000000004
+Zhangjiagang,CNZJG,China,"East Asia",Asia,31.98661599999999,120.66010500000002
+Zhanjiang,CNZHA,China,"East Asia",Asia,21.199999999999996,110.4
+"Zhapu Pt",CNZPU,China,"East Asia",Asia,30.591334000000007,121.07495000000003
