@@ -65,6 +65,16 @@ def cells_match(left: str, right: str, numeric_tolerance: float) -> bool:
         return False
 
 
+def transit_times_match(left: str, right: str) -> bool:
+    import ast
+    try:
+        set_a = sorted(ast.literal_eval(left))
+        set_b = sorted(ast.literal_eval(right))
+        return set_a == set_b
+    except (ValueError, SyntaxError):
+        return left == right
+
+
 def compare_keyed(
     path_a: Path,
     path_b: Path,
@@ -96,8 +106,14 @@ def compare_keyed(
         for col_idx in range(max(len(row_a), len(row_b))):
             val_a = row_a[col_idx] if col_idx < len(row_a) else ""
             val_b = row_b[col_idx] if col_idx < len(row_b) else ""
-            if not cells_match(val_a, val_b, numeric_tolerance):
-                col_name = header[col_idx] if col_idx < len(header) else f"col{col_idx}"
+            col_name = header[col_idx] if col_idx < len(header) else f"col{col_idx}"
+
+            if col_name == "available_transit_times":
+                is_match = transit_times_match(val_a, val_b)
+            else:
+                is_match = cells_match(val_a, val_b, numeric_tolerance)
+
+            if not is_match:
                 cell_diffs.append((col_name, val_a, val_b))
         if cell_diffs:
             modified[key] = cell_diffs
@@ -238,6 +254,65 @@ def export_keyed_diff_excel(
 
     print(f"Keyed diff Excel created: {output_file}")
     print(f"Total diff rows (route added/removed/changed): {len(rows) - 1}")
+
+
+def find_rename_candidates(path_a, path_b, numeric_tolerance=1e-9):
+    """หา candidate ว่าเส้นทางที่ removed คู่ไหน น่าจะเป็นเส้นทางเดียวกับที่ added คู่ไหน"""
+    header_a, rows_a = read_csv_dicts(path_a)
+    header_b, rows_b = read_csv_dicts(path_b)
+    result = compare_keyed(path_a, path_b, numeric_tolerance)
+
+    candidates = []
+    matched_removed_keys = set()
+    matched_added_keys = set()
+
+    for (o1, d1) in result["removed"]:
+        row_a = rows_a[(o1, d1)]
+        for (o2, d2) in result["added"]:
+            row_b = rows_b[(o2, d2)]
+            same_dest = (d1 == d2 and o1 != o2)
+            same_origin = (o1 == o2 and d1 != d2)
+            if not (same_dest or same_origin):
+                continue
+
+            match_count, total = 0, 0
+            mismatch_cols = []
+            for col_idx in range(1, max(len(row_a), len(row_b))):   # เริ่มที่ 1 = ข้าม period
+                val_a = row_a[col_idx] if col_idx < len(row_a) else ""
+                val_b = row_b[col_idx] if col_idx < len(row_b) else ""
+                col_name = header_a[col_idx] if col_idx < len(header_a) else f"col{col_idx}"
+                if col_name == "available_transit_times":
+                    is_match = transit_times_match(val_a, val_b)
+                else:
+                    is_match = cells_match(val_a, val_b, numeric_tolerance)
+
+                if col_idx >= 5:            # score นับเฉพาะ 13 column หลัง
+                    total += 1
+                    if is_match:
+                        match_count += 1
+                if not is_match:            # แต่รายชื่อที่ไม่ตรงเก็บทุก column
+                    mismatch_cols.append(col_name)
+
+            ratio = (match_count / total) if total else 0.0
+            candidates.append({
+                "old_key": (o1, d1),
+                "new_key": (o2, d2),
+                "match_score": f"{match_count}/{total}",
+                "match_ratio": round(ratio, 4),
+                "mismatch_columns": ", ".join(mismatch_cols),
+                "changed_side": "origin" if same_dest else "destination",
+            })
+            matched_removed_keys.add((o1, d1))
+            matched_added_keys.add((o2, d2))
+
+    unmatched_removed = [k for k in result["removed"] if k not in matched_removed_keys]
+    unmatched_added = [k for k in result["added"] if k not in matched_added_keys]
+
+    return {
+        "candidates": candidates,
+        "unmatched_removed": unmatched_removed,
+        "unmatched_added": unmatched_added,
+    }
 
 
 if __name__ == "__main__":
