@@ -1,0 +1,81 @@
+old_code,new_code,old_names,new_names,routes_1to1,routes_total,quarters,companies_mismatch_routes,competing_new_codes,chain_or_reuse,review
+KRICH,KRINC,Inchon,Inchon,255,255,11,0,1,False,ok
+VNTCT,VNVUT,Cai Mep,Cai Mep (near Ho Chi Minh),166,178,11,0,1,False,ok
+CNTAG,CNTAC,Taicang,Taicang,95,103,11,0,1,False,ok
+JOAQJ,JOAQB,Aqaba,Aqaba,78,93,11,0,1,False,ok
+IEBEF,GBBEL,Belfast,Belfast,75,85,11,0,1,False,ok
+VISTX,VICTD,St Croix VI,St Croix VI,60,81,11,0,1,False,ok
+CNHUA,CNGGZ,Huangpu (Guangzhou),Huangpu (Guangzhou),52,56,11,0,1,False,ok
+AIAXA,AIRBY,Anguilla,Anguilla,28,30,11,0,1,False,ok
+BHBAH,BHKBS,Bahrain,Khalifa Bin Salman Port,25,41,11,0,1,False,ok
+VISJN,VICZB,St John VI,St John VI,6,22,11,0,1,False,ok
+AEJEA,BHKBS,"Dubai, Jebel Ali",Khalifa Bin Salman Port,0,9,8,0,0,False,check: support น้อย
+AGSJO,VICTD,"St John's, Antigua",St Croix VI,0,1,1,0,0,False,check: support น้อย
+AIAXA,GYGEO,Anguilla,"Georgetown, Guyana",0,2,2,0,1,False,check: support น้อย
+BBBGI,VICTD,Bridgetown,St Croix VI,0,2,2,0,0,False,check: support น้อย
+BHBAH,AEJEA,Bahrain,"Dubai, Jebel Ali",0,9,8,0,1,False,check: support น้อย
+BHBAH,KWKWI,Bahrain,Kuwait,0,4,4,0,1,False,check: support น้อย
+BHBAH,SADMM,Bahrain,Dammam,0,3,3,0,1,False,check: support น้อย
+CNCWN,VNVUT,Chiwan,Cai Mep (near Ho Chi Minh),0,3,3,0,0,False,check: support น้อย
+CNHUA,CNSHA,Huangpu (Guangzhou),Shanghai,0,1,1,0,1,False,check: support น้อย
+CNHUA,CNSHK,Huangpu (Guangzhou),Shekou,0,1,1,0,1,False,check: support น้อย
+CNHUA,HKHKG,Huangpu (Guangzhou),Hong Kong,0,1,1,0,1,False,check: support น้อย
+CNHUA,SGSIN,Huangpu (Guangzhou),Singapore,0,1,1,0,1,False,check: support น้อย
+CNNGB,JPNGO,Ningbo,Nagoya,0,1,1,0,0,False,check: support น้อย
+CNSHA,CNGGZ,Shanghai,Huangpu (Guangzhou),0,1,1,0,0,False,check: support น้อย
+CNSHK,CNGGZ,Shekou,Huangpu (Guangzhou),0,1,1,0,0,False,check: support น้อย
+CNYTN,VNVUT,Yantian,Cai Mep (near Ho Chi Minh),0,1,1,0,0,False,check: support น้อย
+DOCAU,VICZB,Caucedo,St John VI,0,1,1,0,0,False,check: support น้อย
+EGDAM,JOAQB,Damietta,Aqaba,0,3,2,0,0,False,check: support น้อย
+EGPSD,JOAQB,Port Said,Aqaba,0,4,4,0,0,False,check: support น้อย
+EGPSD,SAJED,Port Said,Jeddah,0,1,1,0,0,False,check: support น้อย
+EGSOK,JOAQB,Sokhna,Aqaba,0,2,2,0,0,False,check: support น้อย
+GBLIV,GBBEL,Liverpool,Belfast,0,3,3,0,0,False,check: support น้อย
+GYGEO,AIRBY,"Georgetown, Guyana",Anguilla,0,2,2,0,0,False,check: support น้อย
+HKHKG,CNGGZ,Hong Kong,Huangpu (Guangzhou),0,1,1,0,0,False,check: support น้อย
+IEBEF,GBLIV,Belfast,Liverpool,0,3,3,0,1,False,check: support น้อย
+IEBEF,IEDUB,Belfast,Dublin,0,3,3,0,1,False,check: support น้อย
+IEBEF,NLRTM,Belfast,Rotterdam,0,4,2,0,1,False,check: support น้อย
+IEDUB,GBBEL,Dublin,Belfast,0,3,3,0,0,False,check: support น้อย
+JOAQJ,EGDAM,Aqaba,Damietta,0,3,2,0,1,False,check: support น้อย
+JOAQJ,EGPSD,Aqaba,Port Said,0,4,4,0,1,False,check: support น้อย
+JOAQJ,EGSOK,Aqaba,Sokhna,0,2,2,0,1,False,check: support น้อย
+JOAQJ,SAJED,Aqaba,Jeddah,0,3,3,0,1,False,check: support น้อย
+JOAQJ,SAKAC,Aqaba,King Abdullah City,0,2,2,0,1,False,check: support น้อย
+JPHKT,JPOSA,Hakata,Osaka,0,1,1,0,0,False,check: support น้อย
+JPNGO,CNNGB,Nagoya,Ningbo,0,1,1,0,0,False,check: support น้อย
+JPOSA,JPHKT,Osaka,Hakata,0,1,1,0,0,False,check: support น้อย
+KWKWI,BHKBS,Kuwait,Khalifa Bin Salman Port,0,4,4,0,0,False,check: support น้อย
+MYPKG,VNVUT,Port Klang,Cai Mep (near Ho Chi Minh),0,4,2,0,0,False,check: support น้อย
+MYTPP,VNVUT,Tanjung Pelepas,Cai Mep (near Ho Chi Minh),0,4,4,0,0,False,check: support น้อย
+NLRTM,GBBEL,Rotterdam,Belfast,0,4,2,0,0,False,check: support น้อย
+PRSJU,SXSXM,San Juan PR,St Maarten,0,1,1,0,0,False,check: support น้อย
+PRSJU,VICTD,San Juan PR,St Croix VI,0,3,2,0,0,False,check: support น้อย
+SADMM,BHKBS,Dammam,Khalifa Bin Salman Port,0,3,3,0,0,False,check: support น้อย
+SAJED,EGPSD,Jeddah,Port Said,0,1,1,0,0,False,check: support น้อย
+SAJED,JOAQB,Jeddah,Aqaba,0,3,3,0,0,False,check: support น้อย
+SAKAC,JOAQB,King Abdullah City,Aqaba,0,2,2,0,0,False,check: support น้อย
+SGSIN,CNGGZ,Singapore,Huangpu (Guangzhou),0,1,1,0,0,False,check: support น้อย
+SXSXM,PRSJU,St Maarten-Philipsburg,San Juan PR,0,1,1,0,0,False,check: support น้อย
+SXSXM,VGRAD,St Maarten-Philipsburg,Tortola,0,1,1,0,0,False,check: support น้อย
+SXSXM,VICTD,St Maarten-Philipsburg,St Croix VI,0,1,1,0,0,False,check: support น้อย
+SXSXM,VICZB,St Maarten-Philipsburg,St John VI,0,7,7,0,0,False,check: support น้อย
+SXSXM,VISTT,St Maarten-Philipsburg,St Thomas VI,0,1,1,0,0,False,check: support น้อย
+VGRAD,SXSXM,Tortola,St Maarten,0,1,1,0,0,False,check: support น้อย
+VGRAD,VICTD,Tortola,St Croix VI,0,1,1,0,0,False,check: support น้อย
+VGRAD,VISTT,Tortola,St Thomas VI,0,1,1,0,0,False,check: support น้อย
+VISJN,DOCAU,St John VI,Caucedo,0,1,1,0,1,False,check: support น้อย
+VISJN,SXSXM,St John VI,St Maarten,0,7,7,0,1,False,check: support น้อย
+VISJN,VISTT,St John VI,St Thomas VI,0,8,8,0,1,False,check: support น้อย
+VISTT,SXSXM,St Thomas VI,St Maarten,0,1,1,0,0,False,check: support น้อย
+VISTT,VGRAD,St Thomas VI,Tortola,0,1,1,0,0,False,check: support น้อย
+VISTT,VICZB,St Thomas VI,St John VI,0,8,8,0,0,False,check: support น้อย
+VISTX,AGSJO,St Croix VI,"St John's, Antigua",0,1,1,0,1,False,check: support น้อย
+VISTX,BBBGI,St Croix VI,Bridgetown,0,2,2,0,1,False,check: support น้อย
+VISTX,PRSJU,St Croix VI,San Juan PR,0,3,2,0,1,False,check: support น้อย
+VISTX,SXSXM,St Croix VI,St Maarten,0,1,1,0,1,False,check: support น้อย
+VISTX,VGRAD,St Croix VI,Tortola,0,1,1,0,1,False,check: support น้อย
+VNTCT,CNCWN,Cai Mep,Chiwan,0,3,3,0,1,False,check: support น้อย
+VNTCT,CNYTN,Cai Mep,Yantian,0,1,1,0,1,False,check: support น้อย
+VNTCT,MYPKG,Cai Mep,Port Klang,0,4,2,0,1,False,check: support น้อย
+VNTCT,MYTPP,Cai Mep,Tanjung Pelepas,0,4,4,0,1,False,check: support น้อย
