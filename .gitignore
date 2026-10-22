@@ -9,3 +9,5 @@ __pycache__/
 venv/
 *.egg-info/
 data/.DS_Store
+gcsn-venv/
+data/processed/
