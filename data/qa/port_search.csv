@@ -1,0 +1,927 @@
+code,folder,file,role,name,origin,destination,line
+CNFUG,Dataset (2011-2017),20110925.csv,origin,,CNFUG,CNCWN,341
+CNFUG,Dataset (2011-2017),20110925.csv,origin,,CNFUG,CNXMN,342
+CNFUG,Dataset (2011-2017),20110925.csv,origin,,CNFUG,HKHKG,343
+CNFUG,Dataset (2011-2017),20110925.csv,origin,,CNFUG,KRPUS,344
+CNFUG,Dataset (2011-2017),20110925.csv,destination,,CNNGB,CNFUG,353
+CNFUG,Dataset (2011-2017),20110925.csv,destination,,CNSHA,CNFUG,388
+CNFUG,Dataset (2011-2017),20110925.csv,destination,,CNXMN,CNFUG,470
+PTFNC,Dataset (2011-2017),20110925.csv,destination,,GBFXT,PTFNC,828
+PTFNC,Dataset (2011-2017),20110925.csv,origin,,PTFNC,ESSCT,1771
+CNFUG,Dataset (2011-2017),20110925.csv,destination,,SGSIN,CNFUG,1854
+CNFUG,Dataset (2011-2017),20110925.csv,destination,,TWKHH,CNFUG,1982
+USFRP,Dataset (2011-2017),20110925.csv,origin,,USFRP,USMSY,2076
+USFRP,Dataset (2011-2017),20110925.csv,destination,,USHOU,USFRP,2088
+CNFUG,Dataset (2011-2017),20110925.csv,destination,,USOAK,CNFUG,2163
+CNFQG,Dataset (2011-2017),20111225.csv,origin,Fuqing,CNFQG,CNCWN,315
+CNFQG,Dataset (2011-2017),20111225.csv,origin,Fuqing,CNFQG,CNXMN,316
+CNFQG,Dataset (2011-2017),20111225.csv,origin,Fuqing,CNFQG,HKHKG,317
+CNFQG,Dataset (2011-2017),20111225.csv,origin,Fuqing,CNFQG,KRPUS,318
+CNFQG,Dataset (2011-2017),20111225.csv,destination,Fuqing,CNNGB,CNFQG,327
+CNFQG,Dataset (2011-2017),20111225.csv,destination,Fuqing,CNSHA,CNFQG,360
+CNFQG,Dataset (2011-2017),20111225.csv,destination,Fuqing,CNXMN,CNFQG,448
+PTCNL,Dataset (2011-2017),20111225.csv,destination,Canical Madeira,GBFXT,PTCNL,812
+PTCNL,Dataset (2011-2017),20111225.csv,origin,Canical Madeira,PTCNL,ESSCT,1719
+CNFQG,Dataset (2011-2017),20111225.csv,destination,Fuqing,SGSIN,CNFQG,1802
+USFPO,Dataset (2011-2017),20111225.csv,origin,Freeport TX,USFPO,USMSY,2024
+USFPO,Dataset (2011-2017),20111225.csv,destination,Freeport TX,USHOU,USFPO,2036
+CNFQG,Dataset (2011-2017),20111225.csv,destination,Fuqing,USOAK,CNFQG,2120
+CNFQG,Dataset (2011-2017),20120325.csv,origin,Fuqing,CNFQG,CNCWN,333
+CNFQG,Dataset (2011-2017),20120325.csv,origin,Fuqing,CNFQG,CNXMN,334
+CNFQG,Dataset (2011-2017),20120325.csv,origin,Fuqing,CNFQG,CNYTN,335
+CNFQG,Dataset (2011-2017),20120325.csv,origin,Fuqing,CNFQG,KRPUS,336
+CNFQG,Dataset (2011-2017),20120325.csv,destination,Fuqing,CNNGB,CNFQG,344
+CNFQG,Dataset (2011-2017),20120325.csv,destination,Fuqing,CNSHA,CNFQG,379
+CNFQG,Dataset (2011-2017),20120325.csv,destination,Fuqing,CNXMN,CNFQG,467
+PTCNL,Dataset (2011-2017),20120325.csv,destination,Canical Madeira,GBFXT,PTCNL,821
+PTCNL,Dataset (2011-2017),20120325.csv,origin,Canical Madeira,PTCNL,ESSCT,1754
+CNFQG,Dataset (2011-2017),20120325.csv,destination,Fuqing,SGSIN,CNFQG,1839
+USFPO,Dataset (2011-2017),20120325.csv,origin,Freeport TX,USFPO,USMSY,2065
+USFPO,Dataset (2011-2017),20120325.csv,destination,Freeport TX,USHOU,USFPO,2079
+CNFQG,Dataset (2011-2017),20120325.csv,destination,Fuqing,USOAK,CNFQG,2158
+CNFQG,Dataset (2011-2017),20120624.csv,origin,Fuqing,CNFQG,CNCWN,329
+CNFQG,Dataset (2011-2017),20120624.csv,origin,Fuqing,CNFQG,CNXMN,330
+CNFQG,Dataset (2011-2017),20120624.csv,origin,Fuqing,CNFQG,CNYTN,331
+CNFQG,Dataset (2011-2017),20120624.csv,origin,Fuqing,CNFQG,KRPUS,332
+CNFQG,Dataset (2011-2017),20120624.csv,destination,Fuqing,CNNGB,CNFQG,341
+CNFQG,Dataset (2011-2017),20120624.csv,destination,Fuqing,CNSHA,CNFQG,374
+CNFQG,Dataset (2011-2017),20120624.csv,destination,Fuqing,CNXMN,CNFQG,465
+PTCNL,Dataset (2011-2017),20120624.csv,destination,Canical Madeira,GBFXT,PTCNL,829
+USFPO,Dataset (2011-2017),20120624.csv,destination,Freeport TX,GTPBR,USFPO,893
+PTCNL,Dataset (2011-2017),20120624.csv,origin,Canical Madeira,PTCNL,ESSCT,1793
+CNFQG,Dataset (2011-2017),20120624.csv,destination,Fuqing,SGSIN,CNFQG,1877
+USFPO,Dataset (2011-2017),20120624.csv,origin,Freeport TX,USFPO,HNPCR,2110
+CNFQG,Dataset (2011-2017),20120624.csv,destination,Fuqing,USOAK,CNFQG,2204
+CNFQG,Dataset (2011-2017),20120930.csv,origin,Fuqing,CNFQG,CNCWN,338
+CNFQG,Dataset (2011-2017),20120930.csv,origin,Fuqing,CNFQG,CNXMN,339
+CNFQG,Dataset (2011-2017),20120930.csv,origin,Fuqing,CNFQG,CNYTN,340
+CNFQG,Dataset (2011-2017),20120930.csv,destination,Fuqing,CNNGB,CNFQG,349
+CNFQG,Dataset (2011-2017),20120930.csv,destination,Fuqing,CNSHA,CNFQG,380
+USFPO,Dataset (2011-2017),20120930.csv,destination,Freeport TX,GTPBR,USFPO,899
+CNFQG,Dataset (2011-2017),20120930.csv,destination,Fuqing,JPMOJ,CNFQG,1163
+PTCNL,Dataset (2011-2017),20120930.csv,destination,Canical Madeira,NLRTM,PTCNL,1624
+PTCNL,Dataset (2011-2017),20120930.csv,origin,Canical Madeira,PTCNL,ESSCT,1815
+CNFQG,Dataset (2011-2017),20120930.csv,destination,Fuqing,SGSIN,CNFQG,1904
+USFPO,Dataset (2011-2017),20120930.csv,origin,Freeport TX,USFPO,HNPCR,2137
+CNFQG,Dataset (2011-2017),20120930.csv,destination,Fuqing,USOAK,CNFQG,2231
+CNFQG,Dataset (2011-2017),20121230.csv,origin,Fuqing,CNFQG,CNNSA,344
+CNFQG,Dataset (2011-2017),20121230.csv,origin,Fuqing,CNFQG,CNXMN,345
+CNFQG,Dataset (2011-2017),20121230.csv,destination,Fuqing,CNSHA,CNFQG,387
+USFPO,Dataset (2011-2017),20121230.csv,destination,Freeport TX,GTPBR,USFPO,902
+CNFQG,Dataset (2011-2017),20121230.csv,destination,Fuqing,JPMOJ,CNFQG,1172
+PTCNL,Dataset (2011-2017),20121230.csv,destination,Canical Madeira,NLRTM,PTCNL,1636
+PTCNL,Dataset (2011-2017),20121230.csv,origin,Canical Madeira,PTCNL,ESSCT,1827
+USFPO,Dataset (2011-2017),20121230.csv,origin,Freeport TX,USFPO,HNPCR,2148
+CNFQG,Dataset (2011-2017),20121230.csv,destination,Fuqing,USOAK,CNFQG,2243
+CNFQG,Dataset (2011-2017),20130324.csv,origin,Fuqing,CNFQG,CNNSA,350
+CNFQG,Dataset (2011-2017),20130324.csv,origin,Fuqing,CNFQG,CNXMN,351
+CNFQG,Dataset (2011-2017),20130324.csv,destination,Fuqing,CNSHA,CNFQG,393
+PTCNL,Dataset (2011-2017),20130324.csv,destination,Canical Madeira,GBFXT,PTCNL,840
+USFPO,Dataset (2011-2017),20130324.csv,destination,Freeport TX,GTPBR,USFPO,906
+CNFQG,Dataset (2011-2017),20130324.csv,destination,Fuqing,JPMOJ,CNFQG,1181
+PTCNL,Dataset (2011-2017),20130324.csv,origin,Canical Madeira,PTCNL,ESSCT,1839
+USFPO,Dataset (2011-2017),20130324.csv,origin,Freeport TX,USFPO,HNPCR,2161
+CNFQG,Dataset (2011-2017),20130324.csv,destination,Fuqing,USOAK,CNFQG,2256
+CNFQG,Dataset (2011-2017),20130616.csv,origin,Fuqing,CNFQG,CNXMN,354
+CNFQG,Dataset (2011-2017),20130616.csv,origin,Fuqing,CNFQG,HKHKG,355
+CNFQG,Dataset (2011-2017),20130616.csv,destination,Fuqing,CNSHA,CNFQG,400
+USFPO,Dataset (2011-2017),20130616.csv,destination,Freeport TX,CRLIO,USFPO,582
+PTCNL,Dataset (2011-2017),20130616.csv,destination,Canical Madeira,GBFXT,PTCNL,865
+USFPO,Dataset (2011-2017),20130616.csv,destination,Freeport TX,HNPCR,USFPO,994
+CNFQG,Dataset (2011-2017),20130616.csv,destination,Fuqing,JPMOJ,CNFQG,1208
+PTCNL,Dataset (2011-2017),20130616.csv,origin,Canical Madeira,PTCNL,ESSCT,1881
+USFPO,Dataset (2011-2017),20130616.csv,origin,Freeport TX,USFPO,COTRB,2216
+USFPO,Dataset (2011-2017),20130616.csv,origin,Freeport TX,USFPO,GTPBR,2217
+CNFQG,Dataset (2011-2017),20130616.csv,destination,Fuqing,USOAK,CNFQG,2312
+CNFQG,Dataset (2011-2017),20130929.csv,origin,Fuqing,CNFQG,CNXMN,362
+CNFQG,Dataset (2011-2017),20130929.csv,origin,Fuqing,CNFQG,HKHKG,363
+CNFQG,Dataset (2011-2017),20130929.csv,destination,Fuqing,CNSHA,CNFQG,409
+USFPO,Dataset (2011-2017),20130929.csv,destination,Freeport TX,CRLIO,USFPO,599
+PTCNL,Dataset (2011-2017),20130929.csv,destination,Canical Madeira,GBFXT,PTCNL,909
+USFPO,Dataset (2011-2017),20130929.csv,destination,Freeport TX,GTPBR,USFPO,968
+CNFQG,Dataset (2011-2017),20130929.csv,destination,Fuqing,JPMOJ,CNFQG,1252
+PTCNL,Dataset (2011-2017),20130929.csv,origin,Canical Madeira,PTCNL,ESSCT,1935
+USFPO,Dataset (2011-2017),20130929.csv,origin,Freeport TX,USFPO,COTRB,2272
+USFPO,Dataset (2011-2017),20130929.csv,origin,Freeport TX,USFPO,HNPCR,2273
+CNFQG,Dataset (2011-2017),20130929.csv,destination,Fuqing,USOAK,CNFQG,2369
+CNFQG,Dataset (2011-2017),20131229.csv,origin,Fuqing,CNFQG,CNXMN,371
+CNFQG,Dataset (2011-2017),20131229.csv,origin,Fuqing,CNFQG,HKHKG,372
+CNFQG,Dataset (2011-2017),20131229.csv,destination,Fuqing,CNSHA,CNFQG,417
+USFPO,Dataset (2011-2017),20131229.csv,destination,Freeport TX,CRLIO,USFPO,614
+USFPO,Dataset (2011-2017),20131229.csv,destination,Freeport TX,GTPBR,USFPO,976
+CNFQG,Dataset (2011-2017),20131229.csv,destination,Fuqing,JPMOJ,CNFQG,1263
+USFPO,Dataset (2011-2017),20131229.csv,origin,Freeport TX,USFPO,COTRB,2301
+USFPO,Dataset (2011-2017),20131229.csv,origin,Freeport TX,USFPO,HNPCR,2302
+CNFQG,Dataset (2011-2017),20131229.csv,destination,Fuqing,USOAK,CNFQG,2397
+CNFQG,Dataset (2011-2017),20140316.csv,origin,Fuqing,CNFQG,CNXMN,361
+CNFQG,Dataset (2011-2017),20140316.csv,origin,Fuqing,CNFQG,HKHKG,362
+CNFQG,Dataset (2011-2017),20140316.csv,destination,Fuqing,CNSHA,CNFQG,408
+USFPO,Dataset (2011-2017),20140316.csv,destination,Freeport TX,GTPBR,USFPO,961
+USFPO,Dataset (2011-2017),20140316.csv,origin,Freeport TX,USFPO,HNPCR,2283
+CNFQG,Dataset (2011-2017),20140316.csv,destination,Fuqing,USOAK,CNFQG,2374
+CNFQG,Dataset (2011-2017),20140629.csv,origin,Fuqing,CNFQG,CNXMN,365
+CNFQG,Dataset (2011-2017),20140629.csv,origin,Fuqing,CNFQG,HKHKG,366
+CNFQG,Dataset (2011-2017),20140629.csv,origin,Fuqing,CNFQG,KRICH,367
+CNFQG,Dataset (2011-2017),20140629.csv,destination,Fuqing,CNSHA,CNFQG,414
+CNFQG,Dataset (2011-2017),20140629.csv,destination,Fuqing,CNSWA,CNFQG,481
+USFPO,Dataset (2011-2017),20140629.csv,destination,Freeport TX,HNPCR,USFPO,1017
+USFPO,Dataset (2011-2017),20140629.csv,origin,Freeport TX,USFPO,GTPBR,2251
+CNFQG,Dataset (2011-2017),20140629.csv,destination,Fuqing,USOAK,CNFQG,2344
+CNFQG,Dataset (2011-2017),20140928.csv,origin,Fuqing,CNFQG,CNXMN,361
+CNFQG,Dataset (2011-2017),20140928.csv,origin,Fuqing,CNFQG,HKHKG,362
+CNFQG,Dataset (2011-2017),20140928.csv,origin,Fuqing,CNFQG,KRICH,363
+CNFQG,Dataset (2011-2017),20140928.csv,destination,Fuqing,CNSHA,CNFQG,409
+CNFQG,Dataset (2011-2017),20140928.csv,destination,Fuqing,CNSWA,CNFQG,477
+PTCNL,Dataset (2011-2017),20140928.csv,destination,Canical Madeira,GBTIL,PTCNL,917
+USFPO,Dataset (2011-2017),20140928.csv,destination,Freeport TX,GTPBR,USFPO,957
+PTCNL,Dataset (2011-2017),20140928.csv,origin,Canical Madeira,PTCNL,ESSCT,1903
+USFPO,Dataset (2011-2017),20140928.csv,origin,Freeport TX,USFPO,HNPCR,2264
+CNFQG,Dataset (2011-2017),20140928.csv,destination,Fuqing,USOAK,CNFQG,2356
+CNFQG,Dataset (2011-2017),20141228.csv,origin,Fuqing,CNFQG,CNXMN,368
+CNFQG,Dataset (2011-2017),20141228.csv,origin,Fuqing,CNFQG,HKHKG,369
+CNFQG,Dataset (2011-2017),20141228.csv,origin,Fuqing,CNFQG,KRICH,370
+CNFQG,Dataset (2011-2017),20141228.csv,destination,Fuqing,CNSHA,CNFQG,417
+CNFQG,Dataset (2011-2017),20141228.csv,destination,Fuqing,CNSWA,CNFQG,484
+PTCNL,Dataset (2011-2017),20141228.csv,destination,Canical Madeira,GBTIL,PTCNL,1052
+USFPO,Dataset (2011-2017),20141228.csv,destination,Freeport TX,HNPCR,USFPO,1162
+PTCNL,Dataset (2011-2017),20141228.csv,origin,Canical Madeira,PTCNL,ESSCT,2173
+USFPO,Dataset (2011-2017),20141228.csv,origin,Freeport TX,USFPO,GTPBR,2597
+USFPO,Dataset (2011-2017),20141228.csv,origin,Freeport TX,USFPO,HNPCR,2598
+USFPO,Dataset (2011-2017),20141228.csv,destination,Freeport TX,USMSY,USFPO,2667
+CNFQG,Dataset (2011-2017),20141228.csv,destination,Fuqing,USOAK,CNFQG,2686
+CNFQG,Dataset (2011-2017),20150329.csv,origin,Fuqing,CNFQG,CNXMN,378
+CNFQG,Dataset (2011-2017),20150329.csv,origin,Fuqing,CNFQG,HKHKG,379
+CNFQG,Dataset (2011-2017),20150329.csv,origin,Fuqing,CNFQG,KRICH,380
+CNFQG,Dataset (2011-2017),20150329.csv,destination,Fuqing,CNSHA,CNFQG,430
+CNFQG,Dataset (2011-2017),20150329.csv,destination,Fuqing,CNSWA,CNFQG,500
+PTCNL,Dataset (2011-2017),20150329.csv,destination,Canical Madeira,GBTIL,PTCNL,1082
+USFPO,Dataset (2011-2017),20150329.csv,destination,Freeport TX,HNPCR,USFPO,1195
+PTCNL,Dataset (2011-2017),20150329.csv,origin,Canical Madeira,PTCNL,ESSCT,2237
+USFPO,Dataset (2011-2017),20150329.csv,origin,Freeport TX,USFPO,GTPBR,2670
+USFPO,Dataset (2011-2017),20150329.csv,origin,Freeport TX,USFPO,HNPCR,2671
+USFPO,Dataset (2011-2017),20150329.csv,destination,Freeport TX,USMSY,USFPO,2742
+CNFQG,Dataset (2011-2017),20150329.csv,destination,Fuqing,USOAK,CNFQG,2761
+CNFQG,Dataset (2011-2017),20150628.csv,origin,Fuqing,CNFQG,CNXMN,378
+CNFQG,Dataset (2011-2017),20150628.csv,origin,Fuqing,CNFQG,HKHKG,379
+CNFQG,Dataset (2011-2017),20150628.csv,origin,Fuqing,CNFQG,KRICH,380
+CNFQG,Dataset (2011-2017),20150628.csv,destination,Fuqing,CNSHA,CNFQG,435
+CNFQG,Dataset (2011-2017),20150628.csv,destination,Fuqing,CNSWA,CNFQG,507
+USFPO,Dataset (2011-2017),20150628.csv,destination,Freeport TX,HNPCR,USFPO,1218
+USFPO,Dataset (2011-2017),20150628.csv,origin,Freeport TX,USFPO,GTPBR,2710
+USFPO,Dataset (2011-2017),20150628.csv,origin,Freeport TX,USFPO,HNPCR,2711
+USFPO,Dataset (2011-2017),20150628.csv,destination,Freeport TX,USMSY,USFPO,2780
+CNFQG,Dataset (2011-2017),20150628.csv,destination,Fuqing,USOAK,CNFQG,2799
+CNFQG,Dataset (2011-2017),20150927.csv,origin,Fuqing,CNFQG,CNXMN,367
+CNFQG,Dataset (2011-2017),20150927.csv,origin,Fuqing,CNFQG,HKHKG,368
+CNFQG,Dataset (2011-2017),20150927.csv,origin,Fuqing,CNFQG,KRICH,369
+CNFQG,Dataset (2011-2017),20150927.csv,destination,Fuqing,CNSHA,CNFQG,422
+CNFQG,Dataset (2011-2017),20150927.csv,destination,Fuqing,CNSWA,CNFQG,490
+USFPO,Dataset (2011-2017),20150927.csv,destination,Freeport TX,HNPCR,USFPO,1203
+USFPO,Dataset (2011-2017),20150927.csv,origin,Freeport TX,USFPO,GTPBR,2690
+USFPO,Dataset (2011-2017),20150927.csv,origin,Freeport TX,USFPO,HNPCR,2691
+USFPO,Dataset (2011-2017),20150927.csv,destination,Freeport TX,USMSY,USFPO,2760
+CNFQG,Dataset (2011-2017),20150927.csv,destination,Fuqing,USOAK,CNFQG,2780
+CNFQG,Dataset (2011-2017),20151227.csv,origin,Fuqing,CNFQG,CNXMN,362
+CNFQG,Dataset (2011-2017),20151227.csv,origin,Fuqing,CNFQG,HKHKG,363
+CNFQG,Dataset (2011-2017),20151227.csv,origin,Fuqing,CNFQG,KRICH,364
+CNFQG,Dataset (2011-2017),20151227.csv,destination,Fuqing,CNSHA,CNFQG,420
+CNFQG,Dataset (2011-2017),20151227.csv,destination,Fuqing,CNSWA,CNFQG,487
+USFPO,Dataset (2011-2017),20151227.csv,destination,Freeport TX,GTPBR,USFPO,1132
+USFPO,Dataset (2011-2017),20151227.csv,origin,Freeport TX,USFPO,HNPCR,2684
+USFPO,Dataset (2011-2017),20151227.csv,destination,Freeport TX,USMSY,USFPO,2750
+CNFQG,Dataset (2011-2017),20151227.csv,destination,Fuqing,USOAK,CNFQG,2770
+CNFQG,Dataset (2011-2017),20160327.csv,origin,Fuqing,CNFQG,CNXMN,345
+CNFQG,Dataset (2011-2017),20160327.csv,origin,Fuqing,CNFQG,HKHKG,346
+CNFQG,Dataset (2011-2017),20160327.csv,origin,Fuqing,CNFQG,KRICH,347
+CNFQG,Dataset (2011-2017),20160327.csv,destination,Fuqing,CNSHA,CNFQG,407
+CNFQG,Dataset (2011-2017),20160327.csv,destination,Fuqing,CNSWA,CNFQG,471
+USFPO,Dataset (2011-2017),20160327.csv,destination,Freeport TX,GTSTC,USFPO,1155
+USFPO,Dataset (2011-2017),20160327.csv,origin,Freeport TX,USFPO,HNPCR,2753
+USFPO,Dataset (2011-2017),20160327.csv,destination,Freeport TX,USMSY,USFPO,2818
+CNFQG,Dataset (2011-2017),20160327.csv,destination,Fuqing,USOAK,CNFQG,2838
+CNFQG,Dataset (2011-2017),20160626.csv,origin,Fuqing,CNFQG,CNXMN,356
+CNFQG,Dataset (2011-2017),20160626.csv,origin,Fuqing,CNFQG,KRICH,357
+CNFQG,Dataset (2011-2017),20160626.csv,destination,Fuqing,CNSWA,CNFQG,483
+USFPO,Dataset (2011-2017),20160626.csv,destination,Freeport TX,GTPBR,USFPO,1158
+USFPO,Dataset (2011-2017),20160626.csv,origin,Freeport TX,USFPO,HNPCR,2796
+USFPO,Dataset (2011-2017),20160626.csv,destination,Freeport TX,USMSY,USFPO,2864
+CNFQG,Dataset (2011-2017),20160626.csv,destination,Fuqing,USOAK,CNFQG,2884
+CNFQG,Dataset (2011-2017),20160925.csv,origin,Fuqing,CNFQG,HKHKG,350
+CNFQG,Dataset (2011-2017),20160925.csv,origin,Fuqing,CNFQG,KRICH,351
+CNFQG,Dataset (2011-2017),20160925.csv,destination,Fuqing,CNSWA,CNFQG,479
+USFPO,Dataset (2011-2017),20160925.csv,destination,Freeport TX,GTPBR,USFPO,1141
+CNFQG,Dataset (2011-2017),20160925.csv,destination,Fuqing,MYPKG,CNFQG,1935
+USFPO,Dataset (2011-2017),20160925.csv,origin,Freeport TX,USFPO,HNPCR,2770
+USFPO,Dataset (2011-2017),20160925.csv,destination,Freeport TX,USMSY,USFPO,2835
+CNFQG,Dataset (2011-2017),20161225.csv,origin,Fuqing,CNFQG,HKHKG,346
+CNFQG,Dataset (2011-2017),20161225.csv,origin,Fuqing,CNFQG,KRICH,347
+CNFQG,Dataset (2011-2017),20161225.csv,destination,Fuqing,CNSWA,CNFQG,475
+USFPO,Dataset (2011-2017),20161225.csv,destination,Freeport TX,GTPBR,USFPO,1146
+CNFQG,Dataset (2011-2017),20161225.csv,destination,Fuqing,MYPKG,CNFQG,1936
+USFPO,Dataset (2011-2017),20161225.csv,origin,Freeport TX,USFPO,HNPCR,2788
+USFPO,Dataset (2011-2017),20161225.csv,destination,Freeport TX,USMSY,USFPO,2853
+CNFQG,Dataset (2011-2017),20170326.csv,origin,Fuqing,CNFQG,HKHKG,324
+CNFQG,Dataset (2011-2017),20170326.csv,origin,Fuqing,CNFQG,KRICH,325
+CNFQG,Dataset (2011-2017),20170326.csv,destination,Fuqing,CNSWA,CNFQG,453
+USFPO,Dataset (2011-2017),20170326.csv,destination,Freeport TX,GTPBR,USFPO,1111
+CNFQG,Dataset (2011-2017),20170326.csv,destination,Fuqing,MYPKG,CNFQG,1883
+USFPO,Dataset (2011-2017),20170326.csv,origin,Freeport TX,USFPO,HNPCR,2723
+USFPO,Dataset (2011-2017),20170326.csv,destination,Freeport TX,USMSY,USFPO,2791
+CNFQG,Dataset (2011-2017),20170625.csv,origin,Fuqing,CNFQG,CNNSA,332
+CNFQG,Dataset (2011-2017),20170625.csv,origin,Fuqing,CNFQG,HKHKG,333
+CNFQG,Dataset (2011-2017),20170625.csv,origin,Fuqing,CNFQG,KRICH,334
+CNFQG,Dataset (2011-2017),20170625.csv,destination,Fuqing,CNSWA,CNFQG,461
+USFPO,Dataset (2011-2017),20170625.csv,destination,Freeport TX,GTPBR,USFPO,1114
+CNFQG,Dataset (2011-2017),20170625.csv,destination,Fuqing,MYPKG,CNFQG,1895
+USFPO,Dataset (2011-2017),20170625.csv,origin,Freeport TX,USFPO,HNPCR,2723
+USFPO,Dataset (2011-2017),20170625.csv,destination,Freeport TX,USMSY,USFPO,2791
+CNFQG,Dataset (2011-2017),20170625.csv,destination,Fuqing,USOAK,CNFQG,2810
+CNFQG,Dataset (2011-2017),20170924.csv,origin,Fuqing,CNFQG,HKHKG,324
+CNFQG,Dataset (2011-2017),20170924.csv,origin,Fuqing,CNFQG,KRICH,325
+CNFQG,Dataset (2011-2017),20170924.csv,destination,Fuqing,CNSWA,CNFQG,458
+USFPO,Dataset (2011-2017),20170924.csv,destination,Freeport TX,GTPBR,USFPO,1131
+CNFQG,Dataset (2011-2017),20170924.csv,destination,Fuqing,SGSIN,CNFQG,2459
+USFPO,Dataset (2011-2017),20170924.csv,origin,Freeport TX,USFPO,HNPCR,2731
+USFPO,Dataset (2011-2017),20170924.csv,destination,Freeport TX,USMSY,USFPO,2798
+CNFQG,Dataset (2015-2023),20150329.csv,origin,Fuqing,CNFQG,CNXMN,378
+CNFQG,Dataset (2015-2023),20150329.csv,origin,Fuqing,CNFQG,HKHKG,379
+CNFQG,Dataset (2015-2023),20150329.csv,origin,Fuqing,CNFQG,KRINC,380
+CNFQG,Dataset (2015-2023),20150329.csv,destination,Fuqing,CNSHA,CNFQG,430
+CNFQG,Dataset (2015-2023),20150329.csv,destination,Fuqing,CNSWA,CNFQG,500
+PTCNL,Dataset (2015-2023),20150329.csv,destination,Canical Madeira,GBTIL,PTCNL,1086
+USFPO,Dataset (2015-2023),20150329.csv,destination,Freeport TX,HNPCR,USFPO,1199
+PTCNL,Dataset (2015-2023),20150329.csv,origin,Canical Madeira,PTCNL,ESSCT,2237
+USFPO,Dataset (2015-2023),20150329.csv,origin,Freeport TX,USFPO,GTPBR,2670
+USFPO,Dataset (2015-2023),20150329.csv,origin,Freeport TX,USFPO,HNPCR,2671
+USFPO,Dataset (2015-2023),20150329.csv,destination,Freeport TX,USMSY,USFPO,2742
+CNFQG,Dataset (2015-2023),20150329.csv,destination,Fuqing,USOAK,CNFQG,2761
+CNFQG,Dataset (2015-2023),20150628.csv,origin,Fuqing,CNFQG,CNXMN,378
+CNFQG,Dataset (2015-2023),20150628.csv,origin,Fuqing,CNFQG,HKHKG,379
+CNFQG,Dataset (2015-2023),20150628.csv,origin,Fuqing,CNFQG,KRINC,380
+CNFQG,Dataset (2015-2023),20150628.csv,destination,Fuqing,CNSHA,CNFQG,435
+CNFQG,Dataset (2015-2023),20150628.csv,destination,Fuqing,CNSWA,CNFQG,507
+USFPO,Dataset (2015-2023),20150628.csv,destination,Freeport TX,HNPCR,USFPO,1221
+USFPO,Dataset (2015-2023),20150628.csv,origin,Freeport TX,USFPO,GTPBR,2710
+USFPO,Dataset (2015-2023),20150628.csv,origin,Freeport TX,USFPO,HNPCR,2711
+USFPO,Dataset (2015-2023),20150628.csv,destination,Freeport TX,USMSY,USFPO,2780
+CNFQG,Dataset (2015-2023),20150628.csv,destination,Fuqing,USOAK,CNFQG,2799
+CNFQG,Dataset (2015-2023),20150927.csv,origin,Fuqing,CNFQG,CNXMN,367
+CNFQG,Dataset (2015-2023),20150927.csv,origin,Fuqing,CNFQG,HKHKG,368
+CNFQG,Dataset (2015-2023),20150927.csv,origin,Fuqing,CNFQG,KRINC,369
+CNFQG,Dataset (2015-2023),20150927.csv,destination,Fuqing,CNSHA,CNFQG,422
+CNFQG,Dataset (2015-2023),20150927.csv,destination,Fuqing,CNSWA,CNFQG,490
+USFPO,Dataset (2015-2023),20150927.csv,destination,Freeport TX,HNPCR,USFPO,1206
+USFPO,Dataset (2015-2023),20150927.csv,origin,Freeport TX,USFPO,GTPBR,2690
+USFPO,Dataset (2015-2023),20150927.csv,origin,Freeport TX,USFPO,HNPCR,2691
+USFPO,Dataset (2015-2023),20150927.csv,destination,Freeport TX,USMSY,USFPO,2760
+CNFQG,Dataset (2015-2023),20150927.csv,destination,Fuqing,USOAK,CNFQG,2780
+CNFQG,Dataset (2015-2023),20151227.csv,origin,Fuqing,CNFQG,CNXMN,362
+CNFQG,Dataset (2015-2023),20151227.csv,origin,Fuqing,CNFQG,HKHKG,363
+CNFQG,Dataset (2015-2023),20151227.csv,origin,Fuqing,CNFQG,KRINC,364
+CNFQG,Dataset (2015-2023),20151227.csv,destination,Fuqing,CNSHA,CNFQG,420
+CNFQG,Dataset (2015-2023),20151227.csv,destination,Fuqing,CNSWA,CNFQG,487
+USFPO,Dataset (2015-2023),20151227.csv,destination,Freeport TX,GTPBR,USFPO,1137
+USFPO,Dataset (2015-2023),20151227.csv,origin,Freeport TX,USFPO,HNPCR,2684
+USFPO,Dataset (2015-2023),20151227.csv,destination,Freeport TX,USMSY,USFPO,2750
+CNFQG,Dataset (2015-2023),20151227.csv,destination,Fuqing,USOAK,CNFQG,2770
+CNFQG,Dataset (2015-2023),20160327.csv,origin,Fuqing,CNFQG,CNXMN,345
+CNFQG,Dataset (2015-2023),20160327.csv,origin,Fuqing,CNFQG,HKHKG,346
+CNFQG,Dataset (2015-2023),20160327.csv,origin,Fuqing,CNFQG,KRINC,347
+CNFQG,Dataset (2015-2023),20160327.csv,destination,Fuqing,CNSHA,CNFQG,407
+CNFQG,Dataset (2015-2023),20160327.csv,destination,Fuqing,CNSWA,CNFQG,471
+USFPO,Dataset (2015-2023),20160327.csv,destination,Freeport TX,GTSTC,USFPO,1159
+USFPO,Dataset (2015-2023),20160327.csv,origin,Freeport TX,USFPO,HNPCR,2753
+USFPO,Dataset (2015-2023),20160327.csv,destination,Freeport TX,USMSY,USFPO,2818
+CNFQG,Dataset (2015-2023),20160327.csv,destination,Fuqing,USOAK,CNFQG,2838
+CNFQG,Dataset (2015-2023),20160626.csv,origin,Fuqing,CNFQG,CNXMN,356
+CNFQG,Dataset (2015-2023),20160626.csv,origin,Fuqing,CNFQG,KRINC,357
+CNFQG,Dataset (2015-2023),20160626.csv,destination,Fuqing,CNSWA,CNFQG,483
+USFPO,Dataset (2015-2023),20160626.csv,destination,Freeport TX,GTPBR,USFPO,1162
+USFPO,Dataset (2015-2023),20160626.csv,origin,Freeport TX,USFPO,HNPCR,2796
+USFPO,Dataset (2015-2023),20160626.csv,destination,Freeport TX,USMSY,USFPO,2864
+CNFQG,Dataset (2015-2023),20160626.csv,destination,Fuqing,USOAK,CNFQG,2884
+CNFQG,Dataset (2015-2023),20160925.csv,origin,Fuqing,CNFQG,HKHKG,350
+CNFQG,Dataset (2015-2023),20160925.csv,origin,Fuqing,CNFQG,KRINC,351
+CNFQG,Dataset (2015-2023),20160925.csv,destination,Fuqing,CNSWA,CNFQG,479
+USFPO,Dataset (2015-2023),20160925.csv,destination,Freeport TX,GTPBR,USFPO,1144
+CNFQG,Dataset (2015-2023),20160925.csv,destination,Fuqing,MYPKG,CNFQG,1935
+USFPO,Dataset (2015-2023),20160925.csv,origin,Freeport TX,USFPO,HNPCR,2770
+USFPO,Dataset (2015-2023),20160925.csv,destination,Freeport TX,USMSY,USFPO,2835
+CNFQG,Dataset (2015-2023),20161225.csv,origin,Fuqing,CNFQG,HKHKG,346
+CNFQG,Dataset (2015-2023),20161225.csv,origin,Fuqing,CNFQG,KRINC,347
+CNFQG,Dataset (2015-2023),20161225.csv,destination,Fuqing,CNSWA,CNFQG,475
+USFPO,Dataset (2015-2023),20161225.csv,destination,Freeport TX,GTPBR,USFPO,1151
+CNFQG,Dataset (2015-2023),20161225.csv,destination,Fuqing,MYPKG,CNFQG,1936
+USFPO,Dataset (2015-2023),20161225.csv,origin,Freeport TX,USFPO,HNPCR,2788
+USFPO,Dataset (2015-2023),20161225.csv,destination,Freeport TX,USMSY,USFPO,2853
+CNFQG,Dataset (2015-2023),20170326.csv,origin,Fuqing,CNFQG,HKHKG,324
+CNFQG,Dataset (2015-2023),20170326.csv,origin,Fuqing,CNFQG,KRINC,325
+CNFQG,Dataset (2015-2023),20170326.csv,destination,Fuqing,CNSWA,CNFQG,453
+USFPO,Dataset (2015-2023),20170326.csv,destination,Freeport TX,GTPBR,USFPO,1115
+CNFQG,Dataset (2015-2023),20170326.csv,destination,Fuqing,MYPKG,CNFQG,1883
+USFPO,Dataset (2015-2023),20170326.csv,origin,Freeport TX,USFPO,HNPCR,2723
+USFPO,Dataset (2015-2023),20170326.csv,destination,Freeport TX,USMSY,USFPO,2791
+CNFQG,Dataset (2015-2023),20170625.csv,origin,Fuqing,CNFQG,CNNSA,332
+CNFQG,Dataset (2015-2023),20170625.csv,origin,Fuqing,CNFQG,HKHKG,333
+CNFQG,Dataset (2015-2023),20170625.csv,origin,Fuqing,CNFQG,KRINC,334
+CNFQG,Dataset (2015-2023),20170625.csv,destination,Fuqing,CNSWA,CNFQG,461
+USFPO,Dataset (2015-2023),20170625.csv,destination,Freeport TX,GTPBR,USFPO,1118
+CNFQG,Dataset (2015-2023),20170625.csv,destination,Fuqing,MYPKG,CNFQG,1895
+USFPO,Dataset (2015-2023),20170625.csv,origin,Freeport TX,USFPO,HNPCR,2723
+USFPO,Dataset (2015-2023),20170625.csv,destination,Freeport TX,USMSY,USFPO,2791
+CNFQG,Dataset (2015-2023),20170625.csv,destination,Fuqing,USOAK,CNFQG,2810
+CNFQG,Dataset (2015-2023),20170924.csv,origin,Fuqing,CNFQG,HKHKG,324
+CNFQG,Dataset (2015-2023),20170924.csv,origin,Fuqing,CNFQG,KRINC,325
+CNFQG,Dataset (2015-2023),20170924.csv,destination,Fuqing,CNSWA,CNFQG,458
+USFPO,Dataset (2015-2023),20170924.csv,destination,Freeport TX,GTPBR,USFPO,1135
+CNFQG,Dataset (2015-2023),20170924.csv,destination,Fuqing,SGSIN,CNFQG,2459
+USFPO,Dataset (2015-2023),20170924.csv,origin,Freeport TX,USFPO,HNPCR,2731
+USFPO,Dataset (2015-2023),20170924.csv,destination,Freeport TX,USMSY,USFPO,2798
+CNFQG,Dataset (2015-2023),20171231.csv,origin,Fuqing,CNFQG,HKHKG,332
+CNFQG,Dataset (2015-2023),20171231.csv,origin,Fuqing,CNFQG,KRINC,333
+CNFQG,Dataset (2015-2023),20171231.csv,origin,Fuqing,CNFQG,KRPUS,334
+CNFQG,Dataset (2015-2023),20171231.csv,destination,Fuqing,CNSWA,CNFQG,472
+CNFQG,Dataset (2015-2023),20171231.csv,destination,Fuqing,CNXMN,CNFQG,515
+USFPO,Dataset (2015-2023),20171231.csv,destination,Freeport TX,HNPCR,USFPO,1220
+CNFQG,Dataset (2015-2023),20171231.csv,destination,Fuqing,SGSIN,CNFQG,2506
+USFPO,Dataset (2015-2023),20171231.csv,origin,Freeport TX,USFPO,GTPBR,2778
+USFPO,Dataset (2015-2023),20171231.csv,origin,Freeport TX,USFPO,HNPCR,2779
+USFPO,Dataset (2015-2023),20171231.csv,destination,Freeport TX,USMSY,USFPO,2846
+CNFQG,Dataset (2015-2023),20180325.csv,origin,Fuqing,CNFQG,HKHKG,333
+CNFQG,Dataset (2015-2023),20180325.csv,origin,Fuqing,CNFQG,KRINC,334
+CNFQG,Dataset (2015-2023),20180325.csv,origin,Fuqing,CNFQG,KRPUS,335
+CNFQG,Dataset (2015-2023),20180325.csv,destination,Fuqing,CNSWA,CNFQG,472
+CNFQG,Dataset (2015-2023),20180325.csv,destination,Fuqing,CNXMN,CNFQG,517
+USFPO,Dataset (2015-2023),20180325.csv,destination,Freeport TX,GTPBR,USFPO,1164
+CNFQG,Dataset (2015-2023),20180325.csv,destination,Fuqing,SGSIN,CNFQG,2526
+USFPO,Dataset (2015-2023),20180325.csv,origin,Freeport TX,USFPO,HNPCR,2796
+CNFQG,Dataset (2015-2023),20180624.csv,origin,Fuqing,CNFQG,HKHKG,338
+CNFQG,Dataset (2015-2023),20180624.csv,origin,Fuqing,CNFQG,KRINC,339
+CNFQG,Dataset (2015-2023),20180624.csv,origin,Fuqing,CNFQG,KRKAN,340
+CNFQG,Dataset (2015-2023),20180624.csv,destination,Fuqing,CNSWA,CNFQG,486
+CNFQG,Dataset (2015-2023),20180624.csv,destination,Fuqing,CNXMN,CNFQG,535
+USFPO,Dataset (2015-2023),20180624.csv,destination,Freeport TX,GTPBR,USFPO,1160
+CNFQG,Dataset (2015-2023),20180624.csv,destination,Fuqing,SGSIN,CNFQG,2547
+USFPO,Dataset (2015-2023),20180624.csv,origin,Freeport TX,USFPO,HNPCR,2819
+CNFQG,Dataset (2015-2023),20180930.csv,origin,Fuqing,CNFQG,CNSWA,336
+CNFQG,Dataset (2015-2023),20180930.csv,origin,Fuqing,CNFQG,HKHKG,337
+CNFQG,Dataset (2015-2023),20180930.csv,origin,Fuqing,CNFQG,KRINC,338
+CNFQG,Dataset (2015-2023),20180930.csv,origin,Fuqing,CNFQG,KRPUS,339
+CNFQG,Dataset (2015-2023),20180930.csv,destination,Fuqing,CNSWA,CNFQG,487
+CNFQG,Dataset (2015-2023),20180930.csv,destination,Fuqing,CNTAO,CNFQG,499
+CNFQG,Dataset (2015-2023),20180930.csv,destination,Fuqing,CNXMN,CNFQG,536
+USFPO,Dataset (2015-2023),20180930.csv,destination,Freeport TX,GTPBR,USFPO,1156
+CNFQG,Dataset (2015-2023),20180930.csv,destination,Fuqing,SGSIN,CNFQG,2535
+USFPO,Dataset (2015-2023),20180930.csv,origin,Freeport TX,USFPO,HNPCR,2810
+CNFQG,Dataset (2015-2023),20181230.csv,origin,Fuqing,CNFQG,CNSHK,335
+CNFQG,Dataset (2015-2023),20181230.csv,origin,Fuqing,CNFQG,KRINC,336
+CNFQG,Dataset (2015-2023),20181230.csv,origin,Fuqing,CNFQG,KRPUS,337
+CNFQG,Dataset (2015-2023),20181230.csv,destination,Fuqing,CNNGB,CNFQG,351
+CNFQG,Dataset (2015-2023),20181230.csv,destination,Fuqing,CNSWA,CNFQG,481
+CNFQG,Dataset (2015-2023),20181230.csv,destination,Fuqing,CNXMN,CNFQG,523
+USFPO,Dataset (2015-2023),20181230.csv,destination,Freeport TX,GTPBR,USFPO,1125
+USFPO,Dataset (2015-2023),20181230.csv,origin,Freeport TX,USFPO,HNPCR,2747
+USFPO,Dataset (2015-2023),20181230.csv,origin,Freeport TX,USFPO,MXVER,2748
+USFPO,Dataset (2015-2023),20181230.csv,destination,Freeport TX,USHOU,USFPO,2761
+CNFQG,Dataset (2015-2023),20190331.csv,origin,Fuqing,CNFQG,CNSHK,330
+CNFQG,Dataset (2015-2023),20190331.csv,origin,Fuqing,CNFQG,KRPUS,331
+CNFQG,Dataset (2015-2023),20190331.csv,destination,Fuqing,CNNGB,CNFQG,346
+CNFQG,Dataset (2015-2023),20190331.csv,destination,Fuqing,CNSWA,CNFQG,470
+USFPO,Dataset (2015-2023),20190331.csv,destination,Freeport TX,GTPBR,USFPO,1138
+USFPO,Dataset (2015-2023),20190331.csv,origin,Freeport TX,USFPO,HNPCR,2749
+USFPO,Dataset (2015-2023),20190331.csv,origin,Freeport TX,USFPO,MXVER,2750
+USFPO,Dataset (2015-2023),20190331.csv,destination,Freeport TX,USHOU,USFPO,2763
+CNFQG,Dataset (2015-2023),20190630.csv,origin,Fuqing,CNFQG,CNFOC,329
+CNFQG,Dataset (2015-2023),20190630.csv,origin,Fuqing,CNFQG,CNSHK,330
+CNFQG,Dataset (2015-2023),20190630.csv,origin,Fuqing,CNFQG,KRPUS,331
+CNFQG,Dataset (2015-2023),20190630.csv,destination,Fuqing,CNNGB,CNFQG,346
+CNFQG,Dataset (2015-2023),20190630.csv,destination,Fuqing,CNSWA,CNFQG,475
+CNFQG,Dataset (2015-2023),20190630.csv,destination,Fuqing,CNXMN,CNFQG,515
+USFPO,Dataset (2015-2023),20190630.csv,destination,Freeport TX,GTPBR,USFPO,1123
+USFPO,Dataset (2015-2023),20190630.csv,origin,Freeport TX,USFPO,HNPCR,2726
+USFPO,Dataset (2015-2023),20190630.csv,origin,Freeport TX,USFPO,MXVER,2727
+USFPO,Dataset (2015-2023),20190630.csv,destination,Freeport TX,USHOU,USFPO,2741
+CNFQG,Dataset (2015-2023),20190929.csv,origin,Fuqing,CNFQG,CNSHK,325
+CNFQG,Dataset (2015-2023),20190929.csv,origin,Fuqing,CNFQG,KRPUS,326
+CNFQG,Dataset (2015-2023),20190929.csv,destination,Fuqing,CNNGB,CNFQG,341
+CNFQG,Dataset (2015-2023),20190929.csv,destination,Fuqing,CNSWA,CNFQG,470
+USFPO,Dataset (2015-2023),20190929.csv,destination,Freeport TX,GTPBR,USFPO,1170
+USFPO,Dataset (2015-2023),20190929.csv,origin,Freeport TX,USFPO,HNPCR,2866
+USFPO,Dataset (2015-2023),20190929.csv,origin,Freeport TX,USFPO,MXVER,2867
+USFPO,Dataset (2015-2023),20190929.csv,destination,Freeport TX,USHOU,USFPO,2882
+CNFQG,Dataset (2015-2023),20191229.csv,origin,Fuqing,CNFQG,CNSHK,327
+CNFQG,Dataset (2015-2023),20191229.csv,origin,Fuqing,CNFQG,KRPUS,328
+CNFQG,Dataset (2015-2023),20191229.csv,destination,Fuqing,CNNGB,CNFQG,342
+CNFQG,Dataset (2015-2023),20191229.csv,destination,Fuqing,CNSWA,CNFQG,476
+USFPO,Dataset (2015-2023),20191229.csv,destination,Freeport TX,GTPBR,USFPO,1208
+USFPO,Dataset (2015-2023),20191229.csv,origin,Freeport TX,USFPO,HNPCR,2999
+USFPO,Dataset (2015-2023),20191229.csv,origin,Freeport TX,USFPO,MXVER,3000
+USFPO,Dataset (2015-2023),20191229.csv,destination,Freeport TX,USHOU,USFPO,3016
+CNFQG,Dataset (2015-2023),20200329.csv,origin,Fuqing,CNFQG,CNSHK,333
+CNFQG,Dataset (2015-2023),20200329.csv,origin,Fuqing,CNFQG,KRPUS,334
+CNFQG,Dataset (2015-2023),20200329.csv,destination,Fuqing,CNNGB,CNFQG,345
+CNFQG,Dataset (2015-2023),20200329.csv,destination,Fuqing,CNSWA,CNFQG,475
+USFPO,Dataset (2015-2023),20200329.csv,destination,Freeport TX,GTPBR,USFPO,1185
+USFPO,Dataset (2015-2023),20200329.csv,origin,Freeport TX,USFPO,HNPCR,2949
+USFPO,Dataset (2015-2023),20200329.csv,origin,Freeport TX,USFPO,MXVER,2950
+USFPO,Dataset (2015-2023),20200329.csv,destination,Freeport TX,USGPT,USFPO,2953
+USFPO,Dataset (2015-2023),20200329.csv,destination,Freeport TX,USHOU,USFPO,2965
+CNFQG,Dataset (2015-2023),20200628.csv,origin,Fuqing,CNFQG,CNSHK,330
+CNFQG,Dataset (2015-2023),20200628.csv,origin,Fuqing,CNFQG,KRPUS,331
+CNFQG,Dataset (2015-2023),20200628.csv,destination,Fuqing,CNNGB,CNFQG,344
+CNFQG,Dataset (2015-2023),20200628.csv,destination,Fuqing,CNSWA,CNFQG,473
+USFPO,Dataset (2015-2023),20200628.csv,destination,Freeport TX,GTPBR,USFPO,1158
+USFPO,Dataset (2015-2023),20200628.csv,origin,Freeport TX,USFPO,HNPCR,2854
+USFPO,Dataset (2015-2023),20200628.csv,origin,Freeport TX,USFPO,MXVER,2855
+USFPO,Dataset (2015-2023),20200628.csv,destination,Freeport TX,USGPT,USFPO,2857
+USFPO,Dataset (2015-2023),20200628.csv,destination,Freeport TX,USHOU,USFPO,2868
+CNFQG,Dataset (2015-2023),20200927.csv,origin,Fuqing,CNFQG,CNSHK,336
+CNFQG,Dataset (2015-2023),20200927.csv,origin,Fuqing,CNFQG,CNSWA,337
+CNFQG,Dataset (2015-2023),20200927.csv,origin,Fuqing,CNFQG,KRPUS,338
+CNFQG,Dataset (2015-2023),20200927.csv,destination,Fuqing,CNNGB,CNFQG,351
+CNFQG,Dataset (2015-2023),20200927.csv,destination,Fuqing,CNSWA,CNFQG,484
+USFPO,Dataset (2015-2023),20200927.csv,destination,Freeport TX,GTPBR,USFPO,1180
+USFPO,Dataset (2015-2023),20200927.csv,origin,Freeport TX,USFPO,HNPCR,2911
+USFPO,Dataset (2015-2023),20200927.csv,origin,Freeport TX,USFPO,MXVER,2912
+USFPO,Dataset (2015-2023),20200927.csv,destination,Freeport TX,USGPT,USFPO,2914
+USFPO,Dataset (2015-2023),20200927.csv,destination,Freeport TX,USHOU,USFPO,2925
+CNFQG,Dataset (2015-2023),20201227.csv,origin,Fuqing,CNFQG,CNSHK,335
+CNFQG,Dataset (2015-2023),20201227.csv,origin,Fuqing,CNFQG,CNSWA,336
+CNFQG,Dataset (2015-2023),20201227.csv,origin,Fuqing,CNFQG,KRPUS,337
+CNFQG,Dataset (2015-2023),20201227.csv,destination,Fuqing,CNNGB,CNFQG,349
+CNFQG,Dataset (2015-2023),20201227.csv,destination,Fuqing,CNSWA,CNFQG,477
+USFPO,Dataset (2015-2023),20201227.csv,destination,Freeport TX,GTPBR,USFPO,1160
+USFPO,Dataset (2015-2023),20201227.csv,origin,Freeport TX,USFPO,HNPCR,2890
+USFPO,Dataset (2015-2023),20201227.csv,origin,Freeport TX,USFPO,MXVER,2891
+USFPO,Dataset (2015-2023),20201227.csv,destination,Freeport TX,USGPT,USFPO,2893
+USFPO,Dataset (2015-2023),20201227.csv,destination,Freeport TX,USHOU,USFPO,2904
+CNFQG,Dataset (2015-2023),20210328.csv,origin,Fuqing,CNFQG,CNSHK,356
+CNFQG,Dataset (2015-2023),20210328.csv,origin,Fuqing,CNFQG,HKHKG,357
+CNFQG,Dataset (2015-2023),20210328.csv,origin,Fuqing,CNFQG,KRPUS,358
+CNFQG,Dataset (2015-2023),20210328.csv,destination,Fuqing,CNNGB,CNFQG,370
+CNFQG,Dataset (2015-2023),20210328.csv,destination,Fuqing,CNSWA,CNFQG,503
+USFPO,Dataset (2015-2023),20210328.csv,destination,Freeport TX,GTPBR,USFPO,1184
+USFPO,Dataset (2015-2023),20210328.csv,origin,Freeport TX,USFPO,HNPCR,2954
+USFPO,Dataset (2015-2023),20210328.csv,origin,Freeport TX,USFPO,MXVER,2955
+USFPO,Dataset (2015-2023),20210328.csv,destination,Freeport TX,USGPT,USFPO,2957
+USFPO,Dataset (2015-2023),20210328.csv,destination,Freeport TX,USHOU,USFPO,2969
+CNFQG,Dataset (2015-2023),20210627.csv,origin,Fuqing,CNFQG,CNSHK,355
+CNFQG,Dataset (2015-2023),20210627.csv,origin,Fuqing,CNFQG,CNSWA,356
+CNFQG,Dataset (2015-2023),20210627.csv,origin,Fuqing,CNFQG,HKHKG,357
+CNFQG,Dataset (2015-2023),20210627.csv,origin,Fuqing,CNFQG,KRPUS,358
+CNFQG,Dataset (2015-2023),20210627.csv,destination,Fuqing,CNNGB,CNFQG,370
+CNFQG,Dataset (2015-2023),20210627.csv,destination,Fuqing,CNSWA,CNFQG,509
+USFPO,Dataset (2015-2023),20210627.csv,destination,Freeport TX,GTPBR,USFPO,1177
+USFPO,Dataset (2015-2023),20210627.csv,origin,Freeport TX,USFPO,HNPCR,2899
+USFPO,Dataset (2015-2023),20210627.csv,origin,Freeport TX,USFPO,MXVER,2900
+USFPO,Dataset (2015-2023),20210627.csv,destination,Freeport TX,USGPT,USFPO,2902
+USFPO,Dataset (2015-2023),20210627.csv,destination,Freeport TX,USHOU,USFPO,2913
+CNFQG,Dataset (2015-2023),20210926.csv,origin,Fuqing,CNFQG,CNSHK,340
+CNFQG,Dataset (2015-2023),20210926.csv,origin,Fuqing,CNFQG,HKHKG,341
+CNFQG,Dataset (2015-2023),20210926.csv,origin,Fuqing,CNFQG,KRPUS,342
+CNFQG,Dataset (2015-2023),20210926.csv,destination,Fuqing,CNNGB,CNFQG,354
+CNFQG,Dataset (2015-2023),20210926.csv,destination,Fuqing,CNSWA,CNFQG,492
+USFPO,Dataset (2015-2023),20210926.csv,destination,Freeport TX,GTPBR,USFPO,1149
+USFPO,Dataset (2015-2023),20210926.csv,destination,Freeport TX,HNPCA,USFPO,1201
+USFPO,Dataset (2015-2023),20210926.csv,origin,Freeport TX,USFPO,GTPBR,2868
+USFPO,Dataset (2015-2023),20210926.csv,origin,Freeport TX,USFPO,HNPCR,2869
+USFPO,Dataset (2015-2023),20210926.csv,origin,Freeport TX,USFPO,USGPT,2870
+USFPO,Dataset (2015-2023),20210926.csv,destination,Freeport TX,USGPT,USFPO,2872
+USFPO,Dataset (2015-2023),20210926.csv,destination,Freeport TX,USHOU,USFPO,2885
+CNFQG,Dataset (2015-2023),20211226.csv,origin,Fuqing,CNFQG,CNSHK,344
+CNFQG,Dataset (2015-2023),20211226.csv,origin,Fuqing,CNFQG,CNSWA,345
+CNFQG,Dataset (2015-2023),20211226.csv,origin,Fuqing,CNFQG,HKHKG,346
+CNFQG,Dataset (2015-2023),20211226.csv,origin,Fuqing,CNFQG,KRPUS,347
+CNFQG,Dataset (2015-2023),20211226.csv,destination,Fuqing,CNNGB,CNFQG,357
+CNFQG,Dataset (2015-2023),20211226.csv,destination,Fuqing,CNSWA,CNFQG,493
+USFPO,Dataset (2015-2023),20211226.csv,destination,Freeport TX,HNPCA,USFPO,1198
+USFPO,Dataset (2015-2023),20211226.csv,origin,Freeport TX,USFPO,GTPBR,2844
+USFPO,Dataset (2015-2023),20211226.csv,origin,Freeport TX,USFPO,USGPT,2845
+USFPO,Dataset (2015-2023),20211226.csv,destination,Freeport TX,USGPT,USFPO,2847
+CNFQG,Dataset (2015-2023),20220327.csv,origin,Fuqing,CNFQG,CNSHK,329
+CNFQG,Dataset (2015-2023),20220327.csv,origin,Fuqing,CNFQG,CNSWA,330
+CNFQG,Dataset (2015-2023),20220327.csv,origin,Fuqing,CNFQG,HKHKG,331
+CNFQG,Dataset (2015-2023),20220327.csv,origin,Fuqing,CNFQG,KRPUS,332
+CNFQG,Dataset (2015-2023),20220327.csv,destination,Fuqing,CNNGB,CNFQG,343
+CNFQG,Dataset (2015-2023),20220327.csv,destination,Fuqing,CNSWA,CNFQG,481
+USFPO,Dataset (2015-2023),20220327.csv,destination,Freeport TX,HNPCA,USFPO,1195
+USFPO,Dataset (2015-2023),20220327.csv,origin,Freeport TX,USFPO,GTPBR,2812
+USFPO,Dataset (2015-2023),20220327.csv,origin,Freeport TX,USFPO,HNPCR,2813
+USFPO,Dataset (2015-2023),20220327.csv,origin,Freeport TX,USFPO,USGPT,2814
+USFPO,Dataset (2015-2023),20220327.csv,destination,Freeport TX,USGPT,USFPO,2816
+USFPO,Dataset (2015-2023),20220327.csv,destination,Freeport TX,USHOU,USFPO,2831
+CNFQG,Dataset (2015-2023),20220626.csv,origin,Fuqing,CNFQG,CNSHK,384
+CNFQG,Dataset (2015-2023),20220626.csv,origin,Fuqing,CNFQG,CNSWA,385
+CNFQG,Dataset (2015-2023),20220626.csv,origin,Fuqing,CNFQG,HKHKG,386
+CNFQG,Dataset (2015-2023),20220626.csv,origin,Fuqing,CNFQG,KRPUS,387
+CNFQG,Dataset (2015-2023),20220626.csv,destination,Fuqing,CNNGB,CNFQG,398
+CNFQG,Dataset (2015-2023),20220626.csv,destination,Fuqing,CNSWA,CNFQG,539
+USFPO,Dataset (2015-2023),20220626.csv,destination,Freeport TX,GHTEM,USFPO,1190
+USFPO,Dataset (2015-2023),20220626.csv,destination,Freeport TX,HNPCA,USFPO,1314
+USFPO,Dataset (2015-2023),20220626.csv,origin,Freeport TX,USFPO,GTPBR,3018
+USFPO,Dataset (2015-2023),20220626.csv,origin,Freeport TX,USFPO,HNPCR,3019
+USFPO,Dataset (2015-2023),20220626.csv,origin,Freeport TX,USFPO,USGPT,3020
+USFPO,Dataset (2015-2023),20220626.csv,origin,Freeport TX,USFPO,USJAX,3021
+USFPO,Dataset (2015-2023),20220626.csv,destination,Freeport TX,USGPT,USFPO,3023
+USFPO,Dataset (2015-2023),20220626.csv,destination,Freeport TX,USHOU,USFPO,3040
+CNFQG,Dataset (2015-2023),20220925.csv,origin,Fuqing,CNFQG,CNSHK,381
+CNFQG,Dataset (2015-2023),20220925.csv,origin,Fuqing,CNFQG,CNSWA,382
+CNFQG,Dataset (2015-2023),20220925.csv,origin,Fuqing,CNFQG,HKHKG,383
+CNFQG,Dataset (2015-2023),20220925.csv,origin,Fuqing,CNFQG,KRPUS,384
+CNFQG,Dataset (2015-2023),20220925.csv,destination,Fuqing,CNNGB,CNFQG,393
+CNFQG,Dataset (2015-2023),20220925.csv,destination,Fuqing,CNSWA,CNFQG,528
+USFPO,Dataset (2015-2023),20220925.csv,destination,Freeport TX,GHTEM,USFPO,1181
+USFPO,Dataset (2015-2023),20220925.csv,destination,Freeport TX,GTPBR,USFPO,1247
+USFPO,Dataset (2015-2023),20220925.csv,destination,Freeport TX,HNPCA,USFPO,1305
+USFPO,Dataset (2015-2023),20220925.csv,origin,Freeport TX,USFPO,HNPCR,3018
+USFPO,Dataset (2015-2023),20220925.csv,origin,Freeport TX,USFPO,USGPT,3019
+USFPO,Dataset (2015-2023),20220925.csv,origin,Freeport TX,USFPO,USJAX,3020
+USFPO,Dataset (2015-2023),20220925.csv,destination,Freeport TX,USHOU,USFPO,3038
+CNFQG,Dataset (2015-2023),20221225.csv,origin,Fuqing,CNFQG,CNSHK,378
+CNFQG,Dataset (2015-2023),20221225.csv,origin,Fuqing,CNFQG,CNSWA,379
+CNFQG,Dataset (2015-2023),20221225.csv,origin,Fuqing,CNFQG,HKHKG,380
+CNFQG,Dataset (2015-2023),20221225.csv,origin,Fuqing,CNFQG,KRPUS,381
+CNFQG,Dataset (2015-2023),20221225.csv,destination,Fuqing,CNNGB,CNFQG,393
+CNFQG,Dataset (2015-2023),20221225.csv,destination,Fuqing,CNSWA,CNFQG,534
+USFPO,Dataset (2015-2023),20221225.csv,destination,Freeport TX,GHTEM,USFPO,1173
+USFPO,Dataset (2015-2023),20221225.csv,destination,Freeport TX,GTPBR,USFPO,1243
+USFPO,Dataset (2015-2023),20221225.csv,destination,Freeport TX,HNPCA,USFPO,1301
+USFPO,Dataset (2015-2023),20221225.csv,origin,Freeport TX,USFPO,HNPCR,3045
+USFPO,Dataset (2015-2023),20221225.csv,origin,Freeport TX,USFPO,USGPT,3046
+USFPO,Dataset (2015-2023),20221225.csv,origin,Freeport TX,USFPO,USJAX,3047
+USFPO,Dataset (2015-2023),20221225.csv,destination,Freeport TX,USHOU,USFPO,3063
+CNFQG,Dataset (2015-2023),20230326.csv,origin,Fuqing,CNFQG,CNNSA,384
+CNFQG,Dataset (2015-2023),20230326.csv,origin,Fuqing,CNFQG,CNSHK,385
+CNFQG,Dataset (2015-2023),20230326.csv,origin,Fuqing,CNFQG,CNSWA,386
+CNFQG,Dataset (2015-2023),20230326.csv,origin,Fuqing,CNFQG,HKHKG,387
+CNFQG,Dataset (2015-2023),20230326.csv,origin,Fuqing,CNFQG,KRPUS,388
+CNFQG,Dataset (2015-2023),20230326.csv,destination,Fuqing,CNNGB,CNFQG,397
+CNFQG,Dataset (2015-2023),20230326.csv,destination,Fuqing,CNSWA,CNFQG,538
+USFPO,Dataset (2015-2023),20230326.csv,destination,Freeport TX,GHTEM,USFPO,1199
+USFPO,Dataset (2015-2023),20230326.csv,destination,Freeport TX,GTPBR,USFPO,1262
+USFPO,Dataset (2015-2023),20230326.csv,destination,Freeport TX,HNPCA,USFPO,1317
+USFPO,Dataset (2015-2023),20230326.csv,origin,Freeport TX,USFPO,USGPT,3079
+USFPO,Dataset (2015-2023),20230326.csv,origin,Freeport TX,USFPO,USJAX,3080
+CNFQG,Dataset (2015-2023),20230326.csv,destination,Fuqing,USLAX,CNFQG,3121
+CNFQG,Dataset (2015-2023),20230625.csv,origin,Fuqing,CNFQG,CNSHK,378
+CNFQG,Dataset (2015-2023),20230625.csv,origin,Fuqing,CNFQG,CNSWA,379
+CNFQG,Dataset (2015-2023),20230625.csv,origin,Fuqing,CNFQG,CNXMN,380
+CNFQG,Dataset (2015-2023),20230625.csv,origin,Fuqing,CNFQG,HKHKG,381
+CNFQG,Dataset (2015-2023),20230625.csv,origin,Fuqing,CNFQG,KRPUS,382
+CNFQG,Dataset (2015-2023),20230625.csv,destination,Fuqing,CNNGB,CNFQG,390
+CNFQG,Dataset (2015-2023),20230625.csv,destination,Fuqing,CNSWA,CNFQG,530
+USFPO,Dataset (2015-2023),20230625.csv,destination,Freeport TX,GTPBR,USFPO,1255
+USFPO,Dataset (2015-2023),20230625.csv,destination,Freeport TX,HNPCA,USFPO,1309
+USFPO,Dataset (2015-2023),20230625.csv,origin,Freeport TX,USFPO,USGPT,3043
+CNFQG,Dataset (2015-2023),20230625.csv,destination,Fuqing,USLAX,CNFQG,3084
+CNFQG,Dataset (2017-2026),20171231.csv,origin,Fuqing,CNFQG,HKHKG,332
+CNFQG,Dataset (2017-2026),20171231.csv,origin,Fuqing,CNFQG,KRINC,333
+CNFQG,Dataset (2017-2026),20171231.csv,origin,Fuqing,CNFQG,KRPUS,334
+CNFQG,Dataset (2017-2026),20171231.csv,destination,Fuqing,CNSWA,CNFQG,472
+CNFQG,Dataset (2017-2026),20171231.csv,destination,Fuqing,CNXMN,CNFQG,515
+USFPO,Dataset (2017-2026),20171231.csv,destination,Freeport TX,HNPCR,USFPO,1220
+CNFQG,Dataset (2017-2026),20171231.csv,destination,Fuqing,SGSIN,CNFQG,2506
+USFPO,Dataset (2017-2026),20171231.csv,origin,Freeport TX,USFPO,GTPBR,2778
+USFPO,Dataset (2017-2026),20171231.csv,origin,Freeport TX,USFPO,HNPCR,2779
+USFPO,Dataset (2017-2026),20171231.csv,destination,Freeport TX,USMSY,USFPO,2846
+CNFQG,Dataset (2017-2026),20180325.csv,origin,Fuqing,CNFQG,HKHKG,333
+CNFQG,Dataset (2017-2026),20180325.csv,origin,Fuqing,CNFQG,KRINC,334
+CNFQG,Dataset (2017-2026),20180325.csv,origin,Fuqing,CNFQG,KRPUS,335
+CNFQG,Dataset (2017-2026),20180325.csv,destination,Fuqing,CNSWA,CNFQG,472
+CNFQG,Dataset (2017-2026),20180325.csv,destination,Fuqing,CNXMN,CNFQG,517
+USFPO,Dataset (2017-2026),20180325.csv,destination,Freeport TX,GTPBR,USFPO,1164
+CNFQG,Dataset (2017-2026),20180325.csv,destination,Fuqing,SGSIN,CNFQG,2526
+USFPO,Dataset (2017-2026),20180325.csv,origin,Freeport TX,USFPO,HNPCR,2796
+CNFQG,Dataset (2017-2026),20180624.csv,origin,Fuqing,CNFQG,HKHKG,338
+CNFQG,Dataset (2017-2026),20180624.csv,origin,Fuqing,CNFQG,KRINC,339
+CNFQG,Dataset (2017-2026),20180624.csv,origin,Fuqing,CNFQG,KRKAN,340
+CNFQG,Dataset (2017-2026),20180624.csv,destination,Fuqing,CNSWA,CNFQG,486
+CNFQG,Dataset (2017-2026),20180624.csv,destination,Fuqing,CNXMN,CNFQG,535
+USFPO,Dataset (2017-2026),20180624.csv,destination,Freeport TX,GTPBR,USFPO,1160
+CNFQG,Dataset (2017-2026),20180624.csv,destination,Fuqing,SGSIN,CNFQG,2547
+USFPO,Dataset (2017-2026),20180624.csv,origin,Freeport TX,USFPO,HNPCR,2819
+CNFQG,Dataset (2017-2026),20180930.csv,origin,Fuqing,CNFQG,CNSWA,336
+CNFQG,Dataset (2017-2026),20180930.csv,origin,Fuqing,CNFQG,HKHKG,337
+CNFQG,Dataset (2017-2026),20180930.csv,origin,Fuqing,CNFQG,KRINC,338
+CNFQG,Dataset (2017-2026),20180930.csv,origin,Fuqing,CNFQG,KRPUS,339
+CNFQG,Dataset (2017-2026),20180930.csv,destination,Fuqing,CNSWA,CNFQG,487
+CNFQG,Dataset (2017-2026),20180930.csv,destination,Fuqing,CNTAO,CNFQG,499
+CNFQG,Dataset (2017-2026),20180930.csv,destination,Fuqing,CNXMN,CNFQG,536
+USFPO,Dataset (2017-2026),20180930.csv,destination,Freeport TX,GTPBR,USFPO,1156
+CNFQG,Dataset (2017-2026),20180930.csv,destination,Fuqing,SGSIN,CNFQG,2535
+USFPO,Dataset (2017-2026),20180930.csv,origin,Freeport TX,USFPO,HNPCR,2810
+CNFQG,Dataset (2017-2026),20181230.csv,origin,Fuqing,CNFQG,CNSHK,335
+CNFQG,Dataset (2017-2026),20181230.csv,origin,Fuqing,CNFQG,KRINC,336
+CNFQG,Dataset (2017-2026),20181230.csv,origin,Fuqing,CNFQG,KRPUS,337
+CNFQG,Dataset (2017-2026),20181230.csv,destination,Fuqing,CNNGB,CNFQG,351
+CNFQG,Dataset (2017-2026),20181230.csv,destination,Fuqing,CNSWA,CNFQG,481
+CNFQG,Dataset (2017-2026),20181230.csv,destination,Fuqing,CNXMN,CNFQG,523
+USFPO,Dataset (2017-2026),20181230.csv,destination,Freeport TX,GTPBR,USFPO,1125
+USFPO,Dataset (2017-2026),20181230.csv,origin,Freeport TX,USFPO,HNPCR,2747
+USFPO,Dataset (2017-2026),20181230.csv,origin,Freeport TX,USFPO,MXVER,2748
+USFPO,Dataset (2017-2026),20181230.csv,destination,Freeport TX,USHOU,USFPO,2761
+CNFQG,Dataset (2017-2026),20190331.csv,origin,Fuqing,CNFQG,CNSHK,330
+CNFQG,Dataset (2017-2026),20190331.csv,origin,Fuqing,CNFQG,KRPUS,331
+CNFQG,Dataset (2017-2026),20190331.csv,destination,Fuqing,CNNGB,CNFQG,346
+CNFQG,Dataset (2017-2026),20190331.csv,destination,Fuqing,CNSWA,CNFQG,470
+USFPO,Dataset (2017-2026),20190331.csv,destination,Freeport TX,GTPBR,USFPO,1138
+USFPO,Dataset (2017-2026),20190331.csv,origin,Freeport TX,USFPO,HNPCR,2749
+USFPO,Dataset (2017-2026),20190331.csv,origin,Freeport TX,USFPO,MXVER,2750
+USFPO,Dataset (2017-2026),20190331.csv,destination,Freeport TX,USHOU,USFPO,2763
+CNFQG,Dataset (2017-2026),20190630.csv,origin,Fuqing,CNFQG,CNFOC,329
+CNFQG,Dataset (2017-2026),20190630.csv,origin,Fuqing,CNFQG,CNSHK,330
+CNFQG,Dataset (2017-2026),20190630.csv,origin,Fuqing,CNFQG,KRPUS,331
+CNFQG,Dataset (2017-2026),20190630.csv,destination,Fuqing,CNNGB,CNFQG,346
+CNFQG,Dataset (2017-2026),20190630.csv,destination,Fuqing,CNSWA,CNFQG,475
+CNFQG,Dataset (2017-2026),20190630.csv,destination,Fuqing,CNXMN,CNFQG,515
+USFPO,Dataset (2017-2026),20190630.csv,destination,Freeport TX,GTPBR,USFPO,1123
+USFPO,Dataset (2017-2026),20190630.csv,origin,Freeport TX,USFPO,HNPCR,2726
+USFPO,Dataset (2017-2026),20190630.csv,origin,Freeport TX,USFPO,MXVER,2727
+USFPO,Dataset (2017-2026),20190630.csv,destination,Freeport TX,USHOU,USFPO,2741
+CNFQG,Dataset (2017-2026),20190929.csv,origin,Fuqing,CNFQG,CNSHK,325
+CNFQG,Dataset (2017-2026),20190929.csv,origin,Fuqing,CNFQG,KRPUS,326
+CNFQG,Dataset (2017-2026),20190929.csv,destination,Fuqing,CNNGB,CNFQG,341
+CNFQG,Dataset (2017-2026),20190929.csv,destination,Fuqing,CNSWA,CNFQG,470
+USFPO,Dataset (2017-2026),20190929.csv,destination,Freeport TX,GTPBR,USFPO,1170
+USFPO,Dataset (2017-2026),20190929.csv,origin,Freeport TX,USFPO,HNPCR,2866
+USFPO,Dataset (2017-2026),20190929.csv,origin,Freeport TX,USFPO,MXVER,2867
+USFPO,Dataset (2017-2026),20190929.csv,destination,Freeport TX,USHOU,USFPO,2882
+CNFQG,Dataset (2017-2026),20191229.csv,origin,Fuqing,CNFQG,CNSHK,327
+CNFQG,Dataset (2017-2026),20191229.csv,origin,Fuqing,CNFQG,KRPUS,328
+CNFQG,Dataset (2017-2026),20191229.csv,destination,Fuqing,CNNGB,CNFQG,342
+CNFQG,Dataset (2017-2026),20191229.csv,destination,Fuqing,CNSWA,CNFQG,476
+USFPO,Dataset (2017-2026),20191229.csv,destination,Freeport TX,GTPBR,USFPO,1208
+USFPO,Dataset (2017-2026),20191229.csv,origin,Freeport TX,USFPO,HNPCR,2999
+USFPO,Dataset (2017-2026),20191229.csv,origin,Freeport TX,USFPO,MXVER,3000
+USFPO,Dataset (2017-2026),20191229.csv,destination,Freeport TX,USHOU,USFPO,3016
+CNFQG,Dataset (2017-2026),20200329.csv,origin,Fuqing,CNFQG,CNSHK,333
+CNFQG,Dataset (2017-2026),20200329.csv,origin,Fuqing,CNFQG,KRPUS,334
+CNFQG,Dataset (2017-2026),20200329.csv,destination,Fuqing,CNNGB,CNFQG,345
+CNFQG,Dataset (2017-2026),20200329.csv,destination,Fuqing,CNSWA,CNFQG,475
+USFPO,Dataset (2017-2026),20200329.csv,destination,Freeport TX,GTPBR,USFPO,1185
+USFPO,Dataset (2017-2026),20200329.csv,origin,Freeport TX,USFPO,HNPCR,2949
+USFPO,Dataset (2017-2026),20200329.csv,origin,Freeport TX,USFPO,MXVER,2950
+USFPO,Dataset (2017-2026),20200329.csv,destination,Freeport TX,USGPT,USFPO,2953
+USFPO,Dataset (2017-2026),20200329.csv,destination,Freeport TX,USHOU,USFPO,2965
+CNFQG,Dataset (2017-2026),20200628.csv,origin,Fuqing,CNFQG,CNSHK,330
+CNFQG,Dataset (2017-2026),20200628.csv,origin,Fuqing,CNFQG,KRPUS,331
+CNFQG,Dataset (2017-2026),20200628.csv,destination,Fuqing,CNNGB,CNFQG,344
+CNFQG,Dataset (2017-2026),20200628.csv,destination,Fuqing,CNSWA,CNFQG,473
+USFPO,Dataset (2017-2026),20200628.csv,destination,Freeport TX,GTPBR,USFPO,1158
+USFPO,Dataset (2017-2026),20200628.csv,origin,Freeport TX,USFPO,HNPCR,2854
+USFPO,Dataset (2017-2026),20200628.csv,origin,Freeport TX,USFPO,MXVER,2855
+USFPO,Dataset (2017-2026),20200628.csv,destination,Freeport TX,USGPT,USFPO,2857
+USFPO,Dataset (2017-2026),20200628.csv,destination,Freeport TX,USHOU,USFPO,2868
+CNFQG,Dataset (2017-2026),20200927.csv,origin,Fuqing,CNFQG,CNSHK,336
+CNFQG,Dataset (2017-2026),20200927.csv,origin,Fuqing,CNFQG,CNSWA,337
+CNFQG,Dataset (2017-2026),20200927.csv,origin,Fuqing,CNFQG,KRPUS,338
+CNFQG,Dataset (2017-2026),20200927.csv,destination,Fuqing,CNNGB,CNFQG,351
+CNFQG,Dataset (2017-2026),20200927.csv,destination,Fuqing,CNSWA,CNFQG,484
+USFPO,Dataset (2017-2026),20200927.csv,destination,Freeport TX,GTPBR,USFPO,1180
+USFPO,Dataset (2017-2026),20200927.csv,origin,Freeport TX,USFPO,HNPCR,2911
+USFPO,Dataset (2017-2026),20200927.csv,origin,Freeport TX,USFPO,MXVER,2912
+USFPO,Dataset (2017-2026),20200927.csv,destination,Freeport TX,USGPT,USFPO,2914
+USFPO,Dataset (2017-2026),20200927.csv,destination,Freeport TX,USHOU,USFPO,2925
+CNFQG,Dataset (2017-2026),20201227.csv,origin,Fuqing,CNFQG,CNSHK,335
+CNFQG,Dataset (2017-2026),20201227.csv,origin,Fuqing,CNFQG,CNSWA,336
+CNFQG,Dataset (2017-2026),20201227.csv,origin,Fuqing,CNFQG,KRPUS,337
+CNFQG,Dataset (2017-2026),20201227.csv,destination,Fuqing,CNNGB,CNFQG,349
+CNFQG,Dataset (2017-2026),20201227.csv,destination,Fuqing,CNSWA,CNFQG,477
+USFPO,Dataset (2017-2026),20201227.csv,destination,Freeport TX,GTPBR,USFPO,1160
+USFPO,Dataset (2017-2026),20201227.csv,origin,Freeport TX,USFPO,HNPCR,2890
+USFPO,Dataset (2017-2026),20201227.csv,origin,Freeport TX,USFPO,MXVER,2891
+USFPO,Dataset (2017-2026),20201227.csv,destination,Freeport TX,USGPT,USFPO,2893
+USFPO,Dataset (2017-2026),20201227.csv,destination,Freeport TX,USHOU,USFPO,2904
+CNFQG,Dataset (2017-2026),20210328.csv,origin,Fuqing,CNFQG,CNSHK,356
+CNFQG,Dataset (2017-2026),20210328.csv,origin,Fuqing,CNFQG,HKHKG,357
+CNFQG,Dataset (2017-2026),20210328.csv,origin,Fuqing,CNFQG,KRPUS,358
+CNFQG,Dataset (2017-2026),20210328.csv,destination,Fuqing,CNNGB,CNFQG,370
+CNFQG,Dataset (2017-2026),20210328.csv,destination,Fuqing,CNSWA,CNFQG,503
+USFPO,Dataset (2017-2026),20210328.csv,destination,Freeport TX,GTPBR,USFPO,1184
+USFPO,Dataset (2017-2026),20210328.csv,origin,Freeport TX,USFPO,HNPCR,2954
+USFPO,Dataset (2017-2026),20210328.csv,origin,Freeport TX,USFPO,MXVER,2955
+USFPO,Dataset (2017-2026),20210328.csv,destination,Freeport TX,USGPT,USFPO,2957
+USFPO,Dataset (2017-2026),20210328.csv,destination,Freeport TX,USHOU,USFPO,2969
+CNFQG,Dataset (2017-2026),20210627.csv,origin,Fuqing,CNFQG,CNSHK,355
+CNFQG,Dataset (2017-2026),20210627.csv,origin,Fuqing,CNFQG,CNSWA,356
+CNFQG,Dataset (2017-2026),20210627.csv,origin,Fuqing,CNFQG,HKHKG,357
+CNFQG,Dataset (2017-2026),20210627.csv,origin,Fuqing,CNFQG,KRPUS,358
+CNFQG,Dataset (2017-2026),20210627.csv,destination,Fuqing,CNNGB,CNFQG,370
+CNFQG,Dataset (2017-2026),20210627.csv,destination,Fuqing,CNSWA,CNFQG,509
+USFPO,Dataset (2017-2026),20210627.csv,destination,Freeport TX,GTPBR,USFPO,1177
+USFPO,Dataset (2017-2026),20210627.csv,origin,Freeport TX,USFPO,HNPCR,2899
+USFPO,Dataset (2017-2026),20210627.csv,origin,Freeport TX,USFPO,MXVER,2900
+USFPO,Dataset (2017-2026),20210627.csv,destination,Freeport TX,USGPT,USFPO,2902
+USFPO,Dataset (2017-2026),20210627.csv,destination,Freeport TX,USHOU,USFPO,2913
+CNFQG,Dataset (2017-2026),20210926.csv,origin,Fuqing,CNFQG,CNSHK,340
+CNFQG,Dataset (2017-2026),20210926.csv,origin,Fuqing,CNFQG,HKHKG,341
+CNFQG,Dataset (2017-2026),20210926.csv,origin,Fuqing,CNFQG,KRPUS,342
+CNFQG,Dataset (2017-2026),20210926.csv,destination,Fuqing,CNNGB,CNFQG,354
+CNFQG,Dataset (2017-2026),20210926.csv,destination,Fuqing,CNSWA,CNFQG,492
+USFPO,Dataset (2017-2026),20210926.csv,destination,Freeport TX,GTPBR,USFPO,1149
+USFPO,Dataset (2017-2026),20210926.csv,destination,Freeport TX,HNPCA,USFPO,1201
+USFPO,Dataset (2017-2026),20210926.csv,origin,Freeport TX,USFPO,GTPBR,2868
+USFPO,Dataset (2017-2026),20210926.csv,origin,Freeport TX,USFPO,HNPCR,2869
+USFPO,Dataset (2017-2026),20210926.csv,origin,Freeport TX,USFPO,USGPT,2870
+USFPO,Dataset (2017-2026),20210926.csv,destination,Freeport TX,USGPT,USFPO,2872
+USFPO,Dataset (2017-2026),20210926.csv,destination,Freeport TX,USHOU,USFPO,2885
+CNFQG,Dataset (2017-2026),20211226.csv,origin,Fuqing,CNFQG,CNSHK,344
+CNFQG,Dataset (2017-2026),20211226.csv,origin,Fuqing,CNFQG,CNSWA,345
+CNFQG,Dataset (2017-2026),20211226.csv,origin,Fuqing,CNFQG,HKHKG,346
+CNFQG,Dataset (2017-2026),20211226.csv,origin,Fuqing,CNFQG,KRPUS,347
+CNFQG,Dataset (2017-2026),20211226.csv,destination,Fuqing,CNNGB,CNFQG,357
+CNFQG,Dataset (2017-2026),20211226.csv,destination,Fuqing,CNSWA,CNFQG,493
+USFPO,Dataset (2017-2026),20211226.csv,destination,Freeport TX,HNPCA,USFPO,1198
+USFPO,Dataset (2017-2026),20211226.csv,origin,Freeport TX,USFPO,GTPBR,2844
+USFPO,Dataset (2017-2026),20211226.csv,origin,Freeport TX,USFPO,USGPT,2845
+USFPO,Dataset (2017-2026),20211226.csv,destination,Freeport TX,USGPT,USFPO,2847
+CNFQG,Dataset (2017-2026),20220327.csv,origin,Fuqing,CNFQG,CNSHK,329
+CNFQG,Dataset (2017-2026),20220327.csv,origin,Fuqing,CNFQG,CNSWA,330
+CNFQG,Dataset (2017-2026),20220327.csv,origin,Fuqing,CNFQG,HKHKG,331
+CNFQG,Dataset (2017-2026),20220327.csv,origin,Fuqing,CNFQG,KRPUS,332
+CNFQG,Dataset (2017-2026),20220327.csv,destination,Fuqing,CNNGB,CNFQG,343
+CNFQG,Dataset (2017-2026),20220327.csv,destination,Fuqing,CNSWA,CNFQG,481
+USFPO,Dataset (2017-2026),20220327.csv,destination,Freeport TX,HNPCA,USFPO,1195
+USFPO,Dataset (2017-2026),20220327.csv,origin,Freeport TX,USFPO,GTPBR,2812
+USFPO,Dataset (2017-2026),20220327.csv,origin,Freeport TX,USFPO,HNPCR,2813
+USFPO,Dataset (2017-2026),20220327.csv,origin,Freeport TX,USFPO,USGPT,2814
+USFPO,Dataset (2017-2026),20220327.csv,destination,Freeport TX,USGPT,USFPO,2816
+USFPO,Dataset (2017-2026),20220327.csv,destination,Freeport TX,USHOU,USFPO,2831
+CNFQG,Dataset (2017-2026),20220626.csv,origin,Fuqing,CNFQG,CNSHK,384
+CNFQG,Dataset (2017-2026),20220626.csv,origin,Fuqing,CNFQG,CNSWA,385
+CNFQG,Dataset (2017-2026),20220626.csv,origin,Fuqing,CNFQG,HKHKG,386
+CNFQG,Dataset (2017-2026),20220626.csv,origin,Fuqing,CNFQG,KRPUS,387
+CNFQG,Dataset (2017-2026),20220626.csv,destination,Fuqing,CNNGB,CNFQG,398
+CNFQG,Dataset (2017-2026),20220626.csv,destination,Fuqing,CNSWA,CNFQG,539
+USFPO,Dataset (2017-2026),20220626.csv,destination,Freeport TX,GHTEM,USFPO,1190
+USFPO,Dataset (2017-2026),20220626.csv,destination,Freeport TX,HNPCA,USFPO,1314
+USFPO,Dataset (2017-2026),20220626.csv,origin,Freeport TX,USFPO,GTPBR,3018
+USFPO,Dataset (2017-2026),20220626.csv,origin,Freeport TX,USFPO,HNPCR,3019
+USFPO,Dataset (2017-2026),20220626.csv,origin,Freeport TX,USFPO,USGPT,3020
+USFPO,Dataset (2017-2026),20220626.csv,origin,Freeport TX,USFPO,USJAX,3021
+USFPO,Dataset (2017-2026),20220626.csv,destination,Freeport TX,USGPT,USFPO,3023
+USFPO,Dataset (2017-2026),20220626.csv,destination,Freeport TX,USHOU,USFPO,3040
+CNFQG,Dataset (2017-2026),20220925.csv,origin,Fuqing,CNFQG,CNSHK,381
+CNFQG,Dataset (2017-2026),20220925.csv,origin,Fuqing,CNFQG,CNSWA,382
+CNFQG,Dataset (2017-2026),20220925.csv,origin,Fuqing,CNFQG,HKHKG,383
+CNFQG,Dataset (2017-2026),20220925.csv,origin,Fuqing,CNFQG,KRPUS,384
+CNFQG,Dataset (2017-2026),20220925.csv,destination,Fuqing,CNNGB,CNFQG,393
+CNFQG,Dataset (2017-2026),20220925.csv,destination,Fuqing,CNSWA,CNFQG,528
+USFPO,Dataset (2017-2026),20220925.csv,destination,Freeport TX,GHTEM,USFPO,1181
+USFPO,Dataset (2017-2026),20220925.csv,destination,Freeport TX,GTPBR,USFPO,1247
+USFPO,Dataset (2017-2026),20220925.csv,destination,Freeport TX,HNPCA,USFPO,1305
+USFPO,Dataset (2017-2026),20220925.csv,origin,Freeport TX,USFPO,HNPCR,3018
+USFPO,Dataset (2017-2026),20220925.csv,origin,Freeport TX,USFPO,USGPT,3019
+USFPO,Dataset (2017-2026),20220925.csv,origin,Freeport TX,USFPO,USJAX,3020
+USFPO,Dataset (2017-2026),20220925.csv,destination,Freeport TX,USHOU,USFPO,3038
+CNFQG,Dataset (2017-2026),20221225.csv,origin,Fuqing,CNFQG,CNSHK,378
+CNFQG,Dataset (2017-2026),20221225.csv,origin,Fuqing,CNFQG,CNSWA,379
+CNFQG,Dataset (2017-2026),20221225.csv,origin,Fuqing,CNFQG,HKHKG,380
+CNFQG,Dataset (2017-2026),20221225.csv,origin,Fuqing,CNFQG,KRPUS,381
+CNFQG,Dataset (2017-2026),20221225.csv,destination,Fuqing,CNNGB,CNFQG,393
+CNFQG,Dataset (2017-2026),20221225.csv,destination,Fuqing,CNSWA,CNFQG,534
+USFPO,Dataset (2017-2026),20221225.csv,destination,Freeport TX,GHTEM,USFPO,1173
+USFPO,Dataset (2017-2026),20221225.csv,destination,Freeport TX,GTPBR,USFPO,1243
+USFPO,Dataset (2017-2026),20221225.csv,destination,Freeport TX,HNPCA,USFPO,1301
+USFPO,Dataset (2017-2026),20221225.csv,origin,Freeport TX,USFPO,HNPCR,3045
+USFPO,Dataset (2017-2026),20221225.csv,origin,Freeport TX,USFPO,USGPT,3046
+USFPO,Dataset (2017-2026),20221225.csv,origin,Freeport TX,USFPO,USJAX,3047
+USFPO,Dataset (2017-2026),20221225.csv,destination,Freeport TX,USHOU,USFPO,3063
+CNFQG,Dataset (2017-2026),20230326.csv,origin,Fuqing,CNFQG,CNNSA,384
+CNFQG,Dataset (2017-2026),20230326.csv,origin,Fuqing,CNFQG,CNSHK,385
+CNFQG,Dataset (2017-2026),20230326.csv,origin,Fuqing,CNFQG,CNSWA,386
+CNFQG,Dataset (2017-2026),20230326.csv,origin,Fuqing,CNFQG,HKHKG,387
+CNFQG,Dataset (2017-2026),20230326.csv,origin,Fuqing,CNFQG,KRPUS,388
+CNFQG,Dataset (2017-2026),20230326.csv,destination,Fuqing,CNNGB,CNFQG,397
+CNFQG,Dataset (2017-2026),20230326.csv,destination,Fuqing,CNSWA,CNFQG,538
+USFPO,Dataset (2017-2026),20230326.csv,destination,Freeport TX,GHTEM,USFPO,1199
+USFPO,Dataset (2017-2026),20230326.csv,destination,Freeport TX,GTPBR,USFPO,1262
+USFPO,Dataset (2017-2026),20230326.csv,destination,Freeport TX,HNPCA,USFPO,1317
+USFPO,Dataset (2017-2026),20230326.csv,origin,Freeport TX,USFPO,USGPT,3079
+USFPO,Dataset (2017-2026),20230326.csv,origin,Freeport TX,USFPO,USJAX,3080
+CNFQG,Dataset (2017-2026),20230326.csv,destination,Fuqing,USLAX,CNFQG,3121
+CNFQG,Dataset (2017-2026),20230625.csv,origin,Fuqing,CNFQG,CNSHK,378
+CNFQG,Dataset (2017-2026),20230625.csv,origin,Fuqing,CNFQG,CNSWA,379
+CNFQG,Dataset (2017-2026),20230625.csv,origin,Fuqing,CNFQG,CNXMN,380
+CNFQG,Dataset (2017-2026),20230625.csv,origin,Fuqing,CNFQG,HKHKG,381
+CNFQG,Dataset (2017-2026),20230625.csv,origin,Fuqing,CNFQG,KRPUS,382
+CNFQG,Dataset (2017-2026),20230625.csv,destination,Fuqing,CNNGB,CNFQG,390
+CNFQG,Dataset (2017-2026),20230625.csv,destination,Fuqing,CNSWA,CNFQG,530
+USFPO,Dataset (2017-2026),20230625.csv,destination,Freeport TX,GTPBR,USFPO,1255
+USFPO,Dataset (2017-2026),20230625.csv,destination,Freeport TX,HNPCA,USFPO,1309
+USFPO,Dataset (2017-2026),20230625.csv,origin,Freeport TX,USFPO,USGPT,3043
+CNFQG,Dataset (2017-2026),20230625.csv,destination,Fuqing,USLAX,CNFQG,3084
+CNFQG,Dataset (2017-2026),20230924.csv,origin,Fuqing,CNFQG,CNSHK,372
+CNFQG,Dataset (2017-2026),20230924.csv,origin,Fuqing,CNFQG,CNXMN,373
+CNFQG,Dataset (2017-2026),20230924.csv,origin,Fuqing,CNFQG,HKHKG,374
+CNFQG,Dataset (2017-2026),20230924.csv,origin,Fuqing,CNFQG,KRPUS,375
+CNFQG,Dataset (2017-2026),20230924.csv,destination,Fuqing,CNNGB,CNFQG,383
+CNFQG,Dataset (2017-2026),20230924.csv,destination,Fuqing,CNSWA,CNFQG,521
+USFPO,Dataset (2017-2026),20230924.csv,destination,Freeport TX,GTPBR,USFPO,1271
+USFPO,Dataset (2017-2026),20230924.csv,destination,Freeport TX,HNPCA,USFPO,1327
+USFPO,Dataset (2017-2026),20230924.csv,origin,Freeport TX,USFPO,USGPT,3098
+CNFQG,Dataset (2017-2026),20230924.csv,destination,Fuqing,USLAX,CNFQG,3137
+CNFQG,Dataset (2017-2026),20231231.csv,origin,Fuqing,CNFQG,CNSHA,379
+CNFQG,Dataset (2017-2026),20231231.csv,origin,Fuqing,CNFQG,CNSHK,380
+CNFQG,Dataset (2017-2026),20231231.csv,origin,Fuqing,CNFQG,HKHKG,381
+CNFQG,Dataset (2017-2026),20231231.csv,origin,Fuqing,CNFQG,KRPUS,382
+CNFQG,Dataset (2017-2026),20231231.csv,destination,Fuqing,CNNGB,CNFQG,390
+CNFQG,Dataset (2017-2026),20231231.csv,destination,Fuqing,CNSWA,CNFQG,530
+USFPO,Dataset (2017-2026),20231231.csv,destination,Freeport TX,GTPBR,USFPO,1313
+USFPO,Dataset (2017-2026),20231231.csv,destination,Freeport TX,HNPCA,USFPO,1367
+CNFQG,Dataset (2017-2026),20231231.csv,destination,Fuqing,PHMNS,CNFQG,2569
+USFPO,Dataset (2017-2026),20231231.csv,origin,Freeport TX,USFPO,USGPT,3139
+CNFQG,Dataset (2017-2026),20240331.csv,origin,Fuqing,CNFQG,CNSHA,374
+CNFQG,Dataset (2017-2026),20240331.csv,origin,Fuqing,CNFQG,CNSHK,375
+CNFQG,Dataset (2017-2026),20240331.csv,origin,Fuqing,CNFQG,HKHKG,376
+CNFQG,Dataset (2017-2026),20240331.csv,origin,Fuqing,CNFQG,KRPUS,377
+CNFQG,Dataset (2017-2026),20240331.csv,origin,Fuqing,CNFQG,VNHPH,378
+CNFQG,Dataset (2017-2026),20240331.csv,destination,Fuqing,CNNGB,CNFQG,387
+CNFQG,Dataset (2017-2026),20240331.csv,destination,Fuqing,CNSWA,CNFQG,527
+USFPO,Dataset (2017-2026),20240331.csv,destination,Freeport TX,GTPBR,USFPO,1317
+USFPO,Dataset (2017-2026),20240331.csv,destination,Freeport TX,HNPCA,USFPO,1371
+CNFQG,Dataset (2017-2026),20240331.csv,destination,Fuqing,PHMNS,CNFQG,2549
+USFPO,Dataset (2017-2026),20240331.csv,origin,Freeport TX,USFPO,USGPT,3096
+CNFQG,Dataset (2017-2026),20240331.csv,destination,Fuqing,USLAX,CNFQG,3134
+CNFQG,Dataset (2017-2026),20240630.csv,origin,Fuqing,CNFQG,CNSHA,376
+CNFQG,Dataset (2017-2026),20240630.csv,origin,Fuqing,CNFQG,CNSHK,377
+CNFQG,Dataset (2017-2026),20240630.csv,origin,Fuqing,CNFQG,HKHKG,378
+CNFQG,Dataset (2017-2026),20240630.csv,origin,Fuqing,CNFQG,KRPUS,379
+CNFQG,Dataset (2017-2026),20240630.csv,destination,Fuqing,CNNGB,CNFQG,389
+CNFQG,Dataset (2017-2026),20240630.csv,destination,Fuqing,CNSWA,CNFQG,535
+USFPO,Dataset (2017-2026),20240630.csv,destination,Freeport TX,GTPBR,USFPO,1363
+USFPO,Dataset (2017-2026),20240630.csv,destination,Freeport TX,HNPCA,USFPO,1416
+CNFQG,Dataset (2017-2026),20240630.csv,destination,Fuqing,PHMNS,CNFQG,2658
+USFPO,Dataset (2017-2026),20240630.csv,origin,Freeport TX,USFPO,USGPT,3222
+CNFQG,Dataset (2017-2026),20240929.csv,origin,Fuqing,CNFQG,CNSHA,374
+CNFQG,Dataset (2017-2026),20240929.csv,origin,Fuqing,CNFQG,CNSHK,375
+CNFQG,Dataset (2017-2026),20240929.csv,origin,Fuqing,CNFQG,HKHKG,376
+CNFQG,Dataset (2017-2026),20240929.csv,origin,Fuqing,CNFQG,KRPUS,377
+CNFQG,Dataset (2017-2026),20240929.csv,destination,Fuqing,CNNGB,CNFQG,387
+CNFQG,Dataset (2017-2026),20240929.csv,destination,Fuqing,CNSWA,CNFQG,535
+USFPO,Dataset (2017-2026),20240929.csv,destination,Freeport TX,GTPBR,USFPO,1357
+USFPO,Dataset (2017-2026),20240929.csv,destination,Freeport TX,HNPCA,USFPO,1410
+CNFQG,Dataset (2017-2026),20240929.csv,destination,Fuqing,PHMNS,CNFQG,2639
+USFPO,Dataset (2017-2026),20240929.csv,origin,Freeport TX,USFPO,USGPT,3200
+CNFQG,Dataset (2017-2026),20241229.csv,origin,Fuqing,CNFQG,CNSHA,373
+CNFQG,Dataset (2017-2026),20241229.csv,origin,Fuqing,CNFQG,CNSHK,374
+CNFQG,Dataset (2017-2026),20241229.csv,origin,Fuqing,CNFQG,HKHKG,375
+CNFQG,Dataset (2017-2026),20241229.csv,origin,Fuqing,CNFQG,KRPUS,376
+CNFQG,Dataset (2017-2026),20241229.csv,destination,Fuqing,CNNGB,CNFQG,386
+CNFQG,Dataset (2017-2026),20241229.csv,destination,Fuqing,CNSWA,CNFQG,539
+USFPO,Dataset (2017-2026),20241229.csv,destination,Freeport TX,GTPBR,USFPO,1369
+USFPO,Dataset (2017-2026),20241229.csv,destination,Freeport TX,HNPCA,USFPO,1422
+CNFQG,Dataset (2017-2026),20241229.csv,destination,Fuqing,PHMNS,CNFQG,2681
+USFPO,Dataset (2017-2026),20241229.csv,origin,Freeport TX,USFPO,USGPT,3243
+CNFQG,Dataset (2017-2026),20250330.csv,origin,Fuqing,CNFQG,CNSHA,371
+CNFQG,Dataset (2017-2026),20250330.csv,origin,Fuqing,CNFQG,CNSHK,372
+CNFQG,Dataset (2017-2026),20250330.csv,origin,Fuqing,CNFQG,HKHKG,373
+CNFQG,Dataset (2017-2026),20250330.csv,origin,Fuqing,CNFQG,KRPUS,374
+CNFQG,Dataset (2017-2026),20250330.csv,destination,Fuqing,CNNGB,CNFQG,383
+CNFQG,Dataset (2017-2026),20250330.csv,destination,Fuqing,CNSWA,CNFQG,534
+USFPO,Dataset (2017-2026),20250330.csv,destination,Freeport TX,GTPBR,USFPO,1390
+USFPO,Dataset (2017-2026),20250330.csv,destination,Freeport TX,HNPCA,USFPO,1442
+CNFQG,Dataset (2017-2026),20250330.csv,destination,Fuqing,PHMNS,CNFQG,2713
+USFPO,Dataset (2017-2026),20250330.csv,origin,Freeport TX,USFPO,USGPT,3282
+CNFQG,Dataset (2017-2026),20250629.csv,origin,Fuqing,CNFQG,CNSHK,380
+CNFQG,Dataset (2017-2026),20250629.csv,origin,Fuqing,CNFQG,HKHKG,381
+CNFQG,Dataset (2017-2026),20250629.csv,origin,Fuqing,CNFQG,KRPUS,382
+CNFQG,Dataset (2017-2026),20250629.csv,destination,Fuqing,CNNGB,CNFQG,392
+CNFQG,Dataset (2017-2026),20250629.csv,destination,Fuqing,CNSWA,CNFQG,544
+USFPO,Dataset (2017-2026),20250629.csv,destination,Freeport TX,GTPBR,USFPO,1405
+USFPO,Dataset (2017-2026),20250629.csv,destination,Freeport TX,HNPCA,USFPO,1454
+USFPO,Dataset (2017-2026),20250629.csv,origin,Freeport TX,USFPO,USGPT,3259
+CNFQG,Dataset (2017-2026),20250928.csv,origin,Fuqing,CNFQG,CNSHK,394
+CNFQG,Dataset (2017-2026),20250928.csv,origin,Fuqing,CNFQG,HKHKG,395
+CNFQG,Dataset (2017-2026),20250928.csv,origin,Fuqing,CNFQG,KRPUS,396
+CNFQG,Dataset (2017-2026),20250928.csv,destination,Fuqing,CNNGB,CNFQG,408
+CNFQG,Dataset (2017-2026),20250928.csv,destination,Fuqing,CNSWA,CNFQG,567
+USFPO,Dataset (2017-2026),20250928.csv,destination,Freeport TX,GTPBR,USFPO,1438
+USFPO,Dataset (2017-2026),20250928.csv,destination,Freeport TX,HNPCA,USFPO,1488
+USFPO,Dataset (2017-2026),20250928.csv,origin,Freeport TX,USFPO,USGPT,3318
+CNFQG,Dataset (2017-2026),20251228.csv,origin,Fuqing,CNFQG,CNSHK,388
+CNFQG,Dataset (2017-2026),20251228.csv,origin,Fuqing,CNFQG,HKHKG,389
+CNFQG,Dataset (2017-2026),20251228.csv,origin,Fuqing,CNFQG,KRPUS,390
+CNFQG,Dataset (2017-2026),20251228.csv,destination,Fuqing,CNNGB,CNFQG,401
+CNFQG,Dataset (2017-2026),20251228.csv,destination,Fuqing,CNSWA,CNFQG,565
+USFPO,Dataset (2017-2026),20251228.csv,destination,Freeport TX,GTPBR,USFPO,1414
+USFPO,Dataset (2017-2026),20251228.csv,destination,Freeport TX,HNPCA,USFPO,1465
+USFPO,Dataset (2017-2026),20251228.csv,origin,Freeport TX,USFPO,USGPT,3279
+CNFQG,Dataset (2017-2026),20260329.csv,origin,Fuqing,CNFQG,CNSHK,382
+CNFQG,Dataset (2017-2026),20260329.csv,origin,Fuqing,CNFQG,HKHKG,383
+CNFQG,Dataset (2017-2026),20260329.csv,origin,Fuqing,CNFQG,KRPUS,384
+CNFQG,Dataset (2017-2026),20260329.csv,destination,Fuqing,CNNGB,CNFQG,397
+CNFQG,Dataset (2017-2026),20260329.csv,destination,Fuqing,CNSWA,CNFQG,560
+USFPO,Dataset (2017-2026),20260329.csv,destination,Freeport TX,HNPCA,USFPO,1469
+USFPO,Dataset (2017-2026),20260329.csv,origin,Freeport TX,USFPO,GTPBR,3309
+USFPO,Dataset (2017-2026),20260329.csv,origin,Freeport TX,USFPO,USGPT,3310
+USFPO,Dataset (2017-2026),20260329.csv,destination,Freeport TX,USGPT,USFPO,3313
+CNFQG,Dataset (2017-2026),20260628.csv,origin,Fuqing,CNFQG,CNSHK,384
+CNFQG,Dataset (2017-2026),20260628.csv,origin,Fuqing,CNFQG,HKHKG,385
+CNFQG,Dataset (2017-2026),20260628.csv,origin,Fuqing,CNFQG,KRPUS,386
+CNFQG,Dataset (2017-2026),20260628.csv,destination,Fuqing,CNNGB,CNFQG,397
+CNFQG,Dataset (2017-2026),20260628.csv,destination,Fuqing,CNSWA,CNFQG,564
+USFPO,Dataset (2017-2026),20260628.csv,destination,Freeport TX,HNPCA,USFPO,1491
+USFPO,Dataset (2017-2026),20260628.csv,origin,Freeport TX,USFPO,GTPBR,3329
+USFPO,Dataset (2017-2026),20260628.csv,origin,Freeport TX,USFPO,USGPT,3330
+USFPO,Dataset (2017-2026),20260628.csv,destination,Freeport TX,USGPT,USFPO,3333

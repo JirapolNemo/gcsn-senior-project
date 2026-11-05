@@ -54,6 +54,8 @@ def main():
                         "match_score": c["match_score"],
                         "match_ratio": c["match_ratio"],
                         "mismatch_columns": c["mismatch_columns"],
+                        "old_namea": c["old_namea"], "old_nameb": c["old_nameb"],   
+                        "new_namea": c["new_namea"], "new_nameb": c["new_nameb"],   
                         "code": "", "old_name": "", "new_name": "",
                     })
 
@@ -92,7 +94,7 @@ def main():
     if change_rows:
         out_path = Path("data/qa/port_changes.csv")
         fieldnames = ["quarter", "folder_a", "folder_b", "change_type",
-                      "old_origin", "old_destination", "new_origin", "new_destination",
+                      "old_origin", "old_namea", "old_destination", "old_nameb", "new_origin", "new_namea", "new_destination", "new_nameb",
                       "changed_side", "match_score", "match_ratio", "mismatch_columns",
                       "code", "old_name", "new_name"]
         with out_path.open("w", newline="", encoding="utf-8") as f:

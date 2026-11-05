@@ -304,6 +304,10 @@ def find_rename_candidates(path_a, path_b, numeric_tolerance=1e-9):
                 "match_ratio": round(ratio, 4),
                 "mismatch_columns": ", ".join(mismatch_cols),
                 "changed_side": "origin" if same_dest else "destination",
+                "old_namea": _cell(row_a, NAMEA_COL),   
+                "old_nameb": _cell(row_a, NAMEB_COL),   
+                "new_namea": _cell(row_b, NAMEA_COL),   
+                "new_nameb": _cell(row_b, NAMEB_COL),   
             })
             matched_removed_keys.add((o1, d1))
             matched_added_keys.add((o2, d2))

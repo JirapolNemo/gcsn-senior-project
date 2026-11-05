@@ -22,7 +22,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from cpci import Config, QuarterNetwork, discover_quarters, read_quarter  # noqa: E402
 from cpci import metrics as M  # noqa: E402
 from cpci.legacy_senior import legacy_quarter  # noqa: E402
-from cpci.ranking import rank_desc  # noqa: E402
+from cpci.ranking import monotonicity, rank_desc  # noqa: E402
 
 TOP_K = 20
 
@@ -112,19 +112,55 @@ def read_senior_table(path: Path, q: str, mapping) -> pd.DataFrame:
     return df.rename(columns=mapping)[[v for v in mapping.values() if v in df.rename(columns=mapping).columns]]
 
 
+# The senior's 7.Monotonicity/MONO.xlsx: one row per quarter ('name'), one column per measure.
+# {column in MONO.xlsx -> our mono column}.  The senior only stored these 9 (no C1..C5).
+SENIOR_MONO_FILE = ("7.Monotonicity", "MONO.xlsx")
+SENIOR_MONO = {
+    "Inrank": "Inbound", "Outrank": "Outbound", "degrank": "Degree",
+    "Indrank": "InDegree", "Outdrank": "OutDegree",
+    "closefromrank": "ClosenessFrom", "closetorank": "ClosenessTo",
+    "blinkrank": "BetweennessLink", "btimerank": "BetweennessTime",
+}
+
+
+def compare_mono(ours: dict, path: Path) -> pd.DataFrame:
+    """ours = {quarter: {column: monotonicity}}; compared with the senior's MONO.xlsx."""
+    old = pd.read_excel(path)
+    old["name"] = old["name"].astype(str).str.replace(r"\.0$", "", regex=True)
+    old = old.drop_duplicates("name", keep="last").set_index("name")
+    rows = []
+    for q, vals in ours.items():
+        if q not in old.index:
+            continue
+        for s_col, col in SENIOR_MONO.items():
+            if s_col in old.columns and col in vals:
+                s, o = float(old.at[q, s_col]), float(vals[col])
+                rows.append({"quarter": q, "column": col, "ours": o, "senior": s, "abs_diff": abs(o - s)})
+    return pd.DataFrame(rows)
+
+
+def summarize_mono(res: pd.DataFrame, tol: float = 1e-9) -> pd.DataFrame:
+    g = res.groupby("column", sort=False)
+    return pd.DataFrame({
+        "max_abs_diff": g["abs_diff"].max(),
+        "quarters_diff_gt_%g" % tol: g["abs_diff"].apply(lambda s: int((s > tol).sum())),
+        "quarters": g["quarter"].nunique(),
+    })
+
+
 def run_senior(cfg: Config, senior_dir: Path, names, first, last, out_dir: Path):
     files = [f for f in discover_quarters(cfg, first, last) if f.folder == cfg.source_rules[0][0]]
-    rows, missing = [], []
+    rows, missing, mono_ours = [], [], {}
     for f in files:
-        net = None
+        net = QuarterNetwork(read_quarter(f.path), f.quarter, cfg.time_column)
+        mine = M.compute(net, names)
+        # monotonicity of our ranks, for the comparison with MONO.xlsx below
+        mono_ours[f.quarter] = {c: monotonicity(rank_desc(mine[c])) for c in SENIOR_MONO.values() if c in mine.columns}
         for sub, pat, mapping in SENIOR_FILES:
             p = senior_dir / sub / pat.format(q=f.quarter)
             if not p.exists():
                 missing.append(str(p))
                 continue
-            if net is None:
-                net = QuarterNetwork(read_quarter(f.path), f.quarter, cfg.time_column)
-                mine = M.compute(net, names)
             old = read_senior_table(p, f.quarter, mapping)
             for r in compare_frames(mine, old, list(old.columns)):
                 r["quarter"] = f.quarter
@@ -134,7 +170,16 @@ def run_senior(cfg: Config, senior_dir: Path, names, first, last, out_dir: Path)
     out_dir.mkdir(parents=True, exist_ok=True)
     if len(res):
         res.to_csv(out_dir / "cpci_validation_senior.csv", index=False)
-    return res, missing
+
+    mono_res = pd.DataFrame()
+    mono_path = senior_dir.joinpath(*SENIOR_MONO_FILE)
+    if mono_path.exists():
+        mono_res = compare_mono(mono_ours, mono_path)
+        if len(mono_res):
+            mono_res.to_csv(out_dir / "cpci_validation_senior_mono.csv", index=False)
+    else:
+        missing.append(str(mono_path))
+    return res, missing, mono_res
 
 
 def main():
@@ -160,10 +205,13 @@ def main():
     else:
         if not a.senior_dir:
             ap.error("--senior-dir is required for mode 'senior'")
-        res, missing = run_senior(cfg, Path(a.senior_dir), names, a.first, a.last, cfg.qa_dir)
+        res, missing, mono_res = run_senior(cfg, Path(a.senior_dir), names, a.first, a.last, cfg.qa_dir)
         if len(res):
             print("\nWorst case over quarters (new pipeline vs senior's saved results):")
             print(summarize(res).to_string(float_format=lambda v: "%.3g" % v))
+        if len(mono_res):
+            print("\nMonotonicity vs senior's 7.Monotonicity/MONO.xlsx (worst case over quarters):")
+            print(summarize_mono(mono_res).to_string(float_format=lambda v: "%.3g" % v))
         if missing:
             print("\n%d expected senior files not found, e.g.:" % len(missing))
             for m in missing[:5]:

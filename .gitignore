@@ -11,3 +11,4 @@ venv/
 data/.DS_Store
 gcsn-venv/
 data/processed/
+data/senior/
